@@ -1,0 +1,2069 @@
+{
+  "reportId": "daily_20261005",
+  "date": "2026-10-05",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-10-05T05:25:46.747568+08:00",
+  "status": "ok",
+  "warnings": [],
+  "sections": [
+    {
+      "beat": "INTL",
+      "title": "國際大事",
+      "emoji": "🌍",
+      "items": [
+        {
+          "event_id": "daily_20261005_evt_008",
+          "headline": "巴西大選倒數日",
+          "context": "巴西總統大選只剩最後一天造勢，現任總統魯拉（Lula）與對手小波索納洛（Flávio Bolsonaro）都在做最後衝刺。民調顯示雙方選情緊咬，當地媒體也訪問到不少還沒決定投給誰的選民，他們說兩個候選人都不是理想選項。",
+          "beat": "INTL",
+          "thread_text": "巴西大選倒數日\n\n巴西總統大選只剩最後一天造勢，現任總統魯拉（Lula）與對手小波索納洛（Flávio Bolsonaro）都在做最後衝刺。民調顯示雙方選情緊咬，當地媒體也訪問到不少還沒決定投給誰的選民，他們說兩個候選人都不是理想選項。\n\n—— 本則整理自NPR與BBC 2026 年 10 月 4 至 5 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "巴西大選倒數日\n\n巴西總統大選只剩最後一天造勢，現任總統魯拉（Lula）與對手小波索納洛（Flávio Bolsonaro）都在做最後衝刺。民調顯示雙方選情緊咬，當地媒體也訪問到不少還沒決定投給誰的選民，他們說兩個候選人都不是理想選項。\n\n本則整理自NPR與BBC於 2026 年 10 月 4 至 5 日發佈的報導。",
+          "voice_text": "巴西總統大選只剩最後一天衝刺。現任總統魯拉與對手小波索納洛，都在做最後拉票。民調顯示雙方選情緊咬，不少選民受訪時說，兩個候選人他們都不想選。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "巴西大選倒數日\n\n巴西總統大選只剩最後一天造勢，現任總統魯拉（Lula）與對手小波索納洛（Flávio Bolsonaro）都在做最後衝刺。民調顯示雙方選情緊咬，當地媒體也訪問到不少還沒決定投給誰的選民，他們說兩個候選人都不是理想選項。\n\n—— 本則整理自NPR與BBC 2026 年 10 月 4 至 5 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "巴西大選倒數日\n\n巴西總統大選只剩最後一天造勢，現任總統魯拉（Lula）與對手小波索納洛（Flávio Bolsonaro）都在做最後衝刺。民調顯示雙方選情緊咬，當地媒體也訪問到不少還沒決定投給誰的選民，他們說兩個候選人都不是理想選項。\n\n本則整理自NPR與BBC於 2026 年 10 月 4 至 5 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "巴西總統大選只剩最後一天衝刺。現任總統魯拉與對手小波索納洛，都在做最後拉票。民調顯示雙方選情緊咬，不少選民受訪時說，兩個候選人他們都不想選。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "npr_world",
+              "name": "NPR",
+              "publisher": "NPR",
+              "summary": "Brazil's election enters its final day of campaigning as Lula and Flávio Bolsonaro make their last pitches to voters. Brazilians explain what worries them, and why some still can't choose.",
+              "title": "Lula or Bolsonaro? Some Brazilian voters say they don't want either",
+              "url": "https://www.npr.org/2026/10/03/nx-s1-5981108/lula-or-bolsonaro-some-brazilian-voters-say-they-dont-want-either",
+              "published_at": "2026-10-04T05:57:29+08:00"
+            },
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+              "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+              "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-10-05T04:14:49+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "巴西總統大選進入最後一天造勢，魯拉與小波索納洛做最後衝刺，部分選民表示兩人都不是他們想要的選擇。",
+              "source_id": "npr_world",
+              "support_type": "direct",
+              "source_url": "https://www.npr.org/2026/10/03/nx-s1-5981108/lula-or-bolsonaro-some-brazilian-voters-say-they-dont-want-either",
+              "source_title": "Lula or Bolsonaro? Some Brazilian voters say they don't want either"
+            },
+            {
+              "claim": "民調顯示，左翼現任總統魯拉與右翼對手小波索納洛選情緊咬。",
+              "source_id": "bbc_world",
+              "support_type": "direct",
+              "source_url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+              "source_title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 78,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2; major_geopolitical_event"
+        },
+        {
+          "event_id": "daily_20261005_evt_033",
+          "headline": "梅爾茨訪基輔宣布軍援",
+          "context": "德國總理梅爾茨（Friedrich Merz）突訪烏克蘭基輔，宣布提供 15 億美元的軍事與重建援助，並表示德國不會被嚇退。他也喊話俄羅斯總統普亭（Putin），要求儘速結束這場戰爭。",
+          "beat": "INTL",
+          "thread_text": "梅爾茨訪基輔宣布軍援\n\n德國總理梅爾茨（Friedrich Merz）突訪烏克蘭基輔，宣布提供 15 億美元的軍事與重建援助，並表示德國不會被嚇退。他也喊話俄羅斯總統普亭（Putin），要求儘速結束這場戰爭。\n\n—— 本則整理自路透社與半島電視台 2026 年 10 月 4 至 5 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "梅爾茨訪基輔宣布軍援\n\n德國總理梅爾茨（Friedrich Merz）突訪烏克蘭基輔，宣布提供 15 億美元的軍事與重建援助，並表示德國不會被嚇退。他也喊話俄羅斯總統普亭（Putin），要求儘速結束這場戰爭。\n\n本則整理自路透社與半島電視台於 2026 年 10 月 4 至 5 日發佈的報導。",
+          "voice_text": "德國總理梅爾茨突訪基輔，宣布提供 15 億美元的軍事與重建援助——大概是新台幣四百七十億。他說，德國不會被嚇退，也喊話俄羅斯總統普亭，要求儘速結束這場戰爭。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "梅爾茨訪基輔宣布軍援\n\n德國總理梅爾茨（Friedrich Merz）突訪烏克蘭基輔，宣布提供 15 億美元的軍事與重建援助，並表示德國不會被嚇退。他也喊話俄羅斯總統普亭（Putin），要求儘速結束這場戰爭。\n\n—— 本則整理自路透社與半島電視台 2026 年 10 月 4 至 5 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "梅爾茨訪基輔宣布軍援\n\n德國總理梅爾茨（Friedrich Merz）突訪烏克蘭基輔，宣布提供 15 億美元的軍事與重建援助，並表示德國不會被嚇退。他也喊話俄羅斯總統普亭（Putin），要求儘速結束這場戰爭。\n\n本則整理自路透社與半島電視台於 2026 年 10 月 4 至 5 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "德國總理梅爾茨突訪基輔，宣布提供 15 億美元的軍事與重建援助——大概是新台幣四百七十億。他說，德國不會被嚇退，也喊話俄羅斯總統普亭，要求儘速結束這場戰爭。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Merz unveils fresh military aid in Kyiv, says Germany won't be intimidated Reuters",
+              "title": "Merz unveils fresh military aid in Kyiv, says Germany won't be intimidated - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZE5uMWs0WVBmQnlBRXQ4Wk9IdU1jOEthZ0pQU1p4bUVTZzNOUi15YnBUMTVyZUNRaW9wVE5PQjhCbkRzSUZneHVPODY2STRpNV94c3dpNmUyckh3WU1WS1d0Z2lPX2xDOTBHVERPcU5KMElxanNCVDQ0cTFjS3FYZFU0UnAwUmdxSS1ad1d4QjBmQ0IwdHNFMk5aSm83MWFKM2lfZl9RWW5wY1k?oc=5",
+              "published_at": "2026-10-04T12:53:00+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid",
+              "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
+              "published_at": "2026-10-05T00:38:45+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "德國總理梅爾茨突訪基輔，宣布提供新一輪軍事援助，並表示德國不會被嚇退。",
+              "source_id": "reuters_world_google_news",
+              "support_type": "direct",
+              "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZE5uMWs0WVBmQnlBRXQ4Wk9IdU1jOEthZ0pQU1p4bUVTZzNOUi15YnBUMTVyZUNRaW9wVE5PQjhCbkRzSUZneHVPODY2STRpNV94c3dpNmUyckh3WU1WS1d0Z2lPX2xDOTBHVERPcU5KMElxanNCVDQ0cTFjS3FYZFU0UnAwUmdxSS1ad1d4QjBmQ0IwdHNFMk5aSm83MWFKM2lfZl9RWW5wY1k?oc=5",
+              "source_title": "Merz unveils fresh military aid in Kyiv, says Germany won't be intimidated - Reuters"
+            },
+            {
+              "claim": "梅爾茨在基輔宣布15億美元的軍事與重建援助，並喊話普亭儘速結束戰爭。",
+              "source_id": "aljazeera_all",
+              "support_type": "direct",
+              "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss",
+              "source_title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261005_evt_028",
+          "headline": "美東外海尋獲醫療機殘骸",
+          "context": "美國一架失聯的醫療專機，疑似在麻薩諸塞州南塔克特（Nantucket）附近海域尋獲殘骸。飛行資料顯示，飛機先是大幅下降高度，隨後與塔台失去聯繫。美國海岸防衛隊表示，這批殘骸可能就來自這架飛機。",
+          "beat": "INTL",
+          "thread_text": "美東外海尋獲醫療機殘骸\n\n美國一架失聯的醫療專機，疑似在麻薩諸塞州南塔克特（Nantucket）附近海域尋獲殘骸。飛行資料顯示，飛機先是大幅下降高度，隨後與塔台失去聯繫。美國海岸防衛隊表示，這批殘骸可能就來自這架飛機。\n\n—— 本則整理自BBC與半島電視台 2026 年 10 月 4 至 5 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "美東外海尋獲醫療機殘骸\n\n美國一架失聯的醫療專機，疑似在麻薩諸塞州南塔克特（Nantucket）附近海域尋獲殘骸。飛行資料顯示，飛機先是大幅下降高度，隨後與塔台失去聯繫。美國海岸防衛隊表示，這批殘骸可能就來自這架飛機。\n\n本則整理自BBC與半島電視台於 2026 年 10 月 4 至 5 日發佈的報導。",
+          "voice_text": "美國東岸外海，一架失聯的醫療專機疑似已經找到殘骸。飛行資料顯示，這架飛機先大幅下降高度，接著就跟塔台失去聯繫。美國海岸防衛隊說，在南塔克特附近海域發現的這批殘骸，可能就來自這架飛機。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美東外海尋獲醫療機殘骸\n\n美國一架失聯的醫療專機，疑似在麻薩諸塞州南塔克特（Nantucket）附近海域尋獲殘骸。飛行資料顯示，飛機先是大幅下降高度，隨後與塔台失去聯繫。美國海岸防衛隊表示，這批殘骸可能就來自這架飛機。\n\n—— 本則整理自BBC與半島電視台 2026 年 10 月 4 至 5 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "美東外海尋獲醫療機殘骸\n\n美國一架失聯的醫療專機，疑似在麻薩諸塞州南塔克特（Nantucket）附近海域尋獲殘骸。飛行資料顯示，飛機先是大幅下降高度，隨後與塔台失去聯繫。美國海岸防衛隊表示，這批殘骸可能就來自這架飛機。\n\n本則整理自BBC與半島電視台於 2026 年 10 月 4 至 5 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "美國東岸外海，一架失聯的醫療專機疑似已經找到殘骸。飛行資料顯示，這架飛機先大幅下降高度，接著就跟塔台失去聯繫。美國海岸防衛隊說，在南塔克特附近海域發現的這批殘骸，可能就來自這架飛機。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+              "title": "Debris found from plane that went missing off US coast",
+              "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-10-04T11:49:06+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "The US Coast Guard says a field of debris found near Nantucket is believed to be from an emergency medical plane.",
+              "title": "Debris found near Nantucket believed to be from missing medical plane",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss",
+              "published_at": "2026-10-05T04:21:09+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "一架飛機在高度大幅下降後與塔台失去聯繫，隨後被列為在美國海岸外失聯。",
+              "source_id": "bbc_world",
+              "support_type": "direct",
+              "source_url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+              "source_title": "Debris found from plane that went missing off US coast"
+            },
+            {
+              "claim": "美國海岸防衛隊表示，在南塔克特（Nantucket）附近海域發現的殘骸，可能來自這架失聯的醫療專機。",
+              "source_id": "aljazeera_all",
+              "support_type": "direct",
+              "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss",
+              "source_title": "Debris found near Nantucket believed to be from missing medical plane"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261005_evt_112",
+          "headline": "沖繩殺人案美軍遭捕",
+          "context": "日本沖繩發生一起女性遇害案，警方逮捕了一名美軍陸戰隊隊員，涉嫌強盜殺人。日本政府向美方提出正式抗議，要求軍方採取行動，美國大使也承諾全力配合調查。",
+          "beat": "INTL",
+          "thread_text": "沖繩殺人案美軍遭捕\n\n日本沖繩發生一起女性遇害案，警方逮捕了一名美軍陸戰隊隊員，涉嫌強盜殺人。日本政府向美方提出正式抗議，要求軍方採取行動，美國大使也承諾全力配合調查。\n\n—— 本則整理自BBC、NPR與半島電視台 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "沖繩殺人案美軍遭捕\n\n日本沖繩發生一起女性遇害案，警方逮捕了一名美軍陸戰隊隊員，涉嫌強盜殺人。日本政府向美方提出正式抗議，要求軍方採取行動，美國大使也承諾全力配合調查。\n\n本則整理自BBC、NPR與半島電視台於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "日本沖繩有一名女性遇害，警方逮捕了一名美軍陸戰隊隊員，涉嫌強盜殺人。日本政府向美方提出正式抗議，要求軍方採取行動。美國大使則表示，會全力配合這次調查。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "沖繩殺人案美軍遭捕\n\n日本沖繩發生一起女性遇害案，警方逮捕了一名美軍陸戰隊隊員，涉嫌強盜殺人。日本政府向美方提出正式抗議，要求軍方採取行動，美國大使也承諾全力配合調查。\n\n—— 本則整理自BBC、NPR與半島電視台 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "沖繩殺人案美軍遭捕\n\n日本沖繩發生一起女性遇害案，警方逮捕了一名美軍陸戰隊隊員，涉嫌強盜殺人。日本政府向美方提出正式抗議，要求軍方採取行動，美國大使也承諾全力配合調查。\n\n本則整理自BBC、NPR與半島電視台於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "日本沖繩有一名女性遇害，警方逮捕了一名美軍陸戰隊隊員，涉嫌強盜殺人。日本政府向美方提出正式抗議，要求軍方採取行動。美國大使則表示，會全力配合這次調查。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
+              "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+              "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-10-04T22:36:57+08:00"
+            },
+            {
+              "source_id": "npr_world",
+              "name": "NPR",
+              "publisher": "NPR",
+              "summary": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday.",
+              "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+              "url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+              "published_at": "2026-10-04T23:15:09+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "Ambassador vows cooperation as Japan protests after a US marine’s arrest in connection to Okinawa murder case.",
+              "title": "Japan summons US envoy as marine arrested over Okinawa murder",
+              "url": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
+              "published_at": "2026-10-04T23:45:04+08:00"
+            }
+          ],
+          "source_count": 3,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "日本沖繩女性遇害案，警方逮捕一名美軍陸戰隊隊員，日本政府向美方提出正式抗議並要求軍方採取行動。",
+              "source_id": "bbc_world",
+              "support_type": "direct",
+              "source_url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+              "source_title": "US Marine arrested over murder of woman in Okinawa, Japan"
+            },
+            {
+              "claim": "日本警方因沖繩一名女性遭搶劫殺害，逮捕一名美軍陸戰隊隊員。",
+              "source_id": "npr_world",
+              "support_type": "direct",
+              "source_url": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+              "source_title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan"
+            },
+            {
+              "claim": "日本因陸戰隊員涉嫌沖繩殺人案召見美國大使，大使承諾全力配合調查。",
+              "source_id": "aljazeera_all",
+              "support_type": "direct",
+              "source_url": "https://www.aljazeera.com/news/2026/10/4/japan-summons-us-envoy-as-marine-arrested-over-okinawa-murder?traffic_source=rss",
+              "source_title": "Japan summons US envoy as marine arrested over Okinawa murder"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261005_evt_048",
+          "headline": "澳洲追查副機師背景",
+          "context": "杜拜航空（Flydubai）一架飛往以色列的班機上，副機師之前企圖奪下班機控制權。澳洲警方與情報機構，現在加入調查，追查這名副機師與澳洲之間的關聯。",
+          "beat": "INTL",
+          "thread_text": "澳洲追查副機師背景\n\n杜拜航空（Flydubai）一架飛往以色列的班機上，副機師之前企圖奪下班機控制權。澳洲警方與情報機構，現在加入調查，追查這名副機師與澳洲之間的關聯。\n\n—— 本則整理自BBC、路透社與半島電視台 2026 年 10 月 4 至 5 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "澳洲追查副機師背景\n\n杜拜航空（Flydubai）一架飛往以色列的班機上，副機師之前企圖奪下班機控制權。澳洲警方與情報機構，現在加入調查，追查這名副機師與澳洲之間的關聯。\n\n本則整理自BBC、路透社與半島電視台於 2026 年 10 月 4 至 5 日發佈的報導。",
+          "voice_text": "杜拜航空那起副機師奪機事件，現在多了澳洲警方介入。這架飛往以色列的班機上，副機師之前企圖奪下控制權。澳洲警方與情報機構，現在加入調查，追查他跟澳洲之間的關聯。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "澳洲追查副機師背景\n\n杜拜航空（Flydubai）一架飛往以色列的班機上，副機師之前企圖奪下班機控制權。澳洲警方與情報機構，現在加入調查，追查這名副機師與澳洲之間的關聯。\n\n—— 本則整理自BBC、路透社與半島電視台 2026 年 10 月 4 至 5 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "澳洲追查副機師背景\n\n杜拜航空（Flydubai）一架飛往以色列的班機上，副機師之前企圖奪下班機控制權。澳洲警方與情報機構，現在加入調查，追查這名副機師與澳洲之間的關聯。\n\n本則整理自BBC、路透社與半島電視台於 2026 年 10 月 4 至 5 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "杜拜航空那起副機師奪機事件，現在多了澳洲警方介入。這架飛往以色列的班機上，副機師之前企圖奪下控制權。澳洲警方與情報機構，現在加入調查，追查他跟澳洲之間的關聯。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+              "title": "Australia investigating Flydubai co-pilot's links to country",
+              "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-10-04T14:19:17+08:00"
+            },
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Australia probes flydubai co-pilot's links to the country, police say Reuters",
+              "title": "Australia probes flydubai co-pilot's links to the country, police say - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHk0NnhtSzljVk9RcUlKeF90V3VFaEh4NG9ITDZSdmsxX2o0bFFYWUdiWUhrQ0FzSFVlaGxBYW1McU1GdHBNWURXRTJNNkZpQ3I5Vmx2bGdXcmVCUGpFZ0RUdjJsZnNwMWJhdERPd2dndnZJNDB6cjBfcExGZ3BYd0xtQ1JoUDRMMzZoQVNURWlabXNtRjdFV3l6UFhjVTAzeG1GUTBoZ3k3dw?oc=5",
+              "published_at": "2026-10-05T00:54:13+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "Australian police and intelligence join the list of those probing the incident.",
+              "title": "Police investigating Flydubai co-pilot’s Australia ties",
+              "url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+              "published_at": "2026-10-05T01:53:34+08:00"
+            }
+          ],
+          "source_count": 3,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "澳洲州警與國安情報機構，正在調查涉入杜拜航空飛以色列班機奪機未遂事件的副機師與澳洲的關聯。",
+              "source_id": "bbc_world",
+              "support_type": "direct",
+              "source_url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+              "source_title": "Australia investigating Flydubai co-pilot's links to country"
+            },
+            {
+              "claim": "路透社報導，澳洲警方正調查這名杜拜航空副機師與澳洲的關聯。",
+              "source_id": "reuters_world_google_news",
+              "support_type": "direct",
+              "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHk0NnhtSzljVk9RcUlKeF90V3VFaEh4NG9ITDZSdmsxX2o0bFFYWUdiWUhrQ0FzSFVlaGxBYW1McU1GdHBNWURXRTJNNkZpQ3I5Vmx2bGdXcmVCUGpFZ0RUdjJsZnNwMWJhdERPd2dndnZJNDB6cjBfcExGZ3BYd0xtQ1JoUDRMMzZoQVNURWlabXNtRjdFV3l6UFhjVTAzeG1GUTBoZ3k3dw?oc=5",
+              "source_title": "Australia probes flydubai co-pilot's links to the country, police say - Reuters"
+            },
+            {
+              "claim": "澳洲警方與情報機構已加入調查這起奪機未遂事件的機構名單。",
+              "source_id": "aljazeera_all",
+              "support_type": "direct",
+              "source_url": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss",
+              "source_title": "Police investigating Flydubai co-pilot’s Australia ties"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        }
+      ]
+    },
+    {
+      "beat": "ARTS",
+      "title": "八大藝術",
+      "emoji": "🎭",
+      "items": [
+        {
+          "event_id": "daily_20261005_evt_036",
+          "headline": "俄攻擊威脅烏克蘭出版業",
+          "context": "2022 年俄羅斯入侵之後，烏克蘭曾出現一波出版業成長潮，如今卻因俄軍攻擊的規模與頻率升高而面臨威脅。今年八月一個週六上午，出版社 Ranok 的共同創辦人兼執行長維克多．庫魯格洛夫（Viktor Kruglov），正在烏克蘭東部城市哈爾科夫（Kharkiv）的總部，和五名高層同事一起盤點即將到來的開學季，當時倉庫裡存放著 62.8 萬本新課本。",
+          "beat": "ARTS",
+          "thread_text": "俄攻擊威脅烏克蘭出版業\n\n2022 年俄羅斯入侵之後，烏克蘭曾出現一波出版業成長潮，如今卻因俄軍攻擊的規模與頻率升高而面臨威脅。今年八月一個週六上午，出版社 Ranok 的共同創辦人兼執行長維克多．庫魯格洛夫（Viktor Kruglov），正在烏克蘭東部城市哈爾科夫（Kharkiv）的總部，和五名高層同事一起盤點即將到來的開學季，當時倉庫裡存放著 62.8 萬本新課本。\n\n—— 本則來自衛報 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "俄攻擊威脅烏克蘭出版業\n\n2022 年俄羅斯入侵之後，烏克蘭曾出現一波出版業成長潮，如今卻因俄軍攻擊的規模與頻率升高而面臨威脅。今年八月一個週六上午，出版社 Ranok 的共同創辦人兼執行長維克多．庫魯格洛夫（Viktor Kruglov），正在烏克蘭東部城市哈爾科夫（Kharkiv）的總部，和五名高層同事一起盤點即將到來的開學季，當時倉庫裡存放著 62.8 萬本新課本。\n\n本則來自衛報於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "烏克蘭的出版業，正面臨俄羅斯攻擊的威脅。2022 年俄羅斯入侵之後，這個產業曾經出現一波成長潮，如今卻因為俄軍攻擊的規模與頻率升高而受到衝擊。今年八月一個週六上午，出版社 Ranok 的執行長維克多，正在烏克蘭東部城市哈爾科夫的總部，和同事一起盤點即將到來的開學季，當時倉庫裡存放著 62.8 萬本新課本。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "俄攻擊威脅烏克蘭出版業\n\n2022 年俄羅斯入侵之後，烏克蘭曾出現一波出版業成長潮，如今卻因俄軍攻擊的規模與頻率升高而面臨威脅。今年八月一個週六上午，出版社 Ranok 的共同創辦人兼執行長維克多．庫魯格洛夫（Viktor Kruglov），正在烏克蘭東部城市哈爾科夫（Kharkiv）的總部，和五名高層同事一起盤點即將到來的開學季，當時倉庫裡存放著 62.8 萬本新課本。\n\n—— 本則來自衛報 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "俄攻擊威脅烏克蘭出版業\n\n2022 年俄羅斯入侵之後，烏克蘭曾出現一波出版業成長潮，如今卻因俄軍攻擊的規模與頻率升高而面臨威脅。今年八月一個週六上午，出版社 Ranok 的共同創辦人兼執行長維克多．庫魯格洛夫（Viktor Kruglov），正在烏克蘭東部城市哈爾科夫（Kharkiv）的總部，和五名高層同事一起盤點即將到來的開學季，當時倉庫裡存放著 62.8 萬本新課本。\n\n本則來自衛報於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "烏克蘭的出版業，正面臨俄羅斯攻擊的威脅。2022 年俄羅斯入侵之後，這個產業曾經出現一波成長潮，如今卻因為俄軍攻擊的規模與頻率升高而受到衝擊。今年八月一個週六上午，出版社 Ranok 的執行長維克多，正在烏克蘭東部城市哈爾科夫的總部，和同事一起盤點即將到來的開學季，當時倉庫裡存放著 62.8 萬本新課本。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_books",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "A Ukrainian publishing boom sparked by the 2022 invasion is now under threat from the force and frequency of Russian attacks On a Saturday morning in August, Viktor Kruglov, the co-founder and chief executive of the publisher Ranok, was at his headquarters in Kharkiv – the eastern Ukrainian city that, along with Kyiv, is the centre of the country’s publishing and printing industry. Built 15 years ago on the site of a former bread factory, the footprint of the premises is about 10,000 sq metres (107,640ft). Books were stacked 12 metres high on rank after rank of shelves. Kruglov, along with five senior colleagues, were on the warehouse floor to discuss the approaching school year. The warehouse was holding 628,000 new schoolbooks. “It was the high season of distribution,” he said, “so we were checking all our processes: how to do it more successfully, how to do it in time.” Continue reading...",
+              "title": "Incinerated novels and destroyed warehouses: Russia’s war on Ukrainian books",
+              "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+              "published_at": "2026-10-04T13:00:20+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "標題指出俄羅斯的攻擊造成烏克蘭小說被焚毀、出版倉庫遭摧毀，2022年入侵後出現的出版業成長潮正受到威脅。",
+              "source_id": "guardian_books",
+              "support_type": "direct",
+              "source_url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+              "source_title": "Incinerated novels and destroyed warehouses: Russia’s war on Ukrainian books"
+            },
+            {
+              "claim": "出版社Ranok的共同創辦人兼執行長維克多．庫魯格洛夫，今年八月一個週六上午，與五名高層同事在哈爾科夫總部盤點開學季，倉庫當時存放62.8萬本新課本。",
+              "source_id": "guardian_books",
+              "support_type": "direct",
+              "source_url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+              "source_title": "Incinerated novels and destroyed warehouses: Russia’s war on Ukrainian books"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "文學",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261005_evt_002",
+          "headline": "華盛頓號水兵戰時生活",
+          "context": "美國喬治華盛頓號（USS George Washington）航空母艦，目前在荷姆茲海峽（Strait of Hormuz）附近，執行針對伊朗目標的軍事行動。衛報用一組照片，記錄船上年輕水兵適應戰時生活的樣子。",
+          "beat": "ARTS",
+          "thread_text": "華盛頓號水兵戰時生活\n\n美國喬治華盛頓號（USS George Washington）航空母艦，目前在荷姆茲海峽（Strait of Hormuz）附近，執行針對伊朗目標的軍事行動。衛報用一組照片，記錄船上年輕水兵適應戰時生活的樣子。\n\n—— 本則來自衛報 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "華盛頓號水兵戰時生活\n\n美國喬治華盛頓號（USS George Washington）航空母艦，目前在荷姆茲海峽（Strait of Hormuz）附近，執行針對伊朗目標的軍事行動。衛報用一組照片，記錄船上年輕水兵適應戰時生活的樣子。\n\n本則來自衛報於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "美國喬治華盛頓號航空母艦，現在在荷姆茲海峽附近，執行針對伊朗目標的軍事行動。船上有一組照片，記錄這些年輕水兵，怎麼適應戰時的生活。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "華盛頓號水兵戰時生活\n\n美國喬治華盛頓號（USS George Washington）航空母艦，目前在荷姆茲海峽（Strait of Hormuz）附近，執行針對伊朗目標的軍事行動。衛報用一組照片，記錄船上年輕水兵適應戰時生活的樣子。\n\n—— 本則來自衛報 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "華盛頓號水兵戰時生活\n\n美國喬治華盛頓號（USS George Washington）航空母艦，目前在荷姆茲海峽（Strait of Hormuz）附近，執行針對伊朗目標的軍事行動。衛報用一組照片，記錄船上年輕水兵適應戰時生活的樣子。\n\n本則來自衛報於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "美國喬治華盛頓號航空母艦，現在在荷姆茲海峽附近，執行針對伊朗目標的軍事行動。船上有一組照片，記錄這些年輕水兵，怎麼適應戰時的生活。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_art_design",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Life onboard the aircraft carrier near the strait of Hormuz as it conducts military operations against Iranian targets Continue reading...",
+              "title": "Young sailors on the USS George Washington adjust to life at war – in pictures",
+              "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/03/uss-george-washington-strait-of-hormuz-in-pictures",
+              "published_at": "2026-10-04T02:34:35+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "喬治華盛頓號航空母艦在荷姆茲海峽附近，執行針對伊朗目標的軍事行動，船上年輕水兵正在適應戰時生活。",
+              "source_id": "guardian_art_design",
+              "support_type": "direct",
+              "source_url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/03/uss-george-washington-strait-of-hormuz-in-pictures",
+              "source_title": "Young sailors on the USS George Washington adjust to life at war – in pictures"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "視覺藝術",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261005_evt_021",
+          "headline": "新片重現1980氣候會議",
+          "context": "紐約影展最新上映的《A Statement》，是一部以 1980 年一場氣候會議為背景的劇情片，由保羅．路德（Paul Rudd）、保羅．吉亞瑪提（Paul Giamatti）與塔蒂安娜．瑪斯蘭妮（Tatiana Maslany）主演。故事講的是雷根當選總統前幾天，國會召集 20 位專家到佛羅里達一間海邊飯店，要在 36 小時內討論出對抗氣候變遷的建議。這是一篇影評——衛報形容這部片是一部出色的氣候變遷正劇喜劇。",
+          "beat": "ARTS",
+          "thread_text": "新片重現1980氣候會議\n\n紐約影展最新上映的《A Statement》，是一部以 1980 年一場氣候會議為背景的劇情片，由保羅．路德（Paul Rudd）、保羅．吉亞瑪提（Paul Giamatti）與塔蒂安娜．瑪斯蘭妮（Tatiana Maslany）主演。故事講的是雷根當選總統前幾天，國會召集 20 位專家到佛羅里達一間海邊飯店，要在 36 小時內討論出對抗氣候變遷的建議。這是一篇影評——衛報形容這部片是一部出色的氣候變遷正劇喜劇。\n\n—— 本則來自衛報 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "新片重現1980氣候會議\n\n紐約影展最新上映的《A Statement》，是一部以 1980 年一場氣候會議為背景的劇情片，由保羅．路德（Paul Rudd）、保羅．吉亞瑪提（Paul Giamatti）與塔蒂安娜．瑪斯蘭妮（Tatiana Maslany）主演。故事講的是雷根當選總統前幾天，國會召集 20 位專家到佛羅里達一間海邊飯店，要在 36 小時內討論出對抗氣候變遷的建議。這是一篇影評——衛報形容這部片是一部出色的氣候變遷正劇喜劇。\n\n本則來自衛報於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "紐約影展有一部新片，把 1980 年一場氣候會議搬上大銀幕。《A Statement》由保羅．路德、保羅．吉亞瑪提與塔蒂安娜．瑪斯蘭妮主演，講的是雷根當選總統前幾天，國會召集 20 位專家到佛羅里達一間海邊飯店，要在 36 小時內討論出對抗氣候變遷的建議。這是一篇評論，形容這部片是一部出色的氣候變遷正劇喜劇。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "新片重現1980氣候會議\n\n紐約影展最新上映的《A Statement》，是一部以 1980 年一場氣候會議為背景的劇情片，由保羅．路德（Paul Rudd）、保羅．吉亞瑪提（Paul Giamatti）與塔蒂安娜．瑪斯蘭妮（Tatiana Maslany）主演。故事講的是雷根當選總統前幾天，國會召集 20 位專家到佛羅里達一間海邊飯店，要在 36 小時內討論出對抗氣候變遷的建議。這是一篇影評——衛報形容這部片是一部出色的氣候變遷正劇喜劇。\n\n—— 本則來自衛報 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "新片重現1980氣候會議\n\n紐約影展最新上映的《A Statement》，是一部以 1980 年一場氣候會議為背景的劇情片，由保羅．路德（Paul Rudd）、保羅．吉亞瑪提（Paul Giamatti）與塔蒂安娜．瑪斯蘭妮（Tatiana Maslany）主演。故事講的是雷根當選總統前幾天，國會召集 20 位專家到佛羅里達一間海邊飯店，要在 36 小時內討論出對抗氣候變遷的建議。這是一篇影評——衛報形容這部片是一部出色的氣候變遷正劇喜劇。\n\n本則來自衛報於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "紐約影展有一部新片，把 1980 年一場氣候會議搬上大銀幕。《A Statement》由保羅．路德、保羅．吉亞瑪提與塔蒂安娜．瑪斯蘭妮主演，講的是雷根當選總統前幾天，國會召集 20 位專家到佛羅里達一間海邊飯店，要在 36 小時內討論出對抗氣候變遷的建議。這是一篇評論，形容這部片是一部出色的氣候變遷正劇喜劇。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_film",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "New York film festival: Paul Rudd, Paul Giamatti and Tatiana Maslany lead an excellent ensemble in this dramatization of a failed conference on climate change In late October 1980, days before the election of Ronald Reagan , Congress summoned 20 experts in various fields to a beachfront hotel in Florida. Their mandate was simple: figure out how to address the dire threat posed to the climate by fossil fuel emissions, then deliver their recommendations to Congress in the form of a statement. Every word said during four marathon sessions over the next 36 hours – every disagreement or digression, tirade or truce – was recorded by a stenographer for posterity into a single document, hundreds of pages long, that stands as an artifact from a time when expertise was trusted, before corporate greed and political expediency mired “debate” about rising levels of CO2 in the atmosphere in a haze of misinformation and inaction. The fact that this meeting took place at all – that experts in climate, energy, law, philosophy, politics and more agreed on the fundamental facts, yet struggled to reach consensus on what to do about them – is fascinating, if perhaps not the most natural fit for a movie. This was, after all, a conference room of specialists sharing evidence via overhead projector. Continue reading...",
+              "title": "A Statement review – outstanding climate change dramedy about a 1980 meeting",
+              "url": "https://www.theguardian.com/film/2026/oct/03/a-statement-film-review",
+              "published_at": "2026-10-04T08:15:12+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "紐約影展上映的《A Statement》以1980年國會召集20位專家於佛羅里達討論氣候變遷對策的會議為題材，由Paul Rudd、Paul Giamatti與Tatiana Maslany主演。",
+              "source_id": "guardian_film",
+              "support_type": "direct",
+              "source_url": "https://www.theguardian.com/film/2026/oct/03/a-statement-film-review",
+              "source_title": "A Statement review – outstanding climate change dramedy about a 1980 meeting"
+            },
+            {
+              "claim": "衛報影評形容這部片是一部出色的氣候變遷正劇喜劇。",
+              "source_id": "guardian_film",
+              "support_type": "direct",
+              "source_url": "https://www.theguardian.com/film/2026/oct/03/a-statement-film-review",
+              "source_title": "A Statement review – outstanding climate change dramedy about a 1980 meeting"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "電影",
+          "single_source_warning": true,
+          "opinion_level": "explicit_commentary",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261005_evt_004",
+          "headline": "澳洲最佳住宅花園揭曉",
+          "context": "澳洲首屆「Landscape Australia」住宅花園獎公布入圍名單，從屋頂農園到牧牛農場，一共 20 座花園獲選最佳住宅花園。評審團主席黃艾蜜莉（Emily Wong）說，每個作品都在回應氣候危機、防洪防火與生物多樣性流失等課題。她也提到，私人花園其實佔了澳洲城市很大一塊空間，這些設計正是對公共基礎設施的貢獻。",
+          "beat": "ARTS",
+          "thread_text": "澳洲最佳住宅花園揭曉\n\n澳洲首屆「Landscape Australia」住宅花園獎公布入圍名單，從屋頂農園到牧牛農場，一共 20 座花園獲選最佳住宅花園。評審團主席黃艾蜜莉（Emily Wong）說，每個作品都在回應氣候危機、防洪防火與生物多樣性流失等課題。她也提到，私人花園其實佔了澳洲城市很大一塊空間，這些設計正是對公共基礎設施的貢獻。\n\n—— 本則來自衛報 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "澳洲最佳住宅花園揭曉\n\n澳洲首屆「Landscape Australia」住宅花園獎公布入圍名單，從屋頂農園到牧牛農場，一共 20 座花園獲選最佳住宅花園。評審團主席黃艾蜜莉（Emily Wong）說，每個作品都在回應氣候危機、防洪防火與生物多樣性流失等課題。她也提到，私人花園其實佔了澳洲城市很大一塊空間，這些設計正是對公共基礎設施的貢獻。\n\n本則來自衛報於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "澳洲評出了第一屆最佳住宅花園。從屋頂農園到牧牛農場，一共 20 座花園入選。評審團主席說，每個作品都在回應氣候危機、防洪防火與生物多樣性流失這些課題。她也提到，私人花園其實佔了澳洲城市很大一塊空間，這些設計也算是對公共基礎設施的貢獻。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "澳洲最佳住宅花園揭曉\n\n澳洲首屆「Landscape Australia」住宅花園獎公布入圍名單，從屋頂農園到牧牛農場，一共 20 座花園獲選最佳住宅花園。評審團主席黃艾蜜莉（Emily Wong）說，每個作品都在回應氣候危機、防洪防火與生物多樣性流失等課題。她也提到，私人花園其實佔了澳洲城市很大一塊空間，這些設計正是對公共基礎設施的貢獻。\n\n—— 本則來自衛報 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "澳洲最佳住宅花園揭曉\n\n澳洲首屆「Landscape Australia」住宅花園獎公布入圍名單，從屋頂農園到牧牛農場，一共 20 座花園獲選最佳住宅花園。評審團主席黃艾蜜莉（Emily Wong）說，每個作品都在回應氣候危機、防洪防火與生物多樣性流失等課題。她也提到，私人花園其實佔了澳洲城市很大一塊空間，這些設計正是對公共基礎設施的貢獻。\n\n本則來自衛報於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "澳洲評出了第一屆最佳住宅花園。從屋頂農園到牧牛農場，一共 20 座花園入選。評審團主席說，每個作品都在回應氣候危機、防洪防火與生物多樣性流失這些課題。她也提到，私人花園其實佔了澳洲城市很大一塊空間，這些設計也算是對公共基礎設施的貢獻。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_art_design",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "The 20 best residential gardens have been revealed in the first-ever Landscape Australia awards shortlist. Jury chair Emily Wong said each project was a response to urgent issues such as the climate crisis, fire and flood resilience, and the loss of biodiversity. They saw gardens as ‘part of a larger living commons that supports different ecologies and also … the future of Australian cities’. Wong also noted that private gardens take up a large quantity of space in Australian cities. ‘So really, these gardens are about seeing the design as a contribution to shared infrastructure’ Continue reading...",
+              "title": "From urban rooftops to working cattle farms: Australia’s best home gardens – in pictures",
+              "url": "https://www.theguardian.com/lifeandstyle/gallery/2026/oct/04/landscape-australia-residential-garden-award-finalists-in-pictures",
+              "published_at": "2026-10-04T03:00:08+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "澳洲首屆Landscape Australia住宅花園獎公布入圍名單，20座花園獲選最佳住宅花園，評審聚焦氣候危機、防洪防火與生物多樣性等課題。",
+              "source_id": "guardian_art_design",
+              "support_type": "direct",
+              "source_url": "https://www.theguardian.com/lifeandstyle/gallery/2026/oct/04/landscape-australia-residential-garden-award-finalists-in-pictures",
+              "source_title": "From urban rooftops to working cattle farms: Australia’s best home gardens – in pictures"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "視覺藝術",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "AI",
+      "title": "AI 新知",
+      "emoji": "🤖",
+      "items": [
+        {
+          "event_id": "daily_20261005_evt_167",
+          "headline": "Google暫停開源抓蟲獎金",
+          "context": "Google 暫停了旗下的開源抓蟲獎金計畫（bug bounty），原因是 AI 生成的回報案件「大幅增加」。這波被形容為 AI 糊弄式回報（AI slop）的洪流，似乎讓不少抓蟲獎金計畫吃不消。",
+          "beat": "AI",
+          "thread_text": "Google暫停開源抓蟲獎金\n\nGoogle 暫停了旗下的開源抓蟲獎金計畫（bug bounty），原因是 AI 生成的回報案件「大幅增加」。這波被形容為 AI 糊弄式回報（AI slop）的洪流，似乎讓不少抓蟲獎金計畫吃不消。\n\n—— 本則來自TechCrunch 2026 年 10 月 5 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "Google暫停開源抓蟲獎金\n\nGoogle 暫停了旗下的開源抓蟲獎金計畫（bug bounty），原因是 AI 生成的回報案件「大幅增加」。這波被形容為 AI 糊弄式回報（AI slop）的洪流，似乎讓不少抓蟲獎金計畫吃不消。\n\n本則來自TechCrunch於 2026 年 10 月 5 日發佈的報導。",
+          "voice_text": "Google 暫停了自己的開源抓蟲獎金計畫，原因是 AI 生成的回報案件大幅增加。這波被形容為 AI 糊弄式回報的洪流，好像讓不少抓蟲獎金計畫都吃不消。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "Google暫停開源抓蟲獎金\n\nGoogle 暫停了旗下的開源抓蟲獎金計畫（bug bounty），原因是 AI 生成的回報案件「大幅增加」。這波被形容為 AI 糊弄式回報（AI slop）的洪流，似乎讓不少抓蟲獎金計畫吃不消。\n\n—— 本則來自TechCrunch 2026 年 10 月 5 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "Google暫停開源抓蟲獎金\n\nGoogle 暫停了旗下的開源抓蟲獎金計畫（bug bounty），原因是 AI 生成的回報案件「大幅增加」。這波被形容為 AI 糊弄式回報（AI slop）的洪流，似乎讓不少抓蟲獎金計畫吃不消。\n\n本則來自TechCrunch於 2026 年 10 月 5 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "Google 暫停了自己的開源抓蟲獎金計畫，原因是 AI 生成的回報案件大幅增加。這波被形容為 AI 糊弄式回報的洪流，好像讓不少抓蟲獎金計畫都吃不消。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "techcrunch_ai",
+              "name": "TechCrunch",
+              "publisher": "TechCrunch",
+              "summary": "AI slop seems to be overwhelming bug bounty programs.",
+              "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+              "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+              "published_at": "2026-10-05T04:31:07+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "Google因AI生成的回報案件「大幅增加」，暫停了旗下的開源抓蟲獎金計畫。",
+              "source_id": "techcrunch_ai",
+              "support_type": "direct",
+              "source_url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+              "source_title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 28,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2; ai_major_model_or_policy"
+        },
+        {
+          "event_id": "daily_20261005_evt_066",
+          "headline": "美鄉村資料中心享稅優惠",
+          "context": "根據美國《One Big Beautiful Bill Act》法案，明年起，位於鄉村地區的資料中心計畫，可望享有大筆稅務優惠。不過有些大型雲端業者，似乎對這筆免費的錢不太感興趣。",
+          "beat": "AI",
+          "thread_text": "美鄉村資料中心享稅優惠\n\n根據美國《One Big Beautiful Bill Act》法案，明年起，位於鄉村地區的資料中心計畫，可望享有大筆稅務優惠。不過有些大型雲端業者，似乎對這筆免費的錢不太感興趣。\n\n—— 本則來自Wired 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "美鄉村資料中心享稅優惠\n\n根據美國《One Big Beautiful Bill Act》法案，明年起，位於鄉村地區的資料中心計畫，可望享有大筆稅務優惠。不過有些大型雲端業者，似乎對這筆免費的錢不太感興趣。\n\n本則來自Wired於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "美國有一項法案，明年起要給鄉村地區的資料中心大筆稅務優惠。不過，有些大型雲端業者，好像對這筆免費的錢不太感興趣。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美鄉村資料中心享稅優惠\n\n根據美國《One Big Beautiful Bill Act》法案，明年起，位於鄉村地區的資料中心計畫，可望享有大筆稅務優惠。不過有些大型雲端業者，似乎對這筆免費的錢不太感興趣。\n\n—— 本則來自Wired 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "美鄉村資料中心享稅優惠\n\n根據美國《One Big Beautiful Bill Act》法案，明年起，位於鄉村地區的資料中心計畫，可望享有大筆稅務優惠。不過有些大型雲端業者，似乎對這筆免費的錢不太感興趣。\n\n本則來自Wired於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "美國有一項法案，明年起要給鄉村地區的資料中心大筆稅務優惠。不過，有些大型雲端業者，好像對這筆免費的錢不太感興趣。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "wired_ai",
+              "name": "Wired",
+              "publisher": "Wired",
+              "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+              "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+              "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+              "published_at": "2026-10-04T18:00:00+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "根據《One Big Beautiful Bill Act》法案，明年起鄉村地區的資料中心計畫可享大筆稅務優惠，部分大型雲端業者對此並不積極。",
+              "source_id": "wired_ai",
+              "support_type": "direct",
+              "source_url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+              "source_title": "Rural Data Centers Are in for a Big Federal Tax Break"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2"
+        },
+        {
+          "event_id": "daily_20261005_evt_003",
+          "headline": "AWS回應資料中心質疑",
+          "context": "亞馬遜雲端服務（AWS）執行長出面回應外界對資料中心計畫的廣泛質疑，表示公司現在已經不再要求簽署保密協議（NDA）。",
+          "beat": "AI",
+          "thread_text": "AWS回應資料中心質疑\n\n亞馬遜雲端服務（AWS）執行長出面回應外界對資料中心計畫的廣泛質疑，表示公司現在已經不再要求簽署保密協議（NDA）。\n\n—— 本則來自TechCrunch 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "AWS回應資料中心質疑\n\n亞馬遜雲端服務（AWS）執行長出面回應外界對資料中心計畫的廣泛質疑，表示公司現在已經不再要求簽署保密協議（NDA）。\n\n本則來自TechCrunch於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "亞馬遜雲端服務的執行長，出面回應外界對資料中心計畫的質疑。他說，公司現在已經不再要求簽署保密協議。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "AWS回應資料中心質疑\n\n亞馬遜雲端服務（AWS）執行長出面回應外界對資料中心計畫的廣泛質疑，表示公司現在已經不再要求簽署保密協議（NDA）。\n\n—— 本則來自TechCrunch 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "AWS回應資料中心質疑\n\n亞馬遜雲端服務（AWS）執行長出面回應外界對資料中心計畫的廣泛質疑，表示公司現在已經不再要求簽署保密協議（NDA）。\n\n本則來自TechCrunch於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "亞馬遜雲端服務的執行長，出面回應外界對資料中心計畫的質疑。他說，公司現在已經不再要求簽署保密協議。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "techcrunch_ai",
+              "name": "TechCrunch",
+              "publisher": "TechCrunch",
+              "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+              "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+              "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+              "published_at": "2026-10-04T02:43:57+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "AWS執行長回應外界對資料中心計畫的廣泛質疑，表示公司已不再要求簽署NDA保密協議。",
+              "source_id": "techcrunch_ai",
+              "support_type": "direct",
+              "source_url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+              "source_title": "Amazon responds to data center backlash, says it no longer uses NDAs"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2"
+        }
+      ]
+    },
+    {
+      "beat": "ECON",
+      "title": "全球經濟趨勢",
+      "emoji": "📊",
+      "items": [
+        {
+          "event_id": "daily_20261005_evt_034",
+          "headline": "英國車廠陷中歐兩難",
+          "context": "英國車廠正面臨「艱難取捨」：中國市場誘人，但歐盟即將出手保護主義措施，可能限制英國對歐出口。英國目前是少數對中國車不加關稅的國家——美國幾乎全面擋下中國車，歐盟的關稅則最高達 45%。",
+          "beat": "ECON",
+          "thread_text": "英國車廠陷中歐兩難\n\n英國車廠正面臨「艱難取捨」：中國市場誘人，但歐盟即將出手保護主義措施，可能限制英國對歐出口。英國目前是少數對中國車不加關稅的國家——美國幾乎全面擋下中國車，歐盟的關稅則最高達 45%。\n\n—— 本則來自衛報 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "英國車廠陷中歐兩難\n\n英國車廠正面臨「艱難取捨」：中國市場誘人，但歐盟即將出手保護主義措施，可能限制英國對歐出口。英國目前是少數對中國車不加關稅的國家——美國幾乎全面擋下中國車，歐盟的關稅則最高達 45%。\n\n本則來自衛報於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "英國車廠現在卡在中國跟歐洲中間，不知道怎麼選。中國市場很誘人，但歐盟即將推出保護主義措施，可能限制英國對歐洲出口。英國目前是少數不對中國車加關稅的國家——美國幾乎全面擋下中國車，歐盟的關稅最高到 45%。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "英國車廠陷中歐兩難\n\n英國車廠正面臨「艱難取捨」：中國市場誘人，但歐盟即將出手保護主義措施，可能限制英國對歐出口。英國目前是少數對中國車不加關稅的國家——美國幾乎全面擋下中國車，歐盟的關稅則最高達 45%。\n\n—— 本則來自衛報 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "英國車廠陷中歐兩難\n\n英國車廠正面臨「艱難取捨」：中國市場誘人，但歐盟即將出手保護主義措施，可能限制英國對歐出口。英國目前是少數對中國車不加關稅的國家——美國幾乎全面擋下中國車，歐盟的關稅則最高達 45%。\n\n本則來自衛報於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "英國車廠現在卡在中國跟歐洲中間，不知道怎麼選。中國市場很誘人，但歐盟即將推出保護主義措施，可能限制英國對歐洲出口。英國目前是少數不對中國車加關稅的國家——美國幾乎全面擋下中國車，歐盟的關稅最高到 45%。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_business",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measures Britain’s car industry is grappling with a “difficult trade-off” between China and Europe, as manufacturers struggle to balance the benefits of both markets ahead of looming trade measures that could restrict UK exports to the EU. The UK is an outlier in choosing not to put import taxes on Chinese vehicles, even as the US has shut them out almost entirely , and the EU imposes duties of up to 45% . Continue reading...",
+              "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
+              "url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
+              "published_at": "2026-10-04T13:00:18+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "英國車廠面臨「艱難取捨」，需在中國與歐盟市場間權衡，歐盟即將推出可能限制英國對歐出口的保護主義貿易措施。",
+              "source_id": "guardian_business",
+              "support_type": "direct",
+              "source_url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
+              "source_title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets"
+            },
+            {
+              "claim": "英國是少數不對中國車徵收關稅的國家，美國幾乎全面擋下中國車，歐盟關稅最高達45%。",
+              "source_id": "guardian_business",
+              "support_type": "direct",
+              "source_url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
+              "source_title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 35,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1; economy_macro_policy"
+        },
+        {
+          "event_id": "daily_20261005_evt_095",
+          "headline": "OPEC+穩住11月產量",
+          "context": "石油輸出國家組織與夥伴國（OPEC+），決定維持 11 月的原油產量目標不變。",
+          "beat": "ECON",
+          "thread_text": "OPEC+穩住11月產量\n\n石油輸出國家組織與夥伴國（OPEC+），決定維持 11 月的原油產量目標不變。\n\n—— 本則來自路透社 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "OPEC+穩住11月產量\n\n石油輸出國家組織與夥伴國（OPEC+），決定維持 11 月的原油產量目標不變。\n\n本則來自路透社於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "石油輸出國家組織與夥伴國，決定維持 11 月的原油產量目標不變。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "OPEC+穩住11月產量\n\n石油輸出國家組織與夥伴國（OPEC+），決定維持 11 月的原油產量目標不變。\n\n—— 本則來自路透社 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "OPEC+穩住11月產量\n\n石油輸出國家組織與夥伴國（OPEC+），決定維持 11 月的原油產量目標不變。\n\n本則來自路透社於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "石油輸出國家組織與夥伴國，決定維持 11 月的原油產量目標不變。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_business_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "OPEC+ agrees to keep November oil output targets steady Reuters",
+              "title": "OPEC+ agrees to keep November oil output targets steady - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5",
+              "published_at": "2026-10-04T20:09:48+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "OPEC+決定維持11月的原油產量目標不變。",
+              "source_id": "reuters_business_google_news",
+              "support_type": "direct",
+              "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObkpnNDluR1haTkdBX3RldWlkX2pySlFJWlFIdmZhaGt1NTFuYlVJS3Nkc2VNQlJ4bXN2LTc1VTF1SWViaVloM1Y4U1JndkpESXNfb2IxazBFS3RTVjRpUUhVeWNURVNtd2dKcWxRMjdoTEFiRTdwd1FrWEw2OUx4NUY5U1hkNFBqVjUxZlJyVVlQNFBEUmVPVTBYejluWWhMZF9xZlNrQmFqU0R4ZlJGc0N5QzJ0ckNfN0dYdkFQalpkVkk?oc=5",
+              "source_title": "OPEC+ agrees to keep November oil output targets steady - Reuters"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 35,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1; economy_macro_policy"
+        },
+        {
+          "event_id": "daily_20261005_evt_101",
+          "headline": "海灣股市隨油價走高",
+          "context": "受到油價走穩，以及市場對美國降息押注升溫的帶動，多數海灣股市收高。",
+          "beat": "ECON",
+          "thread_text": "海灣股市隨油價走高\n\n受到油價走穩，以及市場對美國降息押注升溫的帶動，多數海灣股市收高。\n\n—— 本則來自路透社 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "海灣股市隨油價走高\n\n受到油價走穩，以及市場對美國降息押注升溫的帶動，多數海灣股市收高。\n\n本則來自路透社於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "多數海灣股市收高了。受到油價走穩，加上市場對美國降息的押注升溫，帶動了這波漲勢。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "海灣股市隨油價走高\n\n受到油價走穩，以及市場對美國降息押注升溫的帶動，多數海灣股市收高。\n\n—— 本則來自路透社 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "海灣股市隨油價走高\n\n受到油價走穩，以及市場對美國降息押注升溫的帶動，多數海灣股市收高。\n\n本則來自路透社於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "多數海灣股市收高了。受到油價走穩，加上市場對美國降息的押注升溫，帶動了這波漲勢。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Most Gulf shares end higher on firmer oil, US rate bets Reuters",
+              "title": "Most Gulf shares end higher on firmer oil, US rate bets - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTFU4dWNfNXhnZHRuZjJSVFZXd1duaHUzSVlLTThwSm9aVW41ZnRKcElHZXFON2taVWJ0eXZvU1F6SHpuVHhRMGhsQzFvWFJIQkZJN0FtRm5FTnRVR0tkTm1VaHpTakxncnNlb2hYQk40ZWZDc3h5RkZaNkV1eU00dkw3U0liSlFTcjhWd3VTQXFKVEdZWm4xTTkwTDZlbERiRWJEZ2FCOVo?oc=5",
+              "published_at": "2026-10-04T21:28:09+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "受油價走穩與美國利率押注影響，多數海灣股市收高。",
+              "source_id": "reuters_world_google_news",
+              "support_type": "direct",
+              "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTFU4dWNfNXhnZHRuZjJSVFZXd1duaHUzSVlLTThwSm9aVW41ZnRKcElHZXFON2taVWJ0eXZvU1F6SHpuVHhRMGhsQzFvWFJIQkZJN0FtRm5FTnRVR0tkTm1VaHpTakxncnNlb2hYQk40ZWZDc3h5RkZaNkV1eU00dkw3U0liSlFTcjhWd3VTQXFKVEdZWm4xTTkwTDZlbERiRWJEZ2FCOVo?oc=5",
+              "source_title": "Most Gulf shares end higher on firmer oil, US rate bets - Reuters"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261005_evt_117",
+          "headline": "法拉吉被質詢500萬禮金",
+          "context": "英國改革黨（Reform UK）黨魁奈傑爾．法拉吉（Nigel Farage），因為一筆 500 萬英鎊的饋贈，接受標準委員會約談。委員會正在調查，他是否該申報這筆來自加密貨幣億萬富豪克里斯多福．哈柏恩（Christopher Harborne）的饋贈。據《週日泰晤士報》報導，法拉吉這次被問了大約半小時，他堅稱這筆錢是用在他的個人安全上。",
+          "beat": "ECON",
+          "thread_text": "法拉吉被質詢500萬禮金\n\n英國改革黨（Reform UK）黨魁奈傑爾．法拉吉（Nigel Farage），因為一筆 500 萬英鎊的饋贈，接受標準委員會約談。委員會正在調查，他是否該申報這筆來自加密貨幣億萬富豪克里斯多福．哈柏恩（Christopher Harborne）的饋贈。據《週日泰晤士報》報導，法拉吉這次被問了大約半小時，他堅稱這筆錢是用在他的個人安全上。\n\n—— 本則來自衛報 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "法拉吉被質詢500萬禮金\n\n英國改革黨（Reform UK）黨魁奈傑爾．法拉吉（Nigel Farage），因為一筆 500 萬英鎊的饋贈，接受標準委員會約談。委員會正在調查，他是否該申報這筆來自加密貨幣億萬富豪克里斯多福．哈柏恩（Christopher Harborne）的饋贈。據《週日泰晤士報》報導，法拉吉這次被問了大約半小時，他堅稱這筆錢是用在他的個人安全上。\n\n本則來自衛報於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "英國改革黨黨魁法拉吉，因為一筆 500 萬英鎊的饋贈，接受標準委員會約談。委員會在調查，他是不是該申報這筆來自加密貨幣億萬富豪的錢。據報導，他這次被問了大約半小時。法拉吉堅稱，這筆錢是用在他的個人安全上。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "法拉吉被質詢500萬禮金\n\n英國改革黨（Reform UK）黨魁奈傑爾．法拉吉（Nigel Farage），因為一筆 500 萬英鎊的饋贈，接受標準委員會約談。委員會正在調查，他是否該申報這筆來自加密貨幣億萬富豪克里斯多福．哈柏恩（Christopher Harborne）的饋贈。據《週日泰晤士報》報導，法拉吉這次被問了大約半小時，他堅稱這筆錢是用在他的個人安全上。\n\n—— 本則來自衛報 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "法拉吉被質詢500萬禮金\n\n英國改革黨（Reform UK）黨魁奈傑爾．法拉吉（Nigel Farage），因為一筆 500 萬英鎊的饋贈，接受標準委員會約談。委員會正在調查，他是否該申報這筆來自加密貨幣億萬富豪克里斯多福．哈柏恩（Christopher Harborne）的饋贈。據《週日泰晤士報》報導，法拉吉這次被問了大約半小時，他堅稱這筆錢是用在他的個人安全上。\n\n本則來自衛報於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "英國改革黨黨魁法拉吉，因為一筆 500 萬英鎊的饋贈，接受標準委員會約談。委員會在調查，他是不是該申報這筆來自加密貨幣億萬富豪的錢。據報導，他這次被問了大約半小時。法拉吉堅稱，這筆錢是用在他的個人安全上。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_business",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Reform UK leader was interviewed for half an hour last month over money from crypto billionaire Nigel Farage has been interviewed by the standards commissioner for an investigation into whether he should have declared a £5m gift from the crypto billionaire Christopher Harborne. The Reform UK leader spent about half an hour being questioned over the money, the Sunday Times reported. Farage maintains the gift was for his personal security. Continue reading...",
+              "title": "Nigel Farage questioned by standards commissioner over £5m gift",
+              "url": "https://www.theguardian.com/politics/2026/oct/04/nigel-farage-questioned-by-standards-commissioner-over-gift-reform-uk",
+              "published_at": "2026-10-04T23:04:34+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "英國改革黨黨魁奈傑爾．法拉吉，因一筆500萬英鎊的饋贈接受標準委員會約談，調查他是否該申報這筆來自加密貨幣億萬富豪克里斯多福．哈柏恩的饋贈。",
+              "source_id": "guardian_business",
+              "support_type": "direct",
+              "source_url": "https://www.theguardian.com/politics/2026/oct/04/nigel-farage-questioned-by-standards-commissioner-over-gift-reform-uk",
+              "source_title": "Nigel Farage questioned by standards commissioner over £5m gift"
+            },
+            {
+              "claim": "法拉吉堅稱這筆錢是用在他的個人安全上。",
+              "source_id": "guardian_business",
+              "support_type": "direct",
+              "source_url": "https://www.theguardian.com/politics/2026/oct/04/nigel-farage-questioned-by-standards-commissioner-over-gift-reform-uk",
+              "source_title": "Nigel Farage questioned by standards commissioner over £5m gift"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "PTS_LOCAL",
+      "title": "公視在地新聞",
+      "emoji": "🇹🇼",
+      "items": [
+        {
+          "event_id": "daily_20261005_evt_029",
+          "headline": "名古屋亞運台灣奪55牌",
+          "context": "名古屋亞運閉幕，台灣代表隊這次共奪下 5 金、17 銀、33 銅。金牌數比上屆少 14 面，總獎牌數也少了 12 面。不過，有 13 面獎牌是隊史首度在亞運項目奪得，另外還有一面獎牌，是睽違 28 年後再度入袋。",
+          "beat": "PTS_LOCAL",
+          "thread_text": "名古屋亞運台灣奪55牌\n\n名古屋亞運閉幕，台灣代表隊這次共奪下 5 金、17 銀、33 銅。金牌數比上屆少 14 面，總獎牌數也少了 12 面。不過，有 13 面獎牌是隊史首度在亞運項目奪得，另外還有一面獎牌，是睽違 28 年後再度入袋。\n\n—— 本則來自公視 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "名古屋亞運台灣奪55牌\n\n名古屋亞運閉幕，台灣代表隊這次共奪下 5 金、17 銀、33 銅。金牌數比上屆少 14 面，總獎牌數也少了 12 面。不過，有 13 面獎牌是隊史首度在亞運項目奪得，另外還有一面獎牌，是睽違 28 年後再度入袋。\n\n本則來自公視於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "名古屋亞運閉幕，台灣代表隊這次一共奪下 55 面獎牌，是 5 金、17 銀、33 銅。金牌數比上屆少了 14 面，總獎牌數也少 12 面。不過，有 13 面獎牌是隊史在亞運項目第一次奪得，另外還有一面獎牌，是睽違 28 年後再度入袋。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "名古屋亞運台灣奪55牌\n\n名古屋亞運閉幕，台灣代表隊這次共奪下 5 金、17 銀、33 銅。金牌數比上屆少 14 面，總獎牌數也少了 12 面。不過，有 13 面獎牌是隊史首度在亞運項目奪得，另外還有一面獎牌，是睽違 28 年後再度入袋。\n\n—— 本則來自公視 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "名古屋亞運台灣奪55牌\n\n名古屋亞運閉幕，台灣代表隊這次共奪下 5 金、17 銀、33 銅。金牌數比上屆少 14 面，總獎牌數也少了 12 面。不過，有 13 面獎牌是隊史首度在亞運項目奪得，另外還有一面獎牌，是睽違 28 年後再度入袋。\n\n本則來自公視於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "名古屋亞運閉幕，台灣代表隊這次一共奪下 55 面獎牌，是 5 金、17 銀、33 銅。金牌數比上屆少了 14 面，總獎牌數也少 12 面。不過，有 13 面獎牌是隊史在亞運項目第一次奪得，另外還有一面獎牌，是睽違 28 年後再度入袋。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "pts_news",
+              "name": "公視",
+              "publisher": "公視",
+              "summary": "名古屋亞運賽事結束，本屆台灣代表隊共奪下5金、17銀、33銅，較上屆少14面金牌，總獎牌數也少12面，不過，仍有13面獎牌是隊史首度在亞運奪得，另有獎牌睽違28年再度入袋，公視新聞網整理，台灣這次創下多少歷史性突破？",
+              "title": "名古屋亞運台灣較上屆少12面牌 仍創13面史上首度奪牌",
+              "url": "https://news.pts.org.tw/article/829787",
+              "published_at": "2026-10-04T12:13:34+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "名古屋亞運結束，台灣代表隊共奪下5金、17銀、33銅，較上屆少14面金牌、總獎牌數少12面。",
+              "source_id": "pts_news",
+              "support_type": "direct",
+              "source_url": "https://news.pts.org.tw/article/829787",
+              "source_title": "名古屋亞運台灣較上屆少12面牌 仍創13面史上首度奪牌"
+            },
+            {
+              "claim": "本屆有13面獎牌是隊史首度在亞運項目奪得，另有一面獎牌睽違28年再度入袋。",
+              "source_id": "pts_news",
+              "support_type": "direct",
+              "source_url": "https://news.pts.org.tw/article/829787",
+              "source_title": "名古屋亞運台灣較上屆少12面牌 仍創13面史上首度奪牌"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261005_evt_026",
+          "headline": "花蓮救護車翻車1死4傷",
+          "context": "10 月 3 日，花蓮台 9 線光復路段發生死亡車禍。一輛民間救護車在大雨中鳴笛行駛，結果失控衝向對向車道，連撞兩輛車，造成 1 人死亡、4 人受傷。消防人員到場後發現，這輛肇事救護車當時車上並沒有載送病患，詳細肇事原因仍待調查。",
+          "beat": "PTS_LOCAL",
+          "thread_text": "花蓮救護車翻車1死4傷\n\n10 月 3 日，花蓮台 9 線光復路段發生死亡車禍。一輛民間救護車在大雨中鳴笛行駛，結果失控衝向對向車道，連撞兩輛車，造成 1 人死亡、4 人受傷。消防人員到場後發現，這輛肇事救護車當時車上並沒有載送病患，詳細肇事原因仍待調查。\n\n—— 本則來自公視 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "花蓮救護車翻車1死4傷\n\n10 月 3 日，花蓮台 9 線光復路段發生死亡車禍。一輛民間救護車在大雨中鳴笛行駛，結果失控衝向對向車道，連撞兩輛車，造成 1 人死亡、4 人受傷。消防人員到場後發現，這輛肇事救護車當時車上並沒有載送病患，詳細肇事原因仍待調查。\n\n本則來自公視於 2026 年 10 月 4 日發佈的報導。",
+          "voice_text": "花蓮發生一起死亡車禍，1 人死亡、4 人受傷。10 月 3 日，台 9 線光復路段，一輛民間救護車在大雨中鳴笛行駛，結果失控衝向對向車道，連撞兩輛車。消防人員到場後發現，這輛肇事救護車當時車上並沒有載送病患，詳細肇事原因仍待調查。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "花蓮救護車翻車1死4傷\n\n10 月 3 日，花蓮台 9 線光復路段發生死亡車禍。一輛民間救護車在大雨中鳴笛行駛，結果失控衝向對向車道，連撞兩輛車，造成 1 人死亡、4 人受傷。消防人員到場後發現，這輛肇事救護車當時車上並沒有載送病患，詳細肇事原因仍待調查。\n\n—— 本則來自公視 2026 年 10 月 4 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "花蓮救護車翻車1死4傷\n\n10 月 3 日，花蓮台 9 線光復路段發生死亡車禍。一輛民間救護車在大雨中鳴笛行駛，結果失控衝向對向車道，連撞兩輛車，造成 1 人死亡、4 人受傷。消防人員到場後發現，這輛肇事救護車當時車上並沒有載送病患，詳細肇事原因仍待調查。\n\n本則來自公視於 2026 年 10 月 4 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "花蓮發生一起死亡車禍，1 人死亡、4 人受傷。10 月 3 日，台 9 線光復路段，一輛民間救護車在大雨中鳴笛行駛，結果失控衝向對向車道，連撞兩輛車。消防人員到場後發現，這輛肇事救護車當時車上並沒有載送病患，詳細肇事原因仍待調查。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "pts_news",
+              "name": "公視",
+              "publisher": "公視",
+              "summary": "昨（3）日發生在花蓮這起嚴重的死亡車禍，台9線光復路段，一輛民間救護車在大雨中鳴笛行駛，結果失控衝向對向車道，連撞兩部車，釀成1死4傷，消防人員現場發現，這輛肇事的救護車當時車上並沒有載送病患，詳細的肇事原因還有待進一步調查。",
+              "title": "花蓮無病患救護車雨天鳴笛行駛 衝對向撞2車釀1死4傷",
+              "url": "https://news.pts.org.tw/article/829835",
+              "published_at": "2026-10-04T11:35:33+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "10月3日花蓮台9線光復路段，一輛民間救護車在雨中鳴笛行駛失控衝向對向車道，連撞兩車，造成1死4傷；該救護車當時未載送病患。",
+              "source_id": "pts_news",
+              "support_type": "direct",
+              "source_url": "https://news.pts.org.tw/article/829835",
+              "source_title": "花蓮無病患救護車雨天鳴笛行駛 衝對向撞2車釀1死4傷"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_feeds_checked": 27,
+    "total_feeds_failed": 0,
+    "total_feeds_failed_remote_blocked": 0,
+    "total_articles_fetched": 222,
+    "total_articles_after_filter": 212,
+    "total_events_merged": 170,
+    "total_events_selected": 18,
+    "tw_highlights_count": 2
+  },
+  "dropped_events": [
+    {
+      "event_id": "daily_20261005_evt_006",
+      "headline": "Tens of thousands protest across Spain over housing crisis - Reuters",
+      "selection_score": 5,
+      "drop_reason": "reported_recently"
+    },
+    {
+      "event_id": "daily_20261005_evt_135",
+      "headline": "A Show Gives a Taste of What a U.S. Pavilion in Venice Might Have Been",
+      "selection_score": -17,
+      "drop_reason": "reported_recently"
+    },
+    {
+      "event_id": "daily_20261005_evt_170",
+      "headline": "How Middle East Oil Exports Started Recovering",
+      "selection_score": -32,
+      "drop_reason": "reported_recently"
+    },
+    {
+      "event_id": "daily_20261005_evt_012",
+      "headline": "North Korea says Kim oversaw hypersonic missile drill - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_038",
+      "headline": "Leftist and nationalists lead in election for Bosnia's tripartite presidency - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_053",
+      "headline": "Latvian PM on track to lead pro-Ukraine coalition after election win - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_109",
+      "headline": "Protests intensify in India over demands for election chief to quit - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_141",
+      "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_143",
+      "headline": "Indian police accused of sexually harassing journalists at protest",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_166",
+      "headline": "Polls close in Brazil as country awaits results of high-stakes election - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_064",
+      "headline": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_118",
+      "headline": "Iran tells US: there is ‘no military solution’ to end the war",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_120",
+      "headline": "Dodik urges Serb turnout against ‘Sarajevo crooks’ in Bosnia election",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_125",
+      "headline": "Why does the US want to deport Salah Sarsour?",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_153",
+      "headline": "Ku Klux Klan leader claims rising support ahead of US midterm elections",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_154",
+      "headline": "War on Iran: Is escalation more likely than a deal?",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_161",
+      "headline": "Will elections bring change to multi-ethnic Bosnia and Herzegovina?",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_007",
+      "headline": "Ethiopia government forces retake airport in Tigray's capital, sources say - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_013",
+      "headline": "US father and son arrested after 'gas station heroin' deaths",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_014",
+      "headline": "Yemen's armed forces say it is conducting strikes against Houthis in Sanaa - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_015",
+      "headline": "Trump names intelligence chief Clayton as AI czar, to head task force - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_016",
+      "headline": "Britain scraps heavily criticised plans to curb jury trials after backlash - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_018",
+      "headline": "Why Canada is wargaming a (long shot) US invasion",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_019",
+      "headline": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_020",
+      "headline": "Cornell president says university 'must do better' after frat house rape allegations",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_023",
+      "headline": "Australia's Treasurer heads to Japan for inaugural finance ministerial forum - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_025",
+      "headline": "Cornell president vows 'serious look' at fraternities, sororities in wake of rape allegations - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_030",
+      "headline": "Rare tornado whips through small Australian town",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_031",
+      "headline": "US carrier George H.W. Bush visits Thailand after six-month Middle East deployment - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_041",
+      "headline": "蔣萬安批以美沙冬遮掩說法 沈伯洋：毒品立場沒變",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_042",
+      "headline": "台積電10/15第3季法說會 外界關注是否會與馬斯克合作",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_043",
+      "headline": "因風雨擾亂梅樹生理時鐘 楠西梅嶺零星梅花提前盛開",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_044",
+      "headline": "入秋最強東北季風明報到 北部轉濕涼中南部早晚溫差10℃",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_045",
+      "headline": "壽山動物園遊客持傘打獼猴 市府指若騷擾屬實依野保法開罰",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_046",
+      "headline": "苗栗頭份高樓拋石塊砸中3輛車 律師：造成財損恐涉毀損罪",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_047",
+      "headline": "South Korean president orders probe into data leaks across financial industry - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_050",
+      "headline": "Wakaliga Uganda review – a blistering superhero movie with hardboiled cops and a nefarious ‘girl with a voluminous bum’",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_054",
+      "headline": "‘I can’t listen to Pink Floyd - I find their music dreary’: Elvis Costello’s honest playlist",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_055",
+      "headline": "名古屋亞運場館分散54處 醫療團隊搭新幹線奔波治療選手",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_061",
+      "headline": "Philippines accuses Chinese coast guard of blocking law enforcement mission near Thitu - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_062",
+      "headline": "美國國家情報總監證實獲任AI沙皇　將帶領白宮新小組",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_063",
+      "headline": "法國抗議延燒逾5000人遭逮 學生不滿教師短缺、校舍破舊",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_068",
+      "headline": "駐沖繩美軍涉嫌殺人　日本召見美大使與司令抗議",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_069",
+      "headline": "一週大事／監委人事同意案表決不通過、首批2架F-16V抵台（2026.9.28-10.4）",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_070",
+      "headline": "菲律賓追查南海炸魚漁船　控中國海警出手阻撓",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_072",
+      "headline": "菲律賓掃蕩網路詐騙　逮捕逾200嫌犯多數為中國人",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_073",
+      "headline": "Do humans really have a ‘lizard brain’ lurking beneath our rational minds?",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_075",
+      "headline": "‘Let our voices be heard’: the splendor of Native American and Indigenous poster art – in pictures",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_076",
+      "headline": "Russia to intensify strikes on Ukraine after Zelenskiy interview - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_077",
+      "headline": "北韓試射導彈落日本經濟海域外 高市早苗指示全力搜集分析情報",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_078",
+      "headline": "中菲交惡  百餘華文教師分批撤回中國",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_079",
+      "headline": "超現實詩歌跨越百年從台南到巴黎　風車詩社法譯本問世",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_080",
+      "headline": "南韓金融業個資外洩AI疑淪為幫凶　李在明下令徹查",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_081",
+      "headline": "宜蘭建材行三代同住 深夜大火釀4人葬火窟",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_082",
+      "headline": "台電稱抄表員抄錯送更正帳單 民眾電費突增數百度電",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_083",
+      "headline": "8月來台旅客對比疫情前減35% 觀光署：滾動檢討客源措施",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_084",
+      "headline": "開放4輪車通行甫2個月 百年國定古蹟恆春西門再遭撞",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_085",
+      "headline": "台中白色轎車疑擋道鳴笛救護車 救護員指強行切出禮讓恐釀車禍",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_086",
+      "headline": "川普選前再發錢　聯邦醫療保險長者可獲近3000元補助",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_087",
+      "headline": "台灣本屆亞運共奪55面獎牌 5金17銀33銅為近3屆最少",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_088",
+      "headline": "公費疫苗首3日打氣旺 流感疫苗單日接種人數達33.5萬",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_089",
+      "headline": "賴瑞隆指找財源增敬老卡福利 柯志恩強調兼顧財政合理性",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_090",
+      "headline": "新北藍綠參選人提汐科政策 李四川、蘇巧慧各談發展願景",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_091",
+      "headline": "專訪／布達佩斯市長：台灣智慧科技值得借鏡　共享民主盼造訪",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_092",
+      "headline": "Saudi Arabia to cancel Joy Awards, its answer to the Grammys, amid budget cuts, sources say - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_093",
+      "headline": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_096",
+      "headline": "俄羅斯稱將加強攻擊烏克蘭　回應澤倫斯基受訪談話",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_098",
+      "headline": "Trump picks John Coale as special presidential envoy for hostage affairs - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_099",
+      "headline": "Iran says Strait of Hormuz will not reopen until conditions are met - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_102",
+      "headline": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_103",
+      "headline": "波士尼亞大選登場攸關入歐盟進程　選民盼擺脫分歧",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_104",
+      "headline": "Haunted by grief, Gaza's displaced still wait overseas for return - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_105",
+      "headline": "澤倫斯基：美盼10月底前舉行美俄烏三方會談",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_106",
+      "headline": "西班牙住房危機延燒　馬德里7萬人怒吼居住正義",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_107",
+      "headline": "Take a seat: the ritzy glamour of Australia’s historic theatres and cinemas – in pictures",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_108",
+      "headline": "美資安公司：中國駭客假冒日本防相小泉發送釣魚郵件",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_110",
+      "headline": "Russia says it hit Kyiv bridge, two vessels in Black Sea - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_111",
+      "headline": "造山者瑞士聖加侖巡演　台灣半導體聚集德語四國觀眾",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_113",
+      "headline": "Andrew Rutter obituary",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_116",
+      "headline": "Tom Gauld on some new faces in the deep dark wood – cartoon",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_123",
+      "headline": "Nicaragua announces withdrawal from Central American Parliament - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_124",
+      "headline": "Turkey says Mecca pact committee to meet in Riyadh on October 5 - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_126",
+      "headline": "川普確認新AI沙皇由國家情報總監出任　負責保護美國利益",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_136",
+      "headline": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_138",
+      "headline": "Government forces seize capital of Ethiopia's Tigray region from rebels - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_139",
+      "headline": "Ukrainian drones deliver new batch of food to Russian-occupied Oleshky - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_140",
+      "headline": "Miu Miu turns ‘real clothes’ into high fashion with sportswear style",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_144",
+      "headline": "拉脫維亞國會大選　總理有望勝出組挺烏克蘭聯盟政府",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_147",
+      "headline": "Britain's Green Party votes to class Zionism as a form of racism - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_149",
+      "headline": "杜拜航空行凶副機師曾在澳洲留學　跨機構反恐小組調查",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_150",
+      "headline": "Woman at center of Cornell rape allegations targeted with threats, lawyer says - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_152",
+      "headline": "Explainer: Who are the Houthis, Iran’s allies in Yemen? - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_155",
+      "headline": "伊朗總統府：石油部長請辭獲准",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_156",
+      "headline": "Iran's oil minister resigns for personal reasons, state media reports - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_157",
+      "headline": "AkzoNobel could sell unit to Nippon Paint for over $1 billion, FT reports - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_159",
+      "headline": "學生抗議席捲全國　法國500所學校將全面或部分停課",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_162",
+      "headline": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_163",
+      "headline": "Austrian government's No. 2 figure says he will step down - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_009",
+      "headline": "U.S. withdrawal from Iraq is complete",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_010",
+      "headline": "France arrests 5,000 people, mostly teens, as school protests spread",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_035",
+      "headline": "Star Wars actor John Boyega on the day his 10-year-old school friend Damilola Taylor was killed: ‘It kept me up at night because I was just with the guy’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_039",
+      "headline": "TV tonight: Eric Morecambe’s children’s book comes to life",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_056",
+      "headline": "Christopher Myers Turns Stained Glass Into a Magical ‘Night Ride’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_057",
+      "headline": "Book Review: ‘Bad Boy for Life,’ by Cheyenne Roundtree",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_058",
+      "headline": "Mike Nelson review – a waking nightmare of derelict dunes and desert island despair",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_059",
+      "headline": "‘It’s OK to love somebody when they’re not perfect’: how John Cena conquered Hollywood – and why he refuses to abandon Vince McMahon",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_071",
+      "headline": "Antigone Exits review – emotions run high in experimental reworking of Greek tragedy",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_074",
+      "headline": "‘We have been dispossessed’: Nick Hayes on land rights and a peaceful revolution at the real Toad Hall",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_094",
+      "headline": "The Undertones review – silver-haired fans get Teenage Kicks once more",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_097",
+      "headline": "Book Review: ‘The Eye of Goliath,’ by Diego Muzzio",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_115",
+      "headline": "Once Upon A Time In Sokoto review – exuberant history lesson on intra-African slavery",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_119",
+      "headline": "Trump unveils his new Super Intelligence Force",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_121",
+      "headline": "‘We need freedom’: New Delhi women protest sexual violence",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_122",
+      "headline": "‘Did he know?’: Why Israel is rejecting an October 7 reckoning",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_127",
+      "headline": "LIVE: Portugal vs Norway – UEFA Nations League",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_128",
+      "headline": "Philippines arrests 244 suspects in online scam crackdown",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_129",
+      "headline": "Jerusalem Daily: Israeli forces arrest school children during raid",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_130",
+      "headline": "‘S.N.L.’ Recap: Taylor Swift Makes a Surprise Cameo and Trump Gets Some Last-Minute Promo",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_131",
+      "headline": "Three years of genocide in Gaza through one man’s camera",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_132",
+      "headline": "Book Review: ‘The Occidental Book of the Dead,’ by T. Geronimo Johnson",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_133",
+      "headline": "Don’t Tell Weird Al, but Kyle Gordon’s Satires Are Great Earworms, Too",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_134",
+      "headline": "Man City’s Cavan Sullivan becomes youngest US international goalscorer",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_137",
+      "headline": "Air strike in Sudan kills UN aid truck driver: WFP",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_145",
+      "headline": "New Mystery Books for Fall",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_146",
+      "headline": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_148",
+      "headline": "Book Review: ‘The Rush,’ by Nathaniel Philbrick",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_151",
+      "headline": "Rebuked by Bond Market, Bessent Says ‘House’ Does Not Always Win",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_158",
+      "headline": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_160",
+      "headline": "France to shutter up to 500 schools as more student protests called",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_165",
+      "headline": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_168",
+      "headline": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_169",
+      "headline": "With ‘Verity,’ Anne Hathaway Has Her Third No. 1 Movie This Year",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_011",
+      "headline": "For some Brazilians, this election is a vote on Trump",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_142",
+      "headline": "Mass protests demanding poll chief resignation shake India for third day",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_164",
+      "headline": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_005",
+      "headline": "Yaesu Daibiru Office Building / Nikken Sekkei",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_022",
+      "headline": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_032",
+      "headline": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_037",
+      "headline": "Space Popular creates carpet-covered gallery for Nieuwe Instituut",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_049",
+      "headline": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_051",
+      "headline": "Google Research Moves Federated Learning Into TEEs: Gboard Now Trains With Externally Verifiable Differential Privacy",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_052",
+      "headline": "Beyond the Bunker: Lessons from Survivalist Architecture on Resilience",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_060",
+      "headline": "Five innovative and practical modular furniture designs",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_065",
+      "headline": "Van Peborgh Lodge / Claesson Koivisto Rune  Architects",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_067",
+      "headline": "Museum Vonk is \"a testing ground for affordable bio-based construction\"",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_114",
+      "headline": "Barrancos Mortuary / Mesa Atelier",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_017",
+      "headline": "Brazil's Lula, Flavio Bolsonaro wrap up campaigns ahead of first-round vote - Reuters",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_027",
+      "headline": "Japan's Takaichi protests to US after Marine accused of murder in Okinawa - Reuters",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_024",
+      "headline": "Qing Shui Meditation Retreat Center / RESP Studio",
+      "selection_score": -57,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_040",
+      "headline": "Singelblok / BureauVanEig + INBO",
+      "selection_score": -57,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_100",
+      "headline": "ABC Apartment / agência campo espacial",
+      "selection_score": -57,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261005_evt_001",
+      "headline": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "selection_score": 8,
+      "drop_reason": "total_limit_reached"
+    }
+  ]
+}

@@ -1,0 +1,1953 @@
+{
+  "reportId": "daily_20261012",
+  "date": "2026-10-12",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-10-12T05:16:58.752631+08:00",
+  "status": "ok",
+  "warnings": [],
+  "sections": [
+    {
+      "beat": "INTL",
+      "title": "國際大事",
+      "emoji": "🌍",
+      "items": [
+        {
+          "event_id": "daily_20261012_evt_025",
+          "headline": "IMF年會聚焦中東戰事與債務",
+          "context": "IMF 與世界銀行本週在泰國曼谷召開年會，中東戰事與各國高負債問題，預料將是議程焦點。美國與以色列對伊朗的軍事行動，以及隨之而來的通膨壓力，是這次會議討論的核心之一。",
+          "beat": "INTL",
+          "thread_text": "IMF年會聚焦中東戰事與債務\n\nIMF 與世界銀行本週在泰國曼谷召開年會，中東戰事與各國高負債問題，預料將是議程焦點。美國與以色列對伊朗的軍事行動，以及隨之而來的通膨壓力，是這次會議討論的核心之一。\n\n—— 本則整理自路透社與半島電視台 2026 年 10 月 11 至 12 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "IMF年會聚焦中東戰事與債務\n\nIMF 與世界銀行本週在泰國曼谷召開年會，中東戰事與各國高負債問題，預料將是議程焦點。美國與以色列對伊朗的軍事行動，以及隨之而來的通膨壓力，是這次會議討論的核心之一。\n\n本則整理自路透社與半島電視台於 2026 年 10 月 11 至 12 日發佈的報導。",
+          "voice_text": "IMF 與世界銀行本週在曼谷開年會。中東戰事，還有各國高負債問題，是這次議程的焦點。美國與以色列對伊朗的軍事行動，加上隨之而來的通膨壓力，是會議核心討論之一。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "IMF年會聚焦中東戰事與債務\n\nIMF 與世界銀行本週在泰國曼谷召開年會，中東戰事與各國高負債問題，預料將是議程焦點。美國與以色列對伊朗的軍事行動，以及隨之而來的通膨壓力，是這次會議討論的核心之一。\n\n—— 本則整理自路透社與半島電視台 2026 年 10 月 11 至 12 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "IMF年會聚焦中東戰事與債務\n\nIMF 與世界銀行本週在泰國曼谷召開年會，中東戰事與各國高負債問題，預料將是議程焦點。美國與以色列對伊朗的軍事行動，以及隨之而來的通膨壓力，是這次會議討論的核心之一。\n\n本則整理自路透社與半島電視台於 2026 年 10 月 11 至 12 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "IMF 與世界銀行本週在曼谷開年會。中東戰事，還有各國高負債問題，是這次議程的焦點。美國與以色列對伊朗的軍事行動，加上隨之而來的通膨壓力，是會議核心討論之一。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok Reuters",
+              "title": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlZqTVZkYlUxR2xKODRtSHFhLUI5ZVk4MWlwUURPZTRJSy1UYjdKak1ZbzdGMG80dmNOTVlVbUtvbW1zUU9hWE5QeU9xc19wWE50TnR4M05sQ0c0aFI0ZmYtTGN6Q0hwanJUajNzSlRfaVBQNXdPMUlfQlpfb1JHTGlQWkg5aVdOTE5SZ29NRXZLSW85enZHa2dCOVFSWmFpUEptcWMxa1JxVW15ZGhLLTRRcDEyeXBEWkw0RnJR?oc=5",
+              "published_at": "2026-10-11T12:03:00+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "The US-Israel war on Iran and its inflationary impact will dominate the agenda.",
+              "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+              "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
+              "published_at": "2026-10-12T02:47:57+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "IMF 與世界銀行曼谷年會將以中東戰事與高負債問題為焦點。",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlZqTVZkYlUxR2xKODRtSHFhLUI5ZVk4MWlwUURPZTRJSy1UYjdKak1ZbzdGMG80dmNOTVlVbUtvbW1zUU9hWE5QeU9xc19wWE50TnR4M05sQ0c0aFI0ZmYtTGN6Q0hwanJUajNzSlRfaVBQNXdPMUlfQlpfb1JHTGlQWkg5aVdOTE5SZ29NRXZLSW85enZHa2dCOVFSWmFpUEptcWMxa1JxVW15ZGhLLTRRcDEyeXBEWkw0RnJR?oc=5",
+              "support_type": "direct"
+            },
+            {
+              "claim": "美國與以色列對伊朗的戰事及其通膨衝擊，將主導會議議程。",
+              "source_id": "aljazeera_all",
+              "source_title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+              "source_url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 78,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2; major_geopolitical_event"
+        },
+        {
+          "event_id": "daily_20261012_evt_149",
+          "headline": "川普宣布俄烏能源停火",
+          "context": "川普宣布，俄羅斯與烏克蘭已達成能源設施停火協議，澤倫斯基對此感到意外，但隨後也公開表示歡迎這項停火安排。",
+          "beat": "INTL",
+          "thread_text": "川普宣布俄烏能源停火\n\n川普宣布，俄羅斯與烏克蘭已達成能源設施停火協議，這項消息讓澤倫斯基感到意外，不過他隨後也公開表示歡迎這項停火安排。\n\n—— 本則整理自路透社與半島電視台 2026 年 10 月 12 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "川普宣布俄烏能源停火\n\n川普宣布，俄羅斯與烏克蘭已達成能源設施停火協議，這項消息讓澤倫斯基感到意外，不過他隨後也公開表示歡迎這項停火安排。\n\n本則整理自路透社與半島電視台於 2026 年 10 月 12 日發佈的報導。",
+          "voice_text": "川普宣布，俄羅斯與烏克蘭已達成能源設施停火協議。這項消息讓澤倫斯基感到意外。不過，他後來也公開表示歡迎這項停火安排。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "川普宣布俄烏能源停火\n\n川普宣布，俄羅斯與烏克蘭已達成能源設施停火協議，這項消息讓澤倫斯基感到意外，不過他隨後也公開表示歡迎這項停火安排。\n\n—— 本則整理自路透社與半島電視台 2026 年 10 月 12 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "川普宣布俄烏能源停火\n\n川普宣布，俄羅斯與烏克蘭已達成能源設施停火協議，這項消息讓澤倫斯基感到意外，不過他隨後也公開表示歡迎這項停火安排。\n\n本則整理自路透社與半島電視台於 2026 年 10 月 12 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "川普宣布，俄羅斯與烏克蘭已達成能源設施停火協議。這項消息讓澤倫斯基感到意外。不過，他後來也公開表示歡迎這項停火安排。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy Reuters",
+              "title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEo5WEZxUk5OcWNWU1Z1Z0g4SGlFQmxKckFxbS05WFd6UUxDNE0xa0NZRzZoR004Tms3azQ3aTVfUVIwNXlTU1ljcW9HLTREUGZBVVFiWlpVWXI3V1c3Zmt2UEJ2ME43azRMb0Vlei1iQUNPbzk4bV94bkRGTzBmREMydnBCRzVSclBoVkhrWkx4TFJ2YWdsRS1COGVOWU9pRDJqSUFNRk1pUnpQM2dlQ3o0eGpYSHYzbWdDX3dtQWtYT2Zz?oc=5",
+              "published_at": "2026-10-12T03:23:21+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire",
+              "title": "Zelenskyy welcomes US-announced energy ceasefire",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+              "published_at": "2026-10-12T04:28:46+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "川普宣布俄烏達成能源設施停火協議，這項消息讓澤倫斯基感到意外。",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTEo5WEZxUk5OcWNWU1Z1Z0g4SGlFQmxKckFxbS05WFd6UUxDNE0xa0NZRzZoR004Tms3azQ3aTVfUVIwNXlTU1ljcW9HLTREUGZBVVFiWlpVWXI3V1c3Zmt2UEJ2ME43azRMb0Vlei1iQUNPbzk4bV94bkRGTzBmREMydnBCRzVSclBoVkhrWkx4TFJ2YWdsRS1COGVOWU9pRDJqSUFNRk1pUnpQM2dlQ3o0eGpYSHYzbWdDX3dtQWtYT2Zz?oc=5",
+              "support_type": "direct"
+            },
+            {
+              "claim": "澤倫斯基對美國宣布的能源停火表示歡迎。",
+              "source_id": "aljazeera_all",
+              "source_title": "Zelenskyy welcomes US-announced energy ceasefire",
+              "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 78,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2; major_geopolitical_event"
+        },
+        {
+          "event_id": "daily_20261012_evt_152",
+          "headline": "利雅德機場二度遇襲",
+          "context": "沙烏地阿拉伯首都利雅德的國際機場再度遭到攻擊，造成新的傷者；此前一次襲擊已造成13人死亡。沙國衛生部長法哈德・阿賈拉傑（Fahad Aljalajel）已前往探視倖存者。",
+          "beat": "INTL",
+          "thread_text": "利雅德機場二度遇襲\n\n沙烏地阿拉伯首都利雅德的國際機場再度遭到攻擊，造成新的傷者；此前一次襲擊已造成13人死亡。沙國衛生部長法哈德・阿賈拉傑（Fahad Aljalajel）已前往探視倖存者。\n\n—— 本則整理自半島電視台與路透社 2026 年 10 月 12 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "利雅德機場二度遇襲\n\n沙烏地阿拉伯首都利雅德的國際機場再度遭到攻擊，造成新的傷者；此前一次襲擊已造成13人死亡。沙國衛生部長法哈德・阿賈拉傑（Fahad Aljalajel）已前往探視倖存者。\n\n本則整理自半島電視台與路透社於 2026 年 10 月 12 日發佈的報導。",
+          "voice_text": "利雅德的國際機場又遭到攻擊，造成新的傷者。此前一次襲擊，已經造成13人死亡。沙烏地阿拉伯衛生部長，已經前往探視倖存者。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "利雅德機場二度遇襲\n\n沙烏地阿拉伯首都利雅德的國際機場再度遭到攻擊，造成新的傷者；此前一次襲擊已造成13人死亡。沙國衛生部長法哈德・阿賈拉傑（Fahad Aljalajel）已前往探視倖存者。\n\n—— 本則整理自半島電視台與路透社 2026 年 10 月 12 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "利雅德機場二度遇襲\n\n沙烏地阿拉伯首都利雅德的國際機場再度遭到攻擊，造成新的傷者；此前一次襲擊已造成13人死亡。沙國衛生部長法哈德・阿賈拉傑（Fahad Aljalajel）已前往探視倖存者。\n\n本則整理自半島電視台與路透社於 2026 年 10 月 12 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "利雅德的國際機場又遭到攻擊，造成新的傷者。此前一次襲擊，已經造成13人死亡。沙烏地阿拉伯衛生部長，已經前往探視倖存者。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to survivors of Saturday’s deadly attack.",
+              "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
+              "published_at": "2026-10-12T03:59:15+08:00"
+            },
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 Reuters",
+              "title": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5",
+              "published_at": "2026-10-12T04:06:08+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "沙國衛生部長法哈德・阿賈拉傑前往探視機場攻擊倖存者。",
+              "source_id": "aljazeera_all",
+              "source_title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+              "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "沙烏地阿拉伯機場再度遭到攻擊造成傷者，此前一次襲擊已造成13人死亡。",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13 - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEo0VkFTZkY2VzMzeFV0OVRVbWN4aHFzaXFjV0FBN05uaEFONHhQVTN2a3JJM09NdFBzY1R3MnRrUFZOeFZfUDItOUd1NkxiT3dfOWduTHJKTlBzSGsyN3VCYTNkWG1ZTWlZMUpzbDdrc1dOZUs3VDRwa0lHN21tNnFNdFhQYUxoNmdfN1Zyb3FMRm04RzRVei0zY3FKN0FoY2JYTGFodjYtemdITVpKVXk3NlR2QXFIMU9YMnUtX004QW1GZ0UzZA?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261012_evt_069",
+          "headline": "尼泊爾暴洪至少5人失蹤",
+          "context": "尼泊爾中部布迪甘達基河（Budhi Gandaki River）暴發洪水，沖走多座建築物與橋樑，至少5人失蹤。這是該國兩個月內第二次遭遇嚴重洪災，當局已呼籲村民遷往安全地點。",
+          "beat": "INTL",
+          "thread_text": "尼泊爾暴洪至少5人失蹤\n\n尼泊爾中部布迪甘達基河（Budhi Gandaki River）暴發洪水，沖走多座建築物與橋樑，至少5人失蹤。這是該國兩個月內第二次遭遇嚴重洪災，當局已呼籲村民遷往安全地點。\n\n—— 本則整理自BBC與半島電視台 2026 年 10 月 11 至 12 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "尼泊爾暴洪至少5人失蹤\n\n尼泊爾中部布迪甘達基河（Budhi Gandaki River）暴發洪水，沖走多座建築物與橋樑，至少5人失蹤。這是該國兩個月內第二次遭遇嚴重洪災，當局已呼籲村民遷往安全地點。\n\n本則整理自BBC與半島電視台於 2026 年 10 月 11 至 12 日發佈的報導。",
+          "voice_text": "尼泊爾中部暴發洪水，沖走了多座建築物與橋樑，至少5人失蹤。這是布迪甘達基河沿岸，兩個月內第二次發生嚴重洪災。當地政府已經呼籲居民，盡快遷往安全地點。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "尼泊爾暴洪至少5人失蹤\n\n尼泊爾中部布迪甘達基河（Budhi Gandaki River）暴發洪水，沖走多座建築物與橋樑，至少5人失蹤。這是該國兩個月內第二次遭遇嚴重洪災，當局已呼籲村民遷往安全地點。\n\n—— 本則整理自BBC與半島電視台 2026 年 10 月 11 至 12 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "尼泊爾暴洪至少5人失蹤\n\n尼泊爾中部布迪甘達基河（Budhi Gandaki River）暴發洪水，沖走多座建築物與橋樑，至少5人失蹤。這是該國兩個月內第二次遭遇嚴重洪災，當局已呼籲村民遷往安全地點。\n\n本則整理自BBC與半島電視台於 2026 年 10 月 11 至 12 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "尼泊爾中部暴發洪水，沖走了多座建築物與橋樑，至少5人失蹤。這是布迪甘達基河沿岸，兩個月內第二次發生嚴重洪災。當地政府已經呼籲居民，盡快遷往安全地點。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
+              "title": "Buildings swept away as flash floods hit central Nepal",
+              "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-10-11T18:34:02+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "Authorities urge villagers to move to safer places after a river in the central part of the country bursts its banks.",
+              "title": "At least five people missing as flash floods in Nepal sweep away houses",
+              "url": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
+              "published_at": "2026-10-12T00:00:48+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "布迪甘達基河暴發洪水，沖走多座建築物與橋樑，這是尼泊爾兩個月內第二次遭遇嚴重洪災。",
+              "source_id": "bbc_world",
+              "source_title": "Buildings swept away as flash floods hit central Nepal",
+              "source_url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "尼泊爾中部河流暴發洪水沖毀房屋，至少5人失蹤，當局呼籲村民遷往安全地點。",
+              "source_id": "aljazeera_all",
+              "source_title": "At least five people missing as flash floods in Nepal sweep away houses",
+              "source_url": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261012_evt_102",
+          "headline": "教宗良十四世將動肺部手術",
+          "context": "教宗良十四世（Pope Leo XIV）宣布，醫師在他的肺部發現一個腫塊，診斷屬於非常早期階段，他這週將接受手術切除。良十四世現年71歲。",
+          "beat": "INTL",
+          "thread_text": "教宗良十四世將動肺部手術\n\n教宗良十四世（Pope Leo XIV）宣布，醫師在他的肺部發現一個腫塊，診斷屬於非常早期階段，他這週將接受手術切除。良十四世現年71歲。\n\n—— 本則整理自NPR、BBC與半島電視台 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "教宗良十四世將動肺部手術\n\n教宗良十四世（Pope Leo XIV）宣布，醫師在他的肺部發現一個腫塊，診斷屬於非常早期階段，他這週將接受手術切除。良十四世現年71歲。\n\n本則整理自NPR、BBC與半島電視台於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "教宗良十四世這週要動手術，切除肺部的一個腫塊。醫師說，這個腫塊是在非常早期階段就發現的。良十四世現年71歲。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "教宗良十四世將動肺部手術\n\n教宗良十四世（Pope Leo XIV）宣布，醫師在他的肺部發現一個腫塊，診斷屬於非常早期階段，他這週將接受手術切除。良十四世現年71歲。\n\n—— 本則整理自NPR、BBC與半島電視台 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "教宗良十四世將動肺部手術\n\n教宗良十四世（Pope Leo XIV）宣布，醫師在他的肺部發現一個腫塊，診斷屬於非常早期階段，他這週將接受手術切除。良十四世現年71歲。\n\n本則整理自NPR、BBC與半島電視台於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "教宗良十四世這週要動手術，切除肺部的一個腫塊。醫師說，這個腫塊是在非常早期階段就發現的。良十四世現年71歲。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "npr_world",
+              "name": "NPR",
+              "publisher": "NPR",
+              "summary": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung.",
+              "title": "Pope Leo XIV to undergo lung surgery this week",
+              "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+              "published_at": "2026-10-11T20:54:25+08:00"
+            },
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+              "title": "Pope Leo to have surgery after lump found on lung",
+              "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-10-11T21:38:55+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "Pope Leo XIV has announced that he will undergo surgery this week, to remove a nodule in his lung.",
+              "title": "Pope Leo XIV to undergo surgery after lump found in lung",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
+              "published_at": "2026-10-11T23:24:50+08:00"
+            }
+          ],
+          "source_count": 3,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "教宗良十四世宣布，他這週將接受肺部手術。",
+              "source_id": "npr_world",
+              "source_title": "Pope Leo XIV to undergo lung surgery this week",
+              "source_url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+              "support_type": "direct"
+            },
+            {
+              "claim": "71歲的教宗良十四世表示，腫塊是在非常早期階段被發現。",
+              "source_id": "bbc_world",
+              "source_title": "Pope Leo to have surgery after lump found on lung",
+              "source_url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "教宗良十四世宣布將在本週動手術，切除肺部發現的腫塊。",
+              "source_id": "aljazeera_all",
+              "source_title": "Pope Leo XIV to undergo surgery after lump found in lung",
+              "source_url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        }
+      ]
+    },
+    {
+      "beat": "ARTS",
+      "title": "八大藝術",
+      "emoji": "🎭",
+      "items": [
+        {
+          "event_id": "daily_20261012_evt_016",
+          "headline": "鬱金香花季盛放中",
+          "context": "在維多利亞（Victoria）小鎮錫爾文（Silvan）的一座花卉農場，正舉辦為期一個月的年度鬱金香節。鬱金香與其他春季花卉，目前正是最燦爛的時候。",
+          "beat": "ARTS",
+          "thread_text": "鬱金香花季盛放中\n\n在維多利亞（Victoria）小鎮錫爾文（Silvan）的一座花卉農場，正舉辦為期一個月的年度鬱金香節。鬱金香與其他春季花卉，目前正是最燦爛的時候。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "鬱金香花季盛放中\n\n在維多利亞（Victoria）小鎮錫爾文（Silvan）的一座花卉農場，正舉辦為期一個月的年度鬱金香節。鬱金香與其他春季花卉，目前正是最燦爛的時候。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "維多利亞一座花卉農場，正在舉辦一年一度的鬱金香節，為期一個月。鬱金香和其他春天的花，現在正是最燦爛的時候。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "鬱金香花季盛放中\n\n在維多利亞（Victoria）小鎮錫爾文（Silvan）的一座花卉農場，正舉辦為期一個月的年度鬱金香節。鬱金香與其他春季花卉，目前正是最燦爛的時候。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "鬱金香花季盛放中\n\n在維多利亞（Victoria）小鎮錫爾文（Silvan）的一座花卉農場，正舉辦為期一個月的年度鬱金香節。鬱金香與其他春季花卉，目前正是最燦爛的時候。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "維多利亞一座花卉農場，正在舉辦一年一度的鬱金香節，為期一個月。鬱金香和其他春天的花，現在正是最燦爛的時候。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_art_design",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "The annual month-long festival takes place at a flower farm in the Victorian town of Silvan when tulips and other springs flowers are at their most vibrant Continue reading...",
+              "title": "Blooming beautiful! The Tesselaar tulip festival – in pictures",
+              "url": "https://www.theguardian.com/environment/gallery/2026/oct/11/tesselaar-tulip-festival-silvan-victoria-in-pictures",
+              "published_at": "2026-10-11T07:00:10+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "維多利亞小鎮錫爾文的花卉農場正舉辦為期一個月的年度鬱金香節，花卉正值最燦爛時期。",
+              "source_id": "guardian_art_design",
+              "source_title": "Blooming beautiful! The Tesselaar tulip festival – in pictures",
+              "source_url": "https://www.theguardian.com/environment/gallery/2026/oct/11/tesselaar-tulip-festival-silvan-victoria-in-pictures",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "視覺藝術",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261012_evt_048",
+          "headline": "Arlo Parks公開私房歌單",
+          "context": "歌手Arlo Parks回憶起她的音樂啟蒙：小時候聽到Eurythmics的《Sweet Dreams (Are Made of This)》就深深著迷；大約10、11歲時，她第一次用iPod Nano下載歌曲，選的是Arctic Monkeys的《Fake Tales of San Francisco》，常常一邊聽一邊在公園裡遊蕩，耳機裡裝滿少年的鬱悶心情。",
+          "beat": "ARTS",
+          "thread_text": "Arlo Parks公開私房歌單\n\n歌手Arlo Parks回憶起她的音樂啟蒙：小時候聽到Eurythmics的《Sweet Dreams (Are Made of This)》就深深著迷；大約10、11歲時，她第一次用iPod Nano下載歌曲，選的是Arctic Monkeys的《Fake Tales of San Francisco》，常常一邊聽一邊在公園裡遊蕩，耳機裡裝滿少年的鬱悶心情。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "Arlo Parks公開私房歌單\n\n歌手Arlo Parks回憶起她的音樂啟蒙：小時候聽到Eurythmics的《Sweet Dreams (Are Made of This)》就深深著迷；大約10、11歲時，她第一次用iPod Nano下載歌曲，選的是Arctic Monkeys的《Fake Tales of San Francisco》，常常一邊聽一邊在公園裡遊蕩，耳機裡裝滿少年的鬱悶心情。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "歌手Arlo Parks聊起她的音樂啟蒙。小時候，她聽到一句歌詞就深深著迷，那是Eurythmics的《Sweet Dreams》。大約10、11歲，她第一次自己下載歌曲，選的是Arctic Monkeys的一首歌，常常一邊聽一邊在公園裡遊蕩，耳機裡裝滿少年的鬱悶心情。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "Arlo Parks公開私房歌單\n\n歌手Arlo Parks回憶起她的音樂啟蒙：小時候聽到Eurythmics的《Sweet Dreams (Are Made of This)》就深深著迷；大約10、11歲時，她第一次用iPod Nano下載歌曲，選的是Arctic Monkeys的《Fake Tales of San Francisco》，常常一邊聽一邊在公園裡遊蕩，耳機裡裝滿少年的鬱悶心情。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "Arlo Parks公開私房歌單\n\n歌手Arlo Parks回憶起她的音樂啟蒙：小時候聽到Eurythmics的《Sweet Dreams (Are Made of This)》就深深著迷；大約10、11歲時，她第一次用iPod Nano下載歌曲，選的是Arctic Monkeys的《Fake Tales of San Francisco》，常常一邊聽一邊在公園裡遊蕩，耳機裡裝滿少年的鬱悶心情。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "歌手Arlo Parks聊起她的音樂啟蒙。小時候，她聽到一句歌詞就深深著迷，那是Eurythmics的《Sweet Dreams》。大約10、11歲，她第一次自己下載歌曲，選的是Arctic Monkeys的一首歌，常常一邊聽一邊在公園裡遊蕩，耳機裡裝滿少年的鬱悶心情。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_music",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "The singer shamelessly blasts Lady Gaga in the car and is brought to tears by Portishead – but which song does she have to be careful listening to? The first song I fell in love with I remember listening to Sweet Dreams (Are Made of This) by Eurythmics when I was really young. There was something about the line at the beginning that I was completely intoxicated by. The first download I bought When I was about 10 or 11, I would put my headphones on and wander through the park all angsty listening to Fake Tales of San Francisco by Arctic Monkeys, my first download on my iPod Nano. I loved the storytelling, the characters and the gritty tableaux they described: it felt so real, even though it was far away from where I grew up. Continue reading...",
+              "title": "‘I’d wander through the park all angsty listening to Arctic Monkeys’: Arlo Parks’ honest playlist",
+              "url": "https://www.theguardian.com/music/2026/oct/11/arlo-parks-honest-playlist-prince-janet-jackson",
+              "published_at": "2026-10-11T16:00:20+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "歌手Arlo Parks分享她的音樂啟蒙，包括兒時聽Eurythmics《Sweet Dreams》著迷的經驗，以及10、11歲第一次用iPod Nano下載Arctic Monkeys歌曲的回憶。",
+              "source_id": "guardian_music",
+              "source_title": "‘I’d wander through the park all angsty listening to Arctic Monkeys’: Arlo Parks’ honest playlist",
+              "source_url": "https://www.theguardian.com/music/2026/oct/11/arlo-parks-honest-playlist-prince-janet-jackson",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "音樂",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261012_evt_052",
+          "headline": "李奇登斯坦大型回顧展",
+          "context": "美國普普藝術家羅伊・李奇登斯坦（Roy Lichtenstein）1983年的大型壁畫《Greene Street Mural》，取材自貝葉掛毯（Bayeux Tapestry）的敘事手法，當年依他本人意願，展出6週後就被拆除。如今紐約惠特尼美術館將重現這幅29公尺長的壁畫，作為《Roy Lichtenstein: Like New》回顧展入口，這也是33年來紐約首次舉辦他的大型回顧展。",
+          "beat": "ARTS",
+          "thread_text": "李奇登斯坦大型回顧展\n\n美國普普藝術家羅伊・李奇登斯坦（Roy Lichtenstein）1983年的大型壁畫《Greene Street Mural》，取材自貝葉掛毯（Bayeux Tapestry）的敘事手法，當年依他本人意願，展出6週後就被拆除。如今紐約惠特尼美術館將重現這幅29公尺長的壁畫，作為《Roy Lichtenstein: Like New》回顧展入口，這也是33年來紐約首次舉辦他的大型回顧展。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "李奇登斯坦大型回顧展\n\n美國普普藝術家羅伊・李奇登斯坦（Roy Lichtenstein）1983年的大型壁畫《Greene Street Mural》，取材自貝葉掛毯（Bayeux Tapestry）的敘事手法，當年依他本人意願，展出6週後就被拆除。如今紐約惠特尼美術館將重現這幅29公尺長的壁畫，作為《Roy Lichtenstein: Like New》回顧展入口，這也是33年來紐約首次舉辦他的大型回顧展。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "紐約惠特尼美術館，要重現李奇登斯坦一幅已經消失的壁畫。這幅壁畫叫《Greene Street Mural》，1983年創作，取材自貝葉掛毯的敘事手法，當年只展出6週，就依他本人意願拆除了。現在，美術館要重建這幅29公尺長的壁畫，作為他最新回顧展的入口——這是33年來，紐約第一次替他辦大型回顧展。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "李奇登斯坦大型回顧展\n\n美國普普藝術家羅伊・李奇登斯坦（Roy Lichtenstein）1983年的大型壁畫《Greene Street Mural》，取材自貝葉掛毯（Bayeux Tapestry）的敘事手法，當年依他本人意願，展出6週後就被拆除。如今紐約惠特尼美術館將重現這幅29公尺長的壁畫，作為《Roy Lichtenstein: Like New》回顧展入口，這也是33年來紐約首次舉辦他的大型回顧展。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "李奇登斯坦大型回顧展\n\n美國普普藝術家羅伊・李奇登斯坦（Roy Lichtenstein）1983年的大型壁畫《Greene Street Mural》，取材自貝葉掛毯（Bayeux Tapestry）的敘事手法，當年依他本人意願，展出6週後就被拆除。如今紐約惠特尼美術館將重現這幅29公尺長的壁畫，作為《Roy Lichtenstein: Like New》回顧展入口，這也是33年來紐約首次舉辦他的大型回顧展。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "紐約惠特尼美術館，要重現李奇登斯坦一幅已經消失的壁畫。這幅壁畫叫《Greene Street Mural》，1983年創作，取材自貝葉掛毯的敘事手法，當年只展出6週，就依他本人意願拆除了。現在，美術館要重建這幅29公尺長的壁畫，作為他最新回顧展的入口——這是33年來，紐約第一次替他辦大型回顧展。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_art_design",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "The often-criticised pop artist is the focus of a monumental new survey including rarely seen pieces and ambitious new restagings at New York’s Whitney Museum When the American artist Roy Lichtenstein created his monumental Greene Street Mural in 1983, he took inspiration from the Bayeux tapestry for its serial storytelling technique. But whereas the embroidery depicting the Norman conquest continues to delight after nearly 1,000 years, Lichtenstein’s site-specific mural was destroyed after six weeks, in accordance with his wishes. More than four decades later, however, the monumental Greene Street Mural is to mesmerise art lovers once more. This week a 96ft (29-metre) recreation of the work will span the entire entryway to Roy Lichtenstein: Like New , the first major New York retrospective of the pop artist’s work in 33 years, at the Whitney Museum of American Art. Continue reading...",
+              "title": "‘What could be discovered? What is new there?’: blockbuster exhibition celebrates Roy Lichtenstein",
+              "url": "https://www.theguardian.com/artanddesign/2026/oct/11/roy-lichtenstein-exhibition-whitney-museum",
+              "published_at": "2026-10-11T17:00:22+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "李奇登斯坦1983年創作的壁畫《Greene Street Mural》展出6週後依其意願拆除，惠特尼美術館如今將重建這幅29公尺長壁畫，作為33年來紐約首次大型回顧展的入口。",
+              "source_id": "guardian_art_design",
+              "source_title": "‘What could be discovered? What is new there?’: blockbuster exhibition celebrates Roy Lichtenstein",
+              "source_url": "https://www.theguardian.com/artanddesign/2026/oct/11/roy-lichtenstein-exhibition-whitney-museum",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "視覺藝術",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261012_evt_042",
+          "headline": "英國鄉間市集動物攝影",
+          "context": "阿根廷出身的攝影師伊莉娜・韋爾寧（Irina Werning）在鄉間長大，身邊總有動物相伴。這個夏天，她走訪英國艾塞克斯、肯特、薩里、格洛斯特郡與白金漢郡等地的農業市集，拍下人與動物相處的畫面，延續她多年前在阿根廷展開的攝影計畫。",
+          "beat": "ARTS",
+          "thread_text": "英國鄉間市集動物攝影\n\n阿根廷出身的攝影師伊莉娜・韋爾寧（Irina Werning）在鄉間長大，身邊總有動物相伴。這個夏天，她走訪英國艾塞克斯、肯特、薩里、格洛斯特郡與白金漢郡等地的農業市集，拍下人與動物相處的畫面，延續她多年前在阿根廷展開的攝影計畫。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "英國鄉間市集動物攝影\n\n阿根廷出身的攝影師伊莉娜・韋爾寧（Irina Werning）在鄉間長大，身邊總有動物相伴。這個夏天，她走訪英國艾塞克斯、肯特、薩里、格洛斯特郡與白金漢郡等地的農業市集，拍下人與動物相處的畫面，延續她多年前在阿根廷展開的攝影計畫。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "有位攝影師，這個夏天走訪英國各地的農業市集，拍下人和動物相處的畫面。她叫伊莉娜・韋爾寧，在阿根廷鄉間長大，身邊一直有動物相伴。這個拍攝計畫，她其實多年前就在阿根廷開始了。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "英國鄉間市集動物攝影\n\n阿根廷出身的攝影師伊莉娜・韋爾寧（Irina Werning）在鄉間長大，身邊總有動物相伴。這個夏天，她走訪英國艾塞克斯、肯特、薩里、格洛斯特郡與白金漢郡等地的農業市集，拍下人與動物相處的畫面，延續她多年前在阿根廷展開的攝影計畫。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "英國鄉間市集動物攝影\n\n阿根廷出身的攝影師伊莉娜・韋爾寧（Irina Werning）在鄉間長大，身邊總有動物相伴。這個夏天，她走訪英國艾塞克斯、肯特、薩里、格洛斯特郡與白金漢郡等地的農業市集，拍下人與動物相處的畫面，延續她多年前在阿根廷展開的攝影計畫。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "有位攝影師，這個夏天走訪英國各地的農業市集，拍下人和動物相處的畫面。她叫伊莉娜・韋爾寧，在阿根廷鄉間長大，身邊一直有動物相伴。這個拍攝計畫，她其實多年前就在阿根廷開始了。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_art_design",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Photographer Irina Werning, who grew up in rural Argentina surrounded by animals, has spent the summer photographing animals and their people at county and agricultural shows across the UK, from Essex and Kent to Surrey, Gloucestershire and Buckinghamshire, a project she began in Argentina. ‘As animals become less visible in the countryside, I’ve turned to agricultural shows – places where people still gather to see and celebrate them. For the past four years, I’ve photographed these fairs in Argentina and the UK, exploring our changing relationship with animals. I see them as a kind of Darwinian theatre, looking for moments when humans and animals unexpectedly mirror each other’ Continue reading...",
+              "title": "Animals and their people: country shows across the UK – in pictures",
+              "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/11/animals-people-country-shows-across-uk-in-pictures",
+              "published_at": "2026-10-11T14:00:18+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "攝影師伊莉娜・韋爾寧這個夏天走訪英國多地農業市集，拍攝人與動物相處的畫面，延續她在阿根廷展開的攝影計畫。",
+              "source_id": "guardian_art_design",
+              "source_title": "Animals and their people: country shows across the UK – in pictures",
+              "source_url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/11/animals-people-country-shows-across-uk-in-pictures",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "視覺藝術",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "AI",
+      "title": "AI 新知",
+      "emoji": "🤖",
+      "items": [
+        {
+          "event_id": "daily_20261012_evt_081",
+          "headline": "實測Google AI遊戲平台",
+          "context": "有人用Google的AI遊戲製作工具「AI Playground」，做了一整天的遊戲，形容這段經歷像在『AI垃圾』堆裡挖礦——做出來的東西，大多很糟。",
+          "beat": "AI",
+          "thread_text": "實測Google AI遊戲平台\n\n有人用Google的AI遊戲製作工具「AI Playground」，做了一整天的遊戲，形容這段經歷像在『AI垃圾』堆裡挖礦——做出來的東西，大多很糟。\n\n—— 本則來自Wired 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "實測Google AI遊戲平台\n\n有人用Google的AI遊戲製作工具「AI Playground」，做了一整天的遊戲，形容這段經歷像在『AI垃圾』堆裡挖礦——做出來的東西，大多很糟。\n\n本則來自Wired於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "有人用Google的AI遊戲製作工具，做了一整天的遊戲。他形容這段經歷，就像在『AI垃圾』堆裡挖礦——做出來的東西，大多很糟。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "實測Google AI遊戲平台\n\n有人用Google的AI遊戲製作工具「AI Playground」，做了一整天的遊戲，形容這段經歷像在『AI垃圾』堆裡挖礦——做出來的東西，大多很糟。\n\n—— 本則來自Wired 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "實測Google AI遊戲平台\n\n有人用Google的AI遊戲製作工具「AI Playground」，做了一整天的遊戲，形容這段經歷像在『AI垃圾』堆裡挖礦——做出來的東西，大多很糟。\n\n本則來自Wired於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "有人用Google的AI遊戲製作工具，做了一整天的遊戲。他形容這段經歷，就像在『AI垃圾』堆裡挖礦——做出來的東西，大多很糟。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "wired_ai",
+              "name": "Wired",
+              "publisher": "Wired",
+              "summary": "A long day’s haul in the video game slop mines.",
+              "title": "I Made Terrible Games With Google’s AI Playground",
+              "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+              "published_at": "2026-10-11T19:30:00+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "作者使用Google的AI遊戲製作工具「AI Playground」做了一整天遊戲，形容過程像在遊戲垃圾中挖礦，成果大多不佳。",
+              "source_id": "wired_ai",
+              "source_title": "I Made Terrible Games With Google’s AI Playground",
+              "source_url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "explicit_commentary",
+          "selection_reason": "source_tier_2"
+        },
+        {
+          "event_id": "daily_20261012_evt_012",
+          "headline": "納德拉籲AI設緊急煞車",
+          "context": "微軟執行長薩蒂亞・納德拉（Satya Nadella）在一篇貼文中寫道，現在是時候「退一步，重新檢視AI的信任架構」。他認為，AI系統需要一個類似「緊急煞車」的機制。",
+          "beat": "AI",
+          "thread_text": "納德拉籲AI設緊急煞車\n\n微軟執行長薩蒂亞・納德拉（Satya Nadella）在一篇貼文中寫道，現在是時候「退一步，重新檢視AI的信任架構」。他認為，AI系統需要一個類似「緊急煞車」的機制。\n\n—— 本則來自TechCrunch 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "納德拉籲AI設緊急煞車\n\n微軟執行長薩蒂亞・納德拉（Satya Nadella）在一篇貼文中寫道，現在是時候「退一步，重新檢視AI的信任架構」。他認為，AI系統需要一個類似「緊急煞車」的機制。\n\n本則來自TechCrunch於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "微軟執行長納德拉說，AI系統需要一個「緊急煞車」。他在一篇貼文裡寫道，現在是時候退一步，重新檢視AI的信任架構。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "納德拉籲AI設緊急煞車\n\n微軟執行長薩蒂亞・納德拉（Satya Nadella）在一篇貼文中寫道，現在是時候「退一步，重新檢視AI的信任架構」。他認為，AI系統需要一個類似「緊急煞車」的機制。\n\n—— 本則來自TechCrunch 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "納德拉籲AI設緊急煞車\n\n微軟執行長薩蒂亞・納德拉（Satya Nadella）在一篇貼文中寫道，現在是時候「退一步，重新檢視AI的信任架構」。他認為，AI系統需要一個類似「緊急煞車」的機制。\n\n本則來自TechCrunch於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "微軟執行長納德拉說，AI系統需要一個「緊急煞車」。他在一篇貼文裡寫道，現在是時候退一步，重新檢視AI的信任架構。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "techcrunch_ai",
+              "name": "TechCrunch",
+              "publisher": "TechCrunch",
+              "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+              "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+              "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+              "published_at": "2026-10-11T05:47:51+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "微軟執行長薩蒂亞・納德拉在貼文中表示，是時候重新檢視AI的信任架構，AI系統需要「緊急煞車」機制。",
+              "source_id": "techcrunch_ai",
+              "source_title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+              "source_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2"
+        },
+        {
+          "event_id": "daily_20261012_evt_109",
+          "headline": "高層：語音AI未到突破點",
+          "context": "有科技業高層認為，語音AI還沒有迎來屬於自己的「ChatGPT時刻」——也就是那種讓大眾驚艷、全面爆紅的突破點。他們指出，語音AI常常抓不住對話的脈絡重點，導致整套系統的運作因此出錯。",
+          "beat": "AI",
+          "thread_text": "高層：語音AI未到突破點\n\n有科技業高層認為，語音AI還沒有迎來屬於自己的「ChatGPT時刻」——也就是那種讓大眾驚艷、全面爆紅的突破點。他們指出，語音AI常常抓不住對話的脈絡重點，導致整套系統的運作因此出錯。\n\n—— 本則來自TechCrunch 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "高層：語音AI未到突破點\n\n有科技業高層認為，語音AI還沒有迎來屬於自己的「ChatGPT時刻」——也就是那種讓大眾驚艷、全面爆紅的突破點。他們指出，語音AI常常抓不住對話的脈絡重點，導致整套系統的運作因此出錯。\n\n本則來自TechCrunch於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "有科技業高層認為，語音AI還沒有迎來屬於自己的「ChatGPT時刻」。他們說，語音AI常常抓不住對話的脈絡重點，導致整套系統因此出錯。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "高層：語音AI未到突破點\n\n有科技業高層認為，語音AI還沒有迎來屬於自己的「ChatGPT時刻」——也就是那種讓大眾驚艷、全面爆紅的突破點。他們指出，語音AI常常抓不住對話的脈絡重點，導致整套系統的運作因此出錯。\n\n—— 本則來自TechCrunch 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "高層：語音AI未到突破點\n\n有科技業高層認為，語音AI還沒有迎來屬於自己的「ChatGPT時刻」——也就是那種讓大眾驚艷、全面爆紅的突破點。他們指出，語音AI常常抓不住對話的脈絡重點，導致整套系統的運作因此出錯。\n\n本則來自TechCrunch於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "有科技業高層認為，語音AI還沒有迎來屬於自己的「ChatGPT時刻」。他們說，語音AI常常抓不住對話的脈絡重點，導致整套系統因此出錯。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "techcrunch_ai",
+              "name": "TechCrunch",
+              "publisher": "TechCrunch",
+              "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+              "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+              "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+              "published_at": "2026-10-11T22:00:00+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "科技業高層認為語音AI尚未出現如ChatGPT般的突破時刻，原因是語音AI常漏接對話脈絡，導致整套系統出錯。",
+              "source_id": "techcrunch_ai",
+              "source_title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+              "source_url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2"
+        }
+      ]
+    },
+    {
+      "beat": "ECON",
+      "title": "全球經濟趨勢",
+      "emoji": "📊",
+      "items": [
+        {
+          "event_id": "daily_20261012_evt_073",
+          "headline": "英國農民示警糧食供應",
+          "context": "英國糧食業者，加入了警告英國供應鏈脆弱的聲浪。諾福克一名耕作農夫詹米・波羅斯（Jamie Burrows）說，許多能幹又有效率的農民，正苦惱該如何籌措資金，買下一季該種的作物。",
+          "beat": "ECON",
+          "thread_text": "英國農民示警糧食供應\n\n英國糧食業者，加入了警告英國供應鏈脆弱的聲浪。諾福克一名耕作農夫詹米・波羅斯（Jamie Burrows）說，許多能幹又有效率的農民，正苦惱該如何籌措資金，買下一季該種的作物。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "英國農民示警糧食供應\n\n英國糧食業者，加入了警告英國供應鏈脆弱的聲浪。諾福克一名耕作農夫詹米・波羅斯（Jamie Burrows）說，許多能幹又有效率的農民，正苦惱該如何籌措資金，買下一季該種的作物。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "英國的糧食業者，最近都在警告，供應鏈已經很脆弱了。諾福克一位農夫說，有很多能幹又有效率的農民，正苦惱該怎麼籌錢，買下一季該種的作物。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "英國農民示警糧食供應\n\n英國糧食業者，加入了警告英國供應鏈脆弱的聲浪。諾福克一名耕作農夫詹米・波羅斯（Jamie Burrows）說，許多能幹又有效率的農民，正苦惱該如何籌措資金，買下一季該種的作物。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "英國農民示警糧食供應\n\n英國糧食業者，加入了警告英國供應鏈脆弱的聲浪。諾福克一名耕作農夫詹米・波羅斯（Jamie Burrows）說，許多能幹又有效率的農民，正苦惱該如何籌措資金，買下一季該種的作物。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "英國的糧食業者，最近都在警告，供應鏈已經很脆弱了。諾福克一位農夫說，有很多能幹又有效率的農民，正苦惱該怎麼籌錢，買下一季該種的作物。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_business",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Food producers are adding their voices to the chorus of warnings about the vulnerability of British supply chains “There are so many decent, capable, productive, efficient arable farmers out there, asking how they are supposed to finance the crop they are meant to be putting in the ground,” Jamie Burrows says. Sitting in his tractor at his arable farm in Norfolk, Burrows is listing the multiple challenges facing him and other food producers. Continue reading...",
+              "title": "‘Some aren’t going to make it’: how pressure on farmers threatens UK food security",
+              "url": "https://www.theguardian.com/uk-news/2026/oct/11/farmers-uk-food-security-producers-supply-chains",
+              "published_at": "2026-10-11T19:00:24+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "英國糧食業者加入警告供應鏈脆弱的聲浪，諾福克農夫詹米・波羅斯指出許多農民正苦於籌措資金購買下一季作物。",
+              "source_id": "guardian_business",
+              "source_title": "‘Some aren’t going to make it’: how pressure on farmers threatens UK food security",
+              "source_url": "https://www.theguardian.com/uk-news/2026/oct/11/farmers-uk-food-security-producers-supply-chains",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 35,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1; economy_macro_policy"
+        },
+        {
+          "event_id": "daily_20261012_evt_067",
+          "headline": "債市動盪重擊發展中國家",
+          "context": "全球債市最近劇烈波動，從華盛頓、巴黎到倫敦、東京，各國決策者都在計算這波動盪的代價。但承受最大衝擊的，其實是負債沉重、幾乎無法影響國際投資人動向的發展中國家——聯合國已警告，這些國家正面臨三重衝擊。市場因中東戰事與美國政府財政揮霍而拋售公債，帶動全球借貸成本上升。",
+          "beat": "ECON",
+          "thread_text": "債市動盪重擊發展中國家\n\n全球債市最近劇烈波動，從華盛頓、巴黎到倫敦、東京，各國決策者都在計算這波動盪的代價。但承受最大衝擊的，其實是負債沉重、幾乎無法影響國際投資人動向的發展中國家——聯合國已警告，這些國家正面臨三重衝擊。市場因中東戰事與美國政府財政揮霍而拋售公債，帶動全球借貸成本上升。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "債市動盪重擊發展中國家\n\n全球債市最近劇烈波動，從華盛頓、巴黎到倫敦、東京，各國決策者都在計算這波動盪的代價。但承受最大衝擊的，其實是負債沉重、幾乎無法影響國際投資人動向的發展中國家——聯合國已警告，這些國家正面臨三重衝擊。市場因中東戰事與美國政府財政揮霍而拋售公債，帶動全球借貸成本上升。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "全球債市最近動盪得很厲害。從華盛頓、巴黎，到倫敦、東京，各國決策者都在算這波動盪要付出多少代價。但真正扛下最大衝擊的，是那些負債沉重、幾乎沒辦法左右國際投資人心意的發展中國家——聯合國已經警告，這些國家正面臨三重衝擊。這波市場拋售公債，是因為中東戰事，加上美國政府財政揮霍，結果讓全球借貸成本都跟著上升。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "債市動盪重擊發展中國家\n\n全球債市最近劇烈波動，從華盛頓、巴黎到倫敦、東京，各國決策者都在計算這波動盪的代價。但承受最大衝擊的，其實是負債沉重、幾乎無法影響國際投資人動向的發展中國家——聯合國已警告，這些國家正面臨三重衝擊。市場因中東戰事與美國政府財政揮霍而拋售公債，帶動全球借貸成本上升。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "債市動盪重擊發展中國家\n\n全球債市最近劇烈波動，從華盛頓、巴黎到倫敦、東京，各國決策者都在計算這波動盪的代價。但承受最大衝擊的，其實是負債沉重、幾乎無法影響國際投資人動向的發展中國家——聯合國已警告，這些國家正面臨三重衝擊。市場因中東戰事與美國政府財政揮霍而拋售公債，帶動全球借貸成本上升。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "全球債市最近動盪得很厲害。從華盛頓、巴黎，到倫敦、東京，各國決策者都在算這波動盪要付出多少代價。但真正扛下最大衝擊的，是那些負債沉重、幾乎沒辦法左右國際投資人心意的發展中國家——聯合國已經警告，這些國家正面臨三重衝擊。這波市場拋售公債，是因為中東戰事，加上美國政府財政揮霍，結果讓全球借貸成本都跟著上升。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_business",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Just as Brown and Blair did in 2005, Andy Burnham aims to champion debt relief to help developing countries Developing nations face triple shock, UN warns From Washington to Paris, London to Tokyo, policymakers in every large economy have been counting the costs of bond market turmoil in recent weeks. But the brunt of the pain is being borne by heavily indebted developing countries that have little hope of influencing the whims of global investors, but pay the price regardless. Markets have responded to the war in the Middle East, and a spendthrift White House, by dumping government bonds – driving up borrowing costs just about everywhere. Continue reading...",
+              "title": "Labour has got the message – developing nations suffer most from bond market turmoil | Heather Stewart",
+              "url": "https://www.theguardian.com/business/2026/oct/11/labour-bond-market-turmoil-developing-nations-andy-burnham-brown-blair",
+              "published_at": "2026-10-11T18:11:19+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "全球債市近期劇烈波動，負債沉重的發展中國家承受最大衝擊，聯合國警告這些國家面臨三重衝擊；市場因中東戰事與美國財政揮霍拋售公債，推升全球借貸成本。",
+              "source_id": "guardian_business",
+              "source_title": "Labour has got the message – developing nations suffer most from bond market turmoil | Heather Stewart",
+              "source_url": "https://www.theguardian.com/business/2026/oct/11/labour-bond-market-turmoil-developing-nations-andy-burnham-brown-blair",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "light_context",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261012_evt_041",
+          "headline": "英三黨氣候政策分歧",
+          "context": "英國三大政黨的氣候立場，在今年的政黨黨代表大會上出現明顯分歧。保守黨計畫廢除「未來住宅標準」（Future Homes Standard），黨魁凱米・巴丹諸克（Kemi Badenoch）把這項政策當成她角逐下任首相的重點之一——若保守黨執政，新建住宅可能不再強制裝設太陽能板、熱泵與高規格隔熱設施，家庭電費恐因此上升。另一方面，綠黨支持興建新的核能反應爐，工黨則暫緩對石油鑽探的決策。",
+          "beat": "ECON",
+          "thread_text": "英三黨氣候政策分歧\n\n英國三大政黨的氣候立場，在今年的政黨黨代表大會上出現明顯分歧。保守黨計畫廢除「未來住宅標準」（Future Homes Standard），黨魁凱米・巴丹諸克（Kemi Badenoch）把這項政策當成她角逐下任首相的重點之一——若保守黨執政，新建住宅可能不再強制裝設太陽能板、熱泵與高規格隔熱設施，家庭電費恐因此上升。另一方面，綠黨支持興建新的核能反應爐，工黨則暫緩對石油鑽探的決策。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "英三黨氣候政策分歧\n\n英國三大政黨的氣候立場，在今年的政黨黨代表大會上出現明顯分歧。保守黨計畫廢除「未來住宅標準」（Future Homes Standard），黨魁凱米・巴丹諸克（Kemi Badenoch）把這項政策當成她角逐下任首相的重點之一——若保守黨執政，新建住宅可能不再強制裝設太陽能板、熱泵與高規格隔熱設施，家庭電費恐因此上升。另一方面，綠黨支持興建新的核能反應爐，工黨則暫緩對石油鑽探的決策。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "英國三大政黨，在氣候政策上，立場差很多。保守黨想廢除「未來住宅標準」，黨魁凱米・巴丹諸克把這件事，當成她角逐下任首相的重點之一。如果保守黨執政，新建住宅可能不用再裝太陽能板、熱泵和高規格隔熱——家庭電費恐怕反而會上升。至於綠黨，支持興建新的核能反應爐；工黨，則先把石油鑽探的決定押著不動。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "英三黨氣候政策分歧\n\n英國三大政黨的氣候立場，在今年的政黨黨代表大會上出現明顯分歧。保守黨計畫廢除「未來住宅標準」（Future Homes Standard），黨魁凱米・巴丹諸克（Kemi Badenoch）把這項政策當成她角逐下任首相的重點之一——若保守黨執政，新建住宅可能不再強制裝設太陽能板、熱泵與高規格隔熱設施，家庭電費恐因此上升。另一方面，綠黨支持興建新的核能反應爐，工黨則暫緩對石油鑽探的決策。\n\n—— 本則來自衛報 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "英三黨氣候政策分歧\n\n英國三大政黨的氣候立場，在今年的政黨黨代表大會上出現明顯分歧。保守黨計畫廢除「未來住宅標準」（Future Homes Standard），黨魁凱米・巴丹諸克（Kemi Badenoch）把這項政策當成她角逐下任首相的重點之一——若保守黨執政，新建住宅可能不再強制裝設太陽能板、熱泵與高規格隔熱設施，家庭電費恐因此上升。另一方面，綠黨支持興建新的核能反應爐，工黨則暫緩對石油鑽探的決策。\n\n本則來自衛報於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "英國三大政黨，在氣候政策上，立場差很多。保守黨想廢除「未來住宅標準」，黨魁凱米・巴丹諸克把這件事，當成她角逐下任首相的重點之一。如果保守黨執政，新建住宅可能不用再裝太陽能板、熱泵和高規格隔熱——家庭電費恐怕反而會上升。至於綠黨，支持興建新的核能反應爐；工黨，則先把石油鑽探的決定押著不動。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_business",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Tories plan to scrap low-carbon housebuilding, Greens back new nuclear reactors, and Labour put oil-drilling decisions on hold New homes could be built without solar panels, heat pumps and high-grade insulation, leading to higher household bills if the Conservative party wins the next general election. Kemi Badenoch made scrapping the future homes standard (FHS) one of the central planks of her bid to become the next prime minister at the Tory party conference this week. Continue reading...",
+              "title": "‘We need less point scoring’: What party conference season taught us about UK climate action",
+              "url": "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour",
+              "published_at": "2026-10-11T14:00:18+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "英國保守黨計畫廢除未來住宅標準，黨魁凱米・巴丹諸克將此列為角逐下任首相的重點，若執政新建住宅恐不再強制裝太陽能板、熱泵與高規格隔熱；綠黨支持新建核能反應爐，工黨暫緩石油鑽探決策。",
+              "source_id": "guardian_business",
+              "source_title": "‘We need less point scoring’: What party conference season taught us about UK climate action",
+              "source_url": "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261012_evt_143",
+          "headline": "馬斯克允印度低價Starlink",
+          "context": "特斯拉與SpaceX創辦人馬斯克（Elon Musk）承諾，將在印度提供價格較親民的Starlink衛星網路服務，這項消息發布的時間點，就在印度富商安巴尼（Ambani）旗下Jio電信即將進行創紀錄規模IPO之前。",
+          "beat": "ECON",
+          "thread_text": "馬斯克允印度低價Starlink\n\n特斯拉與SpaceX創辦人馬斯克（Elon Musk）承諾，將在印度提供價格較親民的Starlink衛星網路服務，這項消息發布的時間點，就在印度富商安巴尼（Ambani）旗下Jio電信即將進行創紀錄規模IPO之前。\n\n—— 本則來自路透社 2026 年 10 月 12 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "馬斯克允印度低價Starlink\n\n特斯拉與SpaceX創辦人馬斯克（Elon Musk）承諾，將在印度提供價格較親民的Starlink衛星網路服務，這項消息發布的時間點，就在印度富商安巴尼（Ambani）旗下Jio電信即將進行創紀錄規模IPO之前。\n\n本則來自路透社於 2026 年 10 月 12 日發佈的報導。",
+          "voice_text": "馬斯克承諾，要在印度提供價格比較親民的Starlink衛星網路。這個消息公布的時間點，就卡在印度富商安巴尼旗下Jio電信，即將進行創紀錄規模IPO之前。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "馬斯克允印度低價Starlink\n\n特斯拉與SpaceX創辦人馬斯克（Elon Musk）承諾，將在印度提供價格較親民的Starlink衛星網路服務，這項消息發布的時間點，就在印度富商安巴尼（Ambani）旗下Jio電信即將進行創紀錄規模IPO之前。\n\n—— 本則來自路透社 2026 年 10 月 12 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "馬斯克允印度低價Starlink\n\n特斯拉與SpaceX創辦人馬斯克（Elon Musk）承諾，將在印度提供價格較親民的Starlink衛星網路服務，這項消息發布的時間點，就在印度富商安巴尼（Ambani）旗下Jio電信即將進行創紀錄規模IPO之前。\n\n本則來自路透社於 2026 年 10 月 12 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "馬斯克承諾，要在印度提供價格比較親民的Starlink衛星網路。這個消息公布的時間點，就卡在印度富商安巴尼旗下Jio電信，即將進行創紀錄規模IPO之前。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_business_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO Reuters",
+              "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
+              "published_at": "2026-10-12T02:58:34+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "馬斯克承諾將在印度提供低價Starlink服務，時間點正好在安巴尼旗下Jio電信創紀錄規模IPO之前。",
+              "source_id": "reuters_business_google_news",
+              "source_title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "PTS_LOCAL",
+      "title": "公視在地新聞",
+      "emoji": "🇹🇼",
+      "items": [
+        {
+          "event_id": "daily_20261012_evt_027",
+          "headline": "國慶煙火移師台東",
+          "context": "國慶日這天，從白天熱鬧到黑夜：台北101的國慶展演結合絢爛花火與無人機表演，吸引滿滿人潮；台北賓館的國慶酒會則以道地美食展開「小吃外交」。而國慶晚間的重頭戲，則移師台東——1萬9000多發的國慶焰火，點亮了台東的夜空，台東縣府估計吸引約5萬人湧入市區共賞。",
+          "beat": "PTS_LOCAL",
+          "thread_text": "🇹🇼 台灣相關 ——\n國慶煙火移師台東\n\n國慶日這天，從白天熱鬧到黑夜：台北101的國慶展演結合絢爛花火與無人機表演，吸引滿滿人潮；台北賓館的國慶酒會則以道地美食展開「小吃外交」。而國慶晚間的重頭戲，則移師台東——1萬9000多發的國慶焰火，點亮了台東的夜空，台東縣府估計吸引約5萬人湧入市區共賞。\n\n—— 本則來自公視 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "🇹🇼 台灣相關 ——\n國慶煙火移師台東\n\n國慶日這天，從白天熱鬧到黑夜：台北101的國慶展演結合絢爛花火與無人機表演，吸引滿滿人潮；台北賓館的國慶酒會則以道地美食展開「小吃外交」。而國慶晚間的重頭戲，則移師台東——1萬9000多發的國慶焰火，點亮了台東的夜空，台東縣府估計吸引約5萬人湧入市區共賞。\n\n本則來自公視於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "這則跟台灣有關。國慶日這天，從白天熱鬧到黑夜：台北101的國慶展演結合花火與無人機表演，吸引滿滿人潮；台北賓館的國慶酒會，則用道地美食做起「小吃外交」。晚間的重頭戲移師台東——1萬9000多發的國慶焰火，點亮了台東的夜空，縣府估計約5萬人湧入市區共賞。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "🇹🇼 台灣相關 ——\n國慶煙火移師台東\n\n國慶日這天，從白天熱鬧到黑夜：台北101的國慶展演結合絢爛花火與無人機表演，吸引滿滿人潮；台北賓館的國慶酒會則以道地美食展開「小吃外交」。而國慶晚間的重頭戲，則移師台東——1萬9000多發的國慶焰火，點亮了台東的夜空，台東縣府估計吸引約5萬人湧入市區共賞。\n\n—— 本則來自公視 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "🇹🇼 台灣相關 ——\n國慶煙火移師台東\n\n國慶日這天，從白天熱鬧到黑夜：台北101的國慶展演結合絢爛花火與無人機表演，吸引滿滿人潮；台北賓館的國慶酒會則以道地美食展開「小吃外交」。而國慶晚間的重頭戲，則移師台東——1萬9000多發的國慶焰火，點亮了台東的夜空，台東縣府估計吸引約5萬人湧入市區共賞。\n\n本則來自公視於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "這則跟台灣有關。國慶日這天，從白天熱鬧到黑夜：台北101的國慶展演結合花火與無人機表演，吸引滿滿人潮；台北賓館的國慶酒會，則用道地美食做起「小吃外交」。晚間的重頭戲移師台東——1萬9000多發的國慶焰火，點亮了台東的夜空，縣府估計約5萬人湧入市區共賞。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "pts_news",
+              "name": "公視",
+              "publisher": "公視",
+              "summary": "國慶日從白天熱鬧到黑夜，台北101國慶展演結合絢爛花火和無人機，吸引滿滿人潮，台北賓館國慶酒會則以道地美食展開小吃外交，另外國慶晚間的重頭戲移師台東，1萬9000多發國慶焰火點亮台東夜空，帶來一場震撼的視覺饗宴。",
+              "title": "國慶煙火移師台東 縣府估5萬人湧市區共賞",
+              "url": "https://news.pts.org.tw/article/830821",
+              "published_at": "2026-10-11T12:36:02+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "國慶日台北101結合花火與無人機展演、台北賓館以美食展開小吃外交，晚間重頭戲移師台東，1萬9000多發焰火點亮夜空，縣府估約5萬人湧入市區共賞。",
+              "source_id": "pts_news",
+              "source_title": "國慶煙火移師台東 縣府估5萬人湧市區共賞",
+              "source_url": "https://news.pts.org.tw/article/830821",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": true,
+          "selection_score": 15,
+          "tw_highlight_reason": "Mentions 台北 in context of 外交.",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261012_evt_029",
+          "headline": "聾人舞者靠震動跳舞",
+          "context": "在西非國家布吉納法索，有一群聾人與聽障舞者，透過特殊的「震動手語」技巧，靠地板震動和身體動作感受、跟上音樂節奏。對他們而言，跳舞不只是表演，也讓他們有更多機會跟社會互動。",
+          "beat": "PTS_LOCAL",
+          "thread_text": "聾人舞者靠震動跳舞\n\n在西非國家布吉納法索，有一群聾人與聽障舞者，透過特殊的「震動手語」技巧，靠地板震動和身體動作感受、跟上音樂節奏。對他們而言，跳舞不只是表演，也讓他們有更多機會跟社會互動。\n\n—— 本則來自公視 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "聾人舞者靠震動跳舞\n\n在西非國家布吉納法索，有一群聾人與聽障舞者，透過特殊的「震動手語」技巧，靠地板震動和身體動作感受、跟上音樂節奏。對他們而言，跳舞不只是表演，也讓他們有更多機會跟社會互動。\n\n本則來自公視於 2026 年 10 月 11 日發佈的報導。",
+          "voice_text": "聽不見音樂，也能跳舞。在西非的布吉納法索，有一群聾人和聽障舞者，靠地板的震動和身體動作，感受並跟上音樂的節奏。對他們來說，跳舞不只是表演，也是跟社會互動的機會。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "聾人舞者靠震動跳舞\n\n在西非國家布吉納法索，有一群聾人與聽障舞者，透過特殊的「震動手語」技巧，靠地板震動和身體動作感受、跟上音樂節奏。對他們而言，跳舞不只是表演，也讓他們有更多機會跟社會互動。\n\n—— 本則來自公視 2026 年 10 月 11 日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "聾人舞者靠震動跳舞\n\n在西非國家布吉納法索，有一群聾人與聽障舞者，透過特殊的「震動手語」技巧，靠地板震動和身體動作感受、跟上音樂節奏。對他們而言，跳舞不只是表演，也讓他們有更多機會跟社會互動。\n\n本則來自公視於 2026 年 10 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "聽不見音樂，也能跳舞。在西非的布吉納法索，有一群聾人和聽障舞者，靠地板的震動和身體動作，感受並跟上音樂的節奏。對他們來說，跳舞不只是表演，也是跟社會互動的機會。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "pts_news",
+              "name": "公視",
+              "publisher": "公視",
+              "summary": "聽不見音樂還是能夠跳舞，在西非國家布吉納法索，有一群聾人和聽障舞者，透過特殊的「震動手語」技巧，利用地板震動還有身體動作，感受並跟上音樂節奏。對他們來說，跳舞不只是表演，也讓他們有更多與社會互動的機會。",
+              "title": "聽不見音樂也能跳舞 聾人舞者透過震動感受節奏",
+              "url": "https://news.pts.org.tw/article/830812",
+              "published_at": "2026-10-11T12:38:08+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "布吉納法索聾人與聽障舞者透過震動手語技巧，靠地板震動和身體動作感受並跟上音樂節奏，跳舞也成為他們與社會互動的機會。",
+              "source_id": "pts_news",
+              "source_title": "聽不見音樂也能跳舞 聾人舞者透過震動感受節奏",
+              "source_url": "https://news.pts.org.tw/article/830812",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_feeds_checked": 27,
+    "total_feeds_failed": 0,
+    "total_feeds_failed_remote_blocked": 0,
+    "total_articles_fetched": 210,
+    "total_articles_after_filter": 199,
+    "total_events_merged": 159,
+    "total_events_selected": 18,
+    "tw_highlights_count": 2
+  },
+  "dropped_events": [
+    {
+      "event_id": "daily_20261012_evt_119",
+      "headline": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "selection_score": 45,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_014",
+      "headline": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_021",
+      "headline": "Protesters seeking India election chief's ouster detained, as 'cockroach' leaders released - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_132",
+      "headline": "Glucksmann wins centre-left ticket for France's presidential election - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_018",
+      "headline": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_115",
+      "headline": "How the ICC can be saved",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_128",
+      "headline": "‘Who will represent us?’ Palestinians react to election delay",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_148",
+      "headline": "Republican senator says Trump diesel agreement with Russia may be illegal",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_157",
+      "headline": "Two killed near Israeli-occupied area in south Lebanon",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_001",
+      "headline": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_017",
+      "headline": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_019",
+      "headline": "South Korea completes Arctic-Europe commercial voyage, eyes regular service despite risks - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_020",
+      "headline": "US military says it disabled cargo vessel trying to run Iran blockade - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_023",
+      "headline": "Chinese Apple supplier Luxshare sees little negative impact from US patent infringement probe - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_026",
+      "headline": "India unveils steel policy aiming for 604 million tons capacity by 2047 - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_028",
+      "headline": "India's 'cockroach' movement leader released from detention, lawyer says - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_030",
+      "headline": "長年乾旱智利阿塔卡瑪沙漠 冬季強降雨後逾2百種植物綻放",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_031",
+      "headline": "All 22 Indian crew rescued and safe after incident off UAE coast, consulate says - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_033",
+      "headline": "US justice department investigates TV networks over Trump pool coverage",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_035",
+      "headline": "麥寮王船文化祭開幕 「雙媽」四百年來首碰面",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_036",
+      "headline": "林口男子駕車拒檢逃逸5公里 失控撞警車搜出毒品",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_037",
+      "headline": "與台灣建交58週年 史瓦帝尼國王第二十度率團訪台",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_038",
+      "headline": "沙國首都機場遇襲12死逾3百傷 一週以來第三度遭攻擊",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_039",
+      "headline": "國慶焰火引卑南溪濕地火警 保育團體憂影響生態",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_046",
+      "headline": "Yemen's Houthis renew warning to airlines, travellers against using Saudi airports - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_047",
+      "headline": "Russia's Yandex says data centre in Vladimir area shut down after drone attack - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_049",
+      "headline": "一週大事／賴清德發表第三次國慶文告 諾貝爾獎得主揭曉（2026.10.5-10.11）",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_058",
+      "headline": "中國巴基斯坦在新疆首次陸軍聯訓  專家：不排除未來跨境反恐",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_059",
+      "headline": "川普貿易戰使美國製造商承壓　民主黨盼期中選舉藉此反攻",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_060",
+      "headline": "美5大電視網共同抵制白宮採訪　司法部啟動反壟斷調查",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_061",
+      "headline": "沙國首都機場遇襲暫未恢復運作　利雅德學校改遠距上課一週",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_062",
+      "headline": "公明黨幹事長稱「日本承認台灣歸還中國」政論家批捏造歷史",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_065",
+      "headline": "川普再拋更名構想　擬將大西洋或太平洋改稱「美洲洋」",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_068",
+      "headline": "川普籲烏換總統　澤倫斯基：願停攻俄煉油廠但須對等",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_070",
+      "headline": "吉布地開往葉門移民船翻覆　至少109死逾116人失蹤",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_072",
+      "headline": "‘The crime fiction I’m interested in is political’: Ian Rankin on his new novel about the super-rich",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_075",
+      "headline": "Did Trump get one thing right about Greenland?",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_076",
+      "headline": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_077",
+      "headline": "日本民調32.5%視中國為最大威脅　逾8成認川普有負面影響",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_080",
+      "headline": "From theatre to streets, Gen Z protester Neha Bora a new face of India's youth unrest - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_082",
+      "headline": "The Prime of Miss Jean Brodie review – Muriel Spark’s extraordinary heroine made more extraordinary still",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_083",
+      "headline": "澤倫斯基批美放寬對俄制裁 川普籲烏克蘭「換總統」",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_084",
+      "headline": "國慶連假收假日 國五北向部分路段已現壅塞",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_085",
+      "headline": "民眾連假訪東海大學牧場 見證國慶牛寶寶誕生",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_086",
+      "headline": "日台友好聯盟訪台賀國慶 古屋圭司籲國際守護台海和平",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_087",
+      "headline": "男子行經斜坡板重摔質疑未維護 警方認定屬路障已移除",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_089",
+      "headline": "苗栗苑裡垃圾掩埋場午後火警 燃燒猛烈國道上可見",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_090",
+      "headline": "夫婦通報2歲童摔下樓梯送醫不治 檢方調查指家長涉虐童遭押",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_091",
+      "headline": "沈伯洋盼4場辯論且有交叉詰問 蔣萬安：不是喊越多場就贏",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_092",
+      "headline": "國慶期間共軍持續侵擾我周邊 宣布明起黃海等海域實彈射擊",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_093",
+      "headline": "刺胳針列17項人類滅絕威脅清單　AI惡意使用、核衝突居首",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_094",
+      "headline": "史瓦帝尼國王第20次來訪 與總統南下參訪陸航飛訓部",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_095",
+      "headline": "韓國瑜國慶大會脫稿致詞引熱議 盧秀燕：肺腑之言「忠言逆耳」",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_096",
+      "headline": "美國啟動「337條款」調查 台灣鴻海、台達電等企業入列",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_097",
+      "headline": "防範AI風險　微軟CEO納德拉：須由人類設立與執行煞車機制",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_099",
+      "headline": "巴勒斯坦自治政府大選延期  怪罪以色列阻礙選舉",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_100",
+      "headline": "情報指俄擴大暗殺行動欲削弱挺烏力量　歐洲國防企業高層淪目標",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_101",
+      "headline": "葉門叛軍招募童兵　人權組織籲國際介入制止",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_103",
+      "headline": "Germany backs Ukraine's Zelenskiy after Trump's call for his removal - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_107",
+      "headline": "杜特蒂家族企業涉收中國資金　菲總統：若屬實將構成最高等級威脅",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_108",
+      "headline": "Strike reported on Yemeni Sanaa airport, Houthi-run TV says - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_110",
+      "headline": "川普籲烏克蘭換總統　澤倫斯基：應由人民決定",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_112",
+      "headline": "川普：俄烏同意停止攻擊彼此能源設施　即刻生效",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_113",
+      "headline": "Tom Gauld on 625 new cosy crime novels for autumn – cartoon",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_114",
+      "headline": "男子闖入英野生動物園老虎區遇襲死亡  事發前開心與虎合影",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_116",
+      "headline": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_121",
+      "headline": "川普稱俄烏同意停止攻擊能源設施　澤倫斯基大感意外",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_123",
+      "headline": "Ian Berry obituary",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_127",
+      "headline": "UK PM Burnham says Russia interfered in 2016 Brexit vote - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_129",
+      "headline": "Iran says US response to its proposal to reopen Hormuz was 'insufficient' - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_133",
+      "headline": "Poland detains man suspected of planning assassination of PM Tusk",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_139",
+      "headline": "US threatens to block arms for Ukraine over refinery attacks, FT reports - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_141",
+      "headline": "Pakistan imposes emergency rule over Imran Khan's provincial government - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_142",
+      "headline": "Polish police detain man over threat to PM and defence minister - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_145",
+      "headline": "Rallying in Sao Paulo, presidential candidates seek votes and political support - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_146",
+      "headline": "Russian attacks kill six people in two Ukrainian cities - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_147",
+      "headline": "Orangutans released back into Borneo forest after devastating fires",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_151",
+      "headline": "At least 72 Sudanese artisanal miners killed in strike, rights monitor says - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_002",
+      "headline": "Stephen King and Mike Flanagan on the Resurrected ‘Carrie’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_003",
+      "headline": "Parents fear YouTubers are bringing ‘brain rot’ to Netflix. But are kids wising up to ‘slop’?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_007",
+      "headline": "Protests against voter roll revisions rock capital of world's largest democracy",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_010",
+      "headline": "Deniz Goktas, Jailed in Turkey for a Joke, Delivers a Bold Defense in Court",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_011",
+      "headline": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_015",
+      "headline": "Conor Kennedy and Giulia Be Married in Rio",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_024",
+      "headline": "Touring Tuscany for Piero della Francesca’s Most Resplendent Artworks",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_034",
+      "headline": "TV tonight: David Tennant stars in a brutally brilliant prison drama",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_050",
+      "headline": "50 Years Later, ‘The Hite Report’ Still Matters",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_051",
+      "headline": "‘We look like soft, made-up blokes, but we’re really tough’: Duran Duran on 80s excess, tabloid scrutiny and their Halloween glow-up",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_053",
+      "headline": "Book Review: ‘The Case of the Autographed Corpse,’ by Jack El-Hai",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_054",
+      "headline": "Book Review: ‘The Havana Syndrome,’ by Michael Rey and Oriana Zill de Granados",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_056",
+      "headline": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_057",
+      "headline": "Alex Gibney on ‘Musk’ and Why a 4-Hour Film Was Necessary",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_074",
+      "headline": "‘I didn’t expect to be portrayed as a cannibal’: Rachael Stirling on eating her mother Diana Rigg’s ashes",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_079",
+      "headline": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_088",
+      "headline": "There’s more to our music than Oasis, says Manchester mayor",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_098",
+      "headline": "Richard E Grant admits Traitors mistakes: ‘I never thought they would take me seriously’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_104",
+      "headline": "Bad Boys Mean Bad Words When Shane Gillis Hosts ‘S.N.L.’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_106",
+      "headline": "Wildwood review – Laika’s pleasingly old fashioned stop-motion magic-forest odyssey",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_117",
+      "headline": "Power bank fire forces plane to emergency land in India",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_122",
+      "headline": "Tour bus crash in Turkiye leaves at least 11 dead",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_124",
+      "headline": "Football fans speak about City’s charges as they face Liverpool",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_126",
+      "headline": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_131",
+      "headline": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_135",
+      "headline": "Man City beat 10-man Liverpool 3-0 in first game after guilty verdict",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_136",
+      "headline": "Lebanon’s first electric train hopes to revive railway system",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_137",
+      "headline": "Anne Carson’s Publisher Has Won the Nobel Prize Twice in Two Years",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_140",
+      "headline": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_144",
+      "headline": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_150",
+      "headline": "Mexican president urges residents to shelter as Hurricane Simon approaches",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_153",
+      "headline": "Pakistan suspends Imran Khan’s party-led provincial government",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_154",
+      "headline": "Syrian families demand release of detainees held by Israel",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_155",
+      "headline": "Jeffrey Archer on His Favorite Books and His Final Novel",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_156",
+      "headline": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_158",
+      "headline": "‘Da Bears’ and the ‘SNL’ Sketch That Immortalized Mike Ditka",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_159",
+      "headline": "UK Greens leader seeks rule change after party declares Zionism is racism",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_013",
+      "headline": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_111",
+      "headline": "Trump says Russia and Ukraine reached 'energy ceasefire' - Reuters",
+      "selection_score": -5,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_118",
+      "headline": "Ukraine's Zelenskiy tells ABC he will organize elections if Russia agrees to 60-day ceasefire - Reuters",
+      "selection_score": -5,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_120",
+      "headline": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "selection_score": -5,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_138",
+      "headline": "Ukraine awaits details of ceasefire proposals from US, Russia maintains attacks, Zelenskiy says - Reuters",
+      "selection_score": -5,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_134",
+      "headline": "Is the Yemen war entering a new phase?",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_006",
+      "headline": "Mahachai Residence / Patara Architects",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_008",
+      "headline": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_022",
+      "headline": "RESONANCE - Tallinn Architecture Biennale Installation / Aru Ma- Architects",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_032",
+      "headline": "Facha Architekti adds \"deliberately distinct\" red extension to former-pigsty home",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_040",
+      "headline": "Home Herengracht / Studio Modijefsky",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_043",
+      "headline": "OrcaRouter Releases OrcaCyber Zero 1.5 Cybersecurity Model With 1M Context",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_044",
+      "headline": "Architecture is \"much the same\" as music says Daniel Libeskind",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_045",
+      "headline": "Designing the In-Between: From Tactical Interventions to Urban Policy in Barcelona",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_055",
+      "headline": "Ten pandemic-era dining sheds that show \"wildly different tastes\" of New Yorkers",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_063",
+      "headline": "Chaume Sublimé / COAT",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_064",
+      "headline": "\"Monolithic\" concrete house informed by rock-cut monastic homes",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_071",
+      "headline": "L'AIGUILLEUSE - Renovation of a former railway signal box into a kiosk-bar / Studio Téré",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_004",
+      "headline": "Watch: 'Time for Ukraine to get a new president', says Trump",
+      "selection_score": -25,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_078",
+      "headline": "教宗良十四世肺部發現小腫塊　日內將動刀切除",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_105",
+      "headline": "Most Gulf stocks in red after attack on Riyadh airport - Reuters",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_125",
+      "headline": "Saudi capital airport hit by second Houthi strike in two days",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_130",
+      "headline": "Indian national injured in Riyadh airport attack dies, embassy says - Reuters",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_009",
+      "headline": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_066",
+      "headline": "The Haunting of Hill House review – a slick and spooky fright night",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261012_evt_005",
+      "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "selection_score": 8,
+      "drop_reason": "total_limit_reached"
+    }
+  ]
+}

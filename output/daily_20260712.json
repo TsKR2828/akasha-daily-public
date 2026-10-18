@@ -1,0 +1,2102 @@
+{
+  "reportId": "daily_20260712",
+  "date": "2026-07-12",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-07-12T16:31:52.757423+08:00",
+  "status": "ok",
+  "warnings": [],
+  "sections": [
+    {
+      "beat": "INTL",
+      "title": "國際大事",
+      "emoji": "🌍",
+      "items": [
+        {
+          "event_id": "daily_20260712_evt_108",
+          "headline": "庫許納度假村地契疑遭偽造",
+          "context": "阿爾巴尼亞檢方正在調查一起土地地契造假案，牽涉的是美國投資人庫許納（Jared Kushner）背後投資的度假村用地。賣地的商人被懷疑偽造了相關地契，這個開發案原本就已經引發抗議，如今爭議又更緊繃。",
+          "beat": "INTL",
+          "thread_text": "阿爾巴尼亞檢方著手調查一起土地地契造假案，牽涉的是美國投資人庫許納（Jared Kushner）背後投資的度假村用地。賣出這塊地的商人，被懷疑偽造了相關地契文件。這個開發案原本就已經引發抗議，如今爭議又升溫。\n\n本則整理自 Al Jazeera 與 Reuters 於 2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "阿爾巴尼亞檢方盯上了一起土地地契造假案。案子牽涉的是美國投資人庫許納（Jared Kushner）背後投資的度假村用地——賣出這塊地的商人，被懷疑偽造了相關地契文件。這個開發案原本就已經因為土地爭議引發抗議，如今地契造假的疑雲一出，情勢又更緊繃了一層。\n\n本則整理自 Al Jazeera 與 Reuters 於 2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "阿爾巴尼亞的檢方，正在查一起土地地契造假案。這塊地是美國投資人庫許納投資的度假村用地，賣地的商人被懷疑偽造了地契文件。這個開發案本來就已經引發抗議，現在爭議又更緊繃了。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "阿爾巴尼亞檢方著手調查一起土地地契造假案，牽涉的是美國投資人庫許納（Jared Kushner）背後投資的度假村用地。賣出這塊地的商人，被懷疑偽造了相關地契文件。這個開發案原本就已經引發抗議，如今爭議又升溫。\n\n本則整理自 Al Jazeera 與 Reuters 於 2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "阿爾巴尼亞檢方盯上了一起土地地契造假案。案子牽涉的是美國投資人庫許納（Jared Kushner）背後投資的度假村用地——賣出這塊地的商人，被懷疑偽造了相關地契文件。這個開發案原本就已經因為土地爭議引發抗議，如今地契造假的疑雲一出，情勢又更緊繃了一層。\n\n本則整理自 Al Jazeera 與 Reuters 於 2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "阿爾巴尼亞的檢方，正在查一起土地地契造假案。這塊地是美國投資人庫許納投資的度假村用地，賣地的商人被懷疑偽造了地契文件。這個開發案本來就已經引發抗議，現在爭議又更緊繃了。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "Albanian prosecutors probe forged deeds tied to Kushner resort land as protests over the project intensify.",
+              "title": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
+              "url": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss",
+              "published_at": "2026-07-11T18:14:39+08:00"
+            },
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds Reuters",
+              "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlNmN2luQVhJdF9FcU1XWGUxSTBLdWhiUHZsd09wdllLUGJmRHlacGVPTmNMaVdTV0lyNEJzV3RrWEIyTzlHSkhJV0VCcVdzLUl3SnlFNm8tMVF2dUR6RnZJeEJxOG5SbHU0TUlRM0FMMkdKbHZLU2xCY2o3QWxBNFFuczFucm44dkxObks0bGpVXzN3d0s4alJqSEc2WDdtWlpoMTZheGVyMlU2ZDB4ZXZBZWJScV8wLTRBTw?oc=5",
+              "published_at": "2026-07-11T20:25:56+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "阿爾巴尼亞檢方調查土地地契造假案，牽涉庫許納投資的度假村用地。",
+              "source_id": "aljazeera_all",
+              "source_title": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
+              "source_url": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "賣地商人被懷疑偽造相關地契文件。",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlNmN2luQVhJdF9FcU1XWGUxSTBLdWhiUHZsd09wdllLUGJmRHlacGVPTmNMaVdTV0lyNEJzV3RrWEIyTzlHSkhJV0VCcVdzLUl3SnlFNm8tMVF2dUR6RnZJeEJxOG5SbHU0TUlRM0FMMkdKbHZLU2xCY2o3QWxBNFFuczFucm44dkxObks0bGpVXzN3d0s4alJqSEc2WDdtWlpoMTZheGVyMlU2ZDB4ZXZBZWJScV8wLTRBTw?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20260712_evt_160",
+          "headline": "摩爾多瓦提名新總理托凡",
+          "context": "摩爾多瓦總統提名商人托凡（Vasile Tofan）出任總理。前總理蒙特亞努（Alexandru Munteanu）本月稍早才剛辭職。",
+          "beat": "INTL",
+          "thread_text": "摩爾多瓦總統提名商人托凡（Vasile Tofan）出任新總理。這項人事案，緊接在前總理蒙特亞努（Alexandru Munteanu）本月稍早辭職之後。\n\n本則整理自 Al Jazeera 與 Reuters 於 2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "摩爾多瓦換總理了。總統提名商人托凡（Vasile Tofan）出任新總理，這項任命緊接在前總理蒙特亞努（Alexandru Munteanu）本月稍早辭職之後——內閣人事，這個月變動不小。\n\n本則整理自 Al Jazeera 與 Reuters 於 2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "摩爾多瓦總統提名商人托凡出任新總理。這項任命，緊接在前總理蒙特亞努本月稍早辭職之後。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "摩爾多瓦總統提名商人托凡（Vasile Tofan）出任新總理。這項人事案，緊接在前總理蒙特亞努（Alexandru Munteanu）本月稍早辭職之後。\n\n本則整理自 Al Jazeera 與 Reuters 於 2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "摩爾多瓦換總理了。總統提名商人托凡（Vasile Tofan）出任新總理，這項任命緊接在前總理蒙特亞努（Alexandru Munteanu）本月稍早辭職之後——內閣人事，這個月變動不小。\n\n本則整理自 Al Jazeera 與 Reuters 於 2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "摩爾多瓦總統提名商人托凡出任新總理。這項任命，緊接在前總理蒙特亞努本月稍早辭職之後。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "The announcement comes after the previous prime minister, Alexandru Munteanu, stepped down earlier this month.",
+              "title": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
+              "url": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss",
+              "published_at": "2026-07-11T23:50:31+08:00"
+            },
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Moldova's president nominates Vasile Tofan as prime minister Reuters",
+              "title": "Moldova's president nominates Vasile Tofan as prime minister - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSEFXZDVvMzU1djNqalNkTjVRdURMNVV4QlR2bER2aHJtUXdJVnoyempncEVPMjctU25FaDlZRHBxRmlJOVN4MDdjSXJRMlgxek1lRmMtUHN1cTZhTlYyUEJWNkxLa08wYUxlM2FVX3NMMjBZZU5GaE4xMW0wdmtqTWVRaU1iSmtHbmd1VVhtT05jQVhv?oc=5",
+              "published_at": "2026-07-12T03:51:51+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "摩爾多瓦總統提名商人托凡出任新總理。",
+              "source_id": "aljazeera_all",
+              "source_title": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
+              "source_url": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "前總理蒙特亞努本月稍早辭職，此後職位懸缺。",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Moldova's president nominates Vasile Tofan as prime minister - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSEFXZDVvMzU1djNqalNkTjVRdURMNVV4QlR2bER2aHJtUXdJVnoyempncEVPMjctU25FaDlZRHBxRmlJOVN4MDdjSXJRMlgxek1lRmMtUHN1cTZhTlYyUEJWNkxLa08wYUxlM2FVX3NMMjBZZU5GaE4xMW0wdmtqTWVRaU1iSmtHbmd1VVhtT05jQVhv?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20260712_evt_166",
+          "headline": "川普政府傳喚紐時記者",
+          "context": "美國川普政府向《紐約時報》記者發出傳票，起因是他們報導了川普新座機的安全疑慮——這架飛機是卡達贈送的。新聞自由團體與國會議員批評，這是意圖威嚇記者的手段。",
+          "beat": "INTL",
+          "thread_text": "美國川普政府向《紐約時報》記者發出傳票，起因是他們報導了川普新座機（由卡達贈送）的安全疑慮。新聞自由團體與多位國會議員批評，這是意圖威嚇記者的手段。\n\n本則整理自 BBC 與 Al Jazeera 於 2026 年 7 月 12 日發佈的報導。",
+          "threads_text": "《紐約時報》記者收到了聯邦傳票——原因是他們報導了川普新座機的安全疑慮，這架飛機是卡達贈送的禮物。新聞自由團體與多位國會議員站出來批評，認為這是政府意圖威嚇、恫嚇記者的手段。\n\n本則整理自 BBC 與 Al Jazeera 於 2026 年 7 月 12 日發佈的報導。",
+          "voice_text": "《紐約時報》的記者收到了傳票。起因是他們報導了川普新座機的安全疑慮，這架飛機是卡達送的。新聞自由團體和國會議員都批評，這是政府想威嚇記者的手段。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美國川普政府向《紐約時報》記者發出傳票，起因是他們報導了川普新座機（由卡達贈送）的安全疑慮。新聞自由團體與多位國會議員批評，這是意圖威嚇記者的手段。\n\n本則整理自 BBC 與 Al Jazeera 於 2026 年 7 月 12 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "《紐約時報》記者收到了聯邦傳票——原因是他們報導了川普新座機的安全疑慮，這架飛機是卡達贈送的禮物。新聞自由團體與多位國會議員站出來批評，認為這是政府意圖威嚇、恫嚇記者的手段。\n\n本則整理自 BBC 與 Al Jazeera 於 2026 年 7 月 12 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "《紐約時報》的記者收到了傳票。起因是他們報導了川普新座機的安全疑慮，這架飛機是卡達送的。新聞自由團體和國會議員都批評，這是政府想威嚇記者的手段。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+              "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+              "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-07-12T00:11:33+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "Press freedom advocates and members of Congress have condemned the subpoenas as an attempt to 'threaten and intimidate'.",
+              "title": "Trump administration subpoenas New York Times reporters over coverage",
+              "url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss",
+              "published_at": "2026-07-12T02:46:11+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "紐約時報記者收到傳票，起因是報導川普新座機的安全疑慮。",
+              "source_id": "bbc_world",
+              "source_title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+              "source_url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "新聞自由團體與國會議員批評此舉是意圖威嚇記者。",
+              "source_id": "aljazeera_all",
+              "source_title": "Trump administration subpoenas New York Times reporters over coverage",
+              "source_url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20260712_evt_153",
+          "headline": "南非國腳亞當斯25歲辭世",
+          "context": "南非國家隊與馬梅洛迪日出隊（Mamelodi Sundowns）中場亞當斯（Jayden Adams）驟然辭世，得年25歲。他才剛在世界盃隨南非隊踢進32強沒幾週。",
+          "beat": "INTL",
+          "thread_text": "南非國腳、馬梅洛迪日出隊（Mamelodi Sundowns）中場亞當斯（Jayden Adams）驟然辭世，得年25歲。就在幾週前，他才代表南非隊踢進世界盃32強。\n\n本則整理自 BBC 與 Al Jazeera 於 2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "足壇傳來一則令人不捨的消息。南非國腳、馬梅洛迪日出隊（Mamelodi Sundowns）中場亞當斯（Jayden Adams）驟然辭世，得年25歲。就在幾週前，他才隨南非隊踢進世界盃32強——這場告別，來得太快也太突然。\n\n本則整理自 BBC 與 Al Jazeera 於 2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "南非國腳亞當斯驟然辭世，得年25歲。他是馬梅洛迪日出隊的中場球員，幾週前才代表南非隊踢進世界盃32強。這場告別，來得又快又突然。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "南非國腳、馬梅洛迪日出隊（Mamelodi Sundowns）中場亞當斯（Jayden Adams）驟然辭世，得年25歲。就在幾週前，他才代表南非隊踢進世界盃32強。\n\n本則整理自 BBC 與 Al Jazeera 於 2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "足壇傳來一則令人不捨的消息。南非國腳、馬梅洛迪日出隊（Mamelodi Sundowns）中場亞當斯（Jayden Adams）驟然辭世，得年25歲。就在幾週前，他才隨南非隊踢進世界盃32強——這場告別，來得太快也太突然。\n\n本則整理自 BBC 與 Al Jazeera 於 2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "南非國腳亞當斯驟然辭世，得年25歲。他是馬梅洛迪日出隊的中場球員，幾週前才代表南非隊踢進世界盃32強。這場告別，來得又快又突然。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
+              "title": "South Africa World Cup midfielder Adams dies aged 25",
+              "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-07-11T22:47:47+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "South Africa and Mamelodi Sundowns midfielder died after featuring in his nation's run to the World Cup round of 32.",
+              "title": "South Africa’s Jayden Adams, 25, dies after playing in FIFA World Cup",
+              "url": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss",
+              "published_at": "2026-07-12T02:38:50+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "南非國腳、馬梅洛迪日出隊中場亞當斯驟逝，得年25歲。",
+              "source_id": "bbc_world",
+              "source_title": "South Africa World Cup midfielder Adams dies aged 25",
+              "source_url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "亞當斯剛隨南非隊踢進世界盃32強沒幾週便辭世。",
+              "source_id": "aljazeera_all",
+              "source_title": "South Africa’s Jayden Adams, 25, dies after playing in FIFA World Cup",
+              "source_url": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20260712_evt_156",
+          "headline": "美議員康納遭屯墾者扣留",
+          "context": "美國民主黨籍眾議員康納（Ro Khanna）走訪約旦河西岸時，遭武裝以色列屯墾者扣留約90分鐘。他今年49歲。",
+          "beat": "INTL",
+          "thread_text": "美國民主黨籍眾議員康納（Ro Khanna），49歲，走訪約旦河西岸時被武裝以色列屯墾者扣留了約90分鐘。\n\n本則整理自 Reuters 與 BBC 於 2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "美國民主黨籍眾議員康納（Ro Khanna）這趟約旦河西岸行程，出了意外插曲。49歲的他，被武裝以色列屯墾者扣留了約90分鐘才脫身。\n\n本則整理自 Reuters 與 BBC 於 2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "美國民主黨籍眾議員康納，走訪約旦河西岸時，被武裝以色列屯墾者扣留了大約90分鐘。他今年49歲。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美國民主黨籍眾議員康納（Ro Khanna），49歲，走訪約旦河西岸時被武裝以色列屯墾者扣留了約90分鐘。\n\n本則整理自 Reuters 與 BBC 於 2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "美國民主黨籍眾議員康納（Ro Khanna）這趟約旦河西岸行程，出了意外插曲。49歲的他，被武裝以色列屯墾者扣留了約90分鐘才脫身。\n\n本則整理自 Reuters 與 BBC 於 2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "美國民主黨籍眾議員康納，走訪約旦河西岸時，被武裝以色列屯墾者扣留了大約90分鐘。他今年49歲。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit Reuters",
+              "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPemk1Y2lWN29BWVNsNWJNNzFZYVU2ZG94Zmt3R1VyWmVjLVBnOHdEdVFudE1sOGotX0NpTXMyUWhpN2xub2cxUDhXdmhRUURUczNPSmR4RGJPU2xjeDU5V2sxcW5MYWNfaG1ET3VXdGZiUnNnbkFDcW90Z0k5LURYWGgzeVgzNm9ESXVjOGxER3BxVXMyclRZc3dBZHVjU2xQdmxteTlzQ2hCZjhmMTYyZ1BjRm1yVUpOSkE?oc=5",
+              "published_at": "2026-07-11T23:00:24+08:00"
+            },
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
+              "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+              "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-07-12T02:00:09+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "美國眾議員康納在約旦河西岸遭以色列屯墾者扣留。",
+              "source_id": "reuters_world_google_news",
+              "source_title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPemk1Y2lWN29BWVNsNWJNNzFZYVU2ZG94Zmt3R1VyWmVjLVBnOHdEdVFudE1sOGotX0NpTXMyUWhpN2xub2cxUDhXdmhRUURUczNPSmR4RGJPU2xjeDU5V2sxcW5MYWNfaG1ET3VXdGZiUnNnbkFDcW90Z0k5LURYWGgzeVgzNm9ESXVjOGxER3BxVXMyclRZc3dBZHVjU2xQdmxteTlzQ2hCZjhmMTYyZ1BjRm1yVUpOSkE?oc=5",
+              "support_type": "direct"
+            },
+            {
+              "claim": "康納49歲，被扣留約90分鐘。",
+              "source_id": "bbc_world",
+              "source_title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+              "source_url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 45,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "ARTS",
+      "title": "八大藝術",
+      "emoji": "🎭",
+      "items": [
+        {
+          "event_id": "daily_20260712_evt_084",
+          "headline": "泰德現代館重現雷娜經典舞作",
+          "context": "編舞家伊冯・雷娜（Yvonne Rainer）的作品《Trio A》滿60週年，7月11日在倫敦泰德現代美術館渦輪大廳免費演出。三名舞者在觀眾面前起舞，看的人裡有嬰兒、觀光客，也有路過的人。",
+          "beat": "ARTS",
+          "thread_text": "編舞家伊冯・雷娜（Yvonne Rainer）的舞作《Trio A》滿60週年，7月11日在倫敦泰德現代美術館的渦輪大廳免費演出。三名舞者輪番上場，台下看的人有嬰兒、觀光客，也有路過的人——這場免費演出，被形容為既迷人又懾人。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "倫敦泰德現代美術館的渦輪大廳，這個週六下午多了一場免費表演。編舞家伊冯・雷娜（Yvonne Rainer）的作品《Trio A》滿60週年，三名舞者輪番上場起舞。台下的觀眾五花八門——有嬰兒、觀光客，也有純粹路過的人，卻沒有人被這場表演打斷專注。這齣60年前的作品，如今看依然迷人又懾人。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "倫敦泰德現代美術館，這個週六下午多了一場免費演出。編舞家雷娜的作品《Trio A》滿60週年，三名舞者輪番上場起舞。台下看的人裡，有嬰兒、有觀光客，也有純粹路過的人。這齣60年前的作品，現在看依然迷人又懾人。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "編舞家伊冯・雷娜（Yvonne Rainer）的舞作《Trio A》滿60週年，7月11日在倫敦泰德現代美術館的渦輪大廳免費演出。三名舞者輪番上場，台下看的人有嬰兒、觀光客，也有路過的人——這場免費演出，被形容為既迷人又懾人。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "倫敦泰德現代美術館的渦輪大廳，這個週六下午多了一場免費表演。編舞家伊冯・雷娜（Yvonne Rainer）的作品《Trio A》滿60週年，三名舞者輪番上場起舞。台下的觀眾五花八門——有嬰兒、觀光客，也有純粹路過的人，卻沒有人被這場表演打斷專注。這齣60年前的作品，如今看依然迷人又懾人。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "倫敦泰德現代美術館，這個週六下午多了一場免費演出。編舞家雷娜的作品《Trio A》滿60週年，三名舞者輪番上場起舞。台下看的人裡，有嬰兒、有觀光客，也有純粹路過的人。這齣60年前的作品，現在看依然迷人又懾人。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_art_design",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Tate Modern, London With this work, the choreographer changed the course of dance – and on its 60th anniversary, viewed by babies, tourists and passers-by, it’s as beguiling and hypnotic as ever At the back of the Turbine Hall, three people are dancing. If it weren’t for the vinyl dancefloor and the white line separating it from the audience, however, you might not immediately realise it. You could be forgiven for thinking that they were performing some idiosyncratic form of Tai chi or, if this were a different dancefloor, that they had taken rather too many drugs: one rolls around on the ground, another stretches his arms out wide, a third sinks to her haunches and touches her toes. All appear so enthralled by the actions of their own bodies as to be oblivious both to their partners onstage and the audience in front of them. This being Tate Modern on a Friday afternoon, that audience includes not only art school kids dressed in the same casual fashions as the performers onstage, but also babies screeching from pushchairs and mischievous schoolkids shouting heckles from the mezzanine. None of this seems to perturb the dancers. Having completed her routine, one walks away from the mat and disappears through a door at the back of the hall. The others follow in their own time, and the audience applauds. After a short interval, they are replaced on the stage by a new trio of performers, and the dance begins again. Yvonne Rainer: Trio A is at Tate Modern, London, on Saturday 11 July between 2pm and 8pm Continue reading...",
+              "title": "Yvonne Rainer, Trio A review: watching this thrilling performance for free feels like an enormous privilege",
+              "url": "https://www.theguardian.com/artanddesign/2026/jul/11/yvonne-rainer-trio-a-review-watching-this-thrilling-performance-for-free-feels-like-an-enormous-privilege",
+              "published_at": "2026-07-11T15:00:44+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "雷娜的舞作《Trio A》滿60週年，7月11日在泰德現代美術館渦輪大廳免費演出。",
+              "source_id": "guardian_art_design",
+              "source_title": "Yvonne Rainer, Trio A review: watching this thrilling performance for free feels like an enormous privilege",
+              "source_url": "https://www.theguardian.com/artanddesign/2026/jul/11/yvonne-rainer-trio-a-review-watching-this-thrilling-performance-for-free-feels-like-an-enormous-privilege",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 30,
+          "sub_beat": "視覺藝術",
+          "single_source_warning": true,
+          "opinion_level": "light_context",
+          "selection_reason": "source_tier_1; arts_major_award_or_institution"
+        },
+        {
+          "event_id": "daily_20260712_evt_094",
+          "headline": "20本一天讀完的書單",
+          "context": "一位曾任布克獎（Booker Prize）評審的作家，整理出20本能一天內讀完的書單，從詹姆斯・鮑德溫（James Baldwin）、韓江，到一本量子物理入門書都在列。她去年擔任布克獎評審時，得在六個多月內讀完153本小說。",
+          "beat": "ARTS",
+          "thread_text": "曾任布克獎（Booker Prize）評審的作家，整理出一份能一天內讀完的書單，一共20本。書單橫跨詹姆斯・鮑德溫（James Baldwin）、韓江的小說，到一本量子物理入門書。她去年當評審時，得在六個多月內讀完153本小說。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "如果只有一天，你能讀完一本書嗎？一位曾任布克獎（Booker Prize）評審的作家，整理出20本能一天內讀完的書單，橫跨詹姆斯・鮑德溫（James Baldwin）、韓江的小說，到一本量子物理入門書都收在裡面。她去年擔任評審時，得在六個多月內啃完153本小說——這份書單，或許是她苦中作樂的心得。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "如果只有一天，你能讀完一本書嗎？一位曾任布克獎評審的作家，整理出20本能一天內讀完的書單，裡面有詹姆斯・鮑德溫和韓江的小說，還有一本量子物理入門書。她去年當評審時，得在六個多月內讀完153本小說。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "曾任布克獎（Booker Prize）評審的作家，整理出一份能一天內讀完的書單，一共20本。書單橫跨詹姆斯・鮑德溫（James Baldwin）、韓江的小說，到一本量子物理入門書。她去年當評審時，得在六個多月內讀完153本小說。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "如果只有一天，你能讀完一本書嗎？一位曾任布克獎（Booker Prize）評審的作家，整理出20本能一天內讀完的書單，橫跨詹姆斯・鮑德溫（James Baldwin）、韓江的小說，到一本量子物理入門書都收在裡面。她去年擔任評審時，得在六個多月內啃完153本小說——這份書單，或許是她苦中作樂的心得。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "如果只有一天，你能讀完一本書嗎？一位曾任布克獎評審的作家，整理出20本能一天內讀完的書單，裡面有詹姆斯・鮑德溫和韓江的小說，還有一本量子物理入門書。她去年當評審時，得在六個多月內讀完153本小說。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_culture",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "From novels by James Baldwin and Han Kang to a guide to quantum physics – a former Booker prize judge recommends immersive one-sitting wonders A one-sitting read is typically the domain of the short story – a form that largely depends on a reader’s pure, unbroken attention. But there is some­thing special about the intensity of beginning and ending an entire book in a single day. Of all my reading experiences, these have been among the most memorable. As a judge for last year’s Booker prize, faced with 153 books and just over six months in which to read them, it was my task to try to turn every novel into one that could be read in a day. While I loved the experience, it wasn’t exactly a recipe for satisfying reading. Continue reading...",
+              "title": "Pressed for time? 20 brilliant books you can read in a day",
+              "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/11/pressed-for-time-20-brilliant-books-you-can-read-in-a-day",
+              "published_at": "2026-07-11T16:00:44+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "前布克獎評審整理出20本能一天內讀完的書單，去年評審時六個多月讀完153本小說。",
+              "source_id": "guardian_culture",
+              "source_title": "Pressed for time? 20 brilliant books you can read in a day",
+              "source_url": "https://www.theguardian.com/books/ng-interactive/2026/jul/11/pressed-for-time-20-brilliant-books-you-can-read-in-a-day",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 23,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2; arts_major_award_or_institution"
+        },
+        {
+          "event_id": "daily_20260712_evt_128",
+          "headline": "主播莫納漢病逝 享年68歲",
+          "context": "英國資深主播德莫特・莫納漢（Dermot Murnaghan）辭世，享年68歲。他曾任職ITV、BBC與Sky News，也主持過益智節目《Eggheads》。家屬表示，他在倫敦家中安詳離世，此前一直與攝護腺癌病魔搏鬥。",
+          "beat": "ARTS",
+          "thread_text": "英國資深主播德莫特・莫納漢（Dermot Murnaghan）辭世，享年68歲。他曾任職ITV、BBC與Sky News，也主持過益智節目《Eggheads》。家屬表示，他在倫敦家中安詳離世，此前一直受攝護腺癌所苦。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "英國電視圈少了一位熟面孔。資深主播德莫特・莫納漢（Dermot Murnaghan）辭世，享年68歲，家屬說他是在倫敦家中安詳離世的，此前一直與攝護腺癌搏鬥。莫納漢曾任職ITV、BBC與Sky News，長年是英國電視新聞的固定班底，也主持過益智節目《Eggheads》。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "英國資深主播莫納漢辭世，享年68歲。他曾任職ITV、BBC和Sky News，也主持過益智節目《Eggheads》。家屬說，他是在倫敦家中安詳離世的，此前一直與攝護腺癌搏鬥。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "英國資深主播德莫特・莫納漢（Dermot Murnaghan）辭世，享年68歲。他曾任職ITV、BBC與Sky News，也主持過益智節目《Eggheads》。家屬表示，他在倫敦家中安詳離世，此前一直受攝護腺癌所苦。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "英國電視圈少了一位熟面孔。資深主播德莫特・莫納漢（Dermot Murnaghan）辭世，享年68歲，家屬說他是在倫敦家中安詳離世的，此前一直與攝護腺癌搏鬥。莫納漢曾任職ITV、BBC與Sky News，長年是英國電視新聞的固定班底，也主持過益智節目《Eggheads》。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "英國資深主播莫納漢辭世，享年68歲。他曾任職ITV、BBC和Sky News，也主持過益智節目《Eggheads》。家屬說，他是在倫敦家中安詳離世的，此前一直與攝護腺癌搏鬥。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_culture",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "The former ITV, BBC and Sky News journalist died peacefully at home in London on Saturday, his family say The former BBC and Sky News presenter Dermot Murnaghan has died aged 68 after a “period of illness with prostate cancer”, his family have said. The journalist, who was long a fixture on British TV screens, was also known for hosting the quizshow Eggheads. Continue reading...",
+              "title": "TV presenter Dermot Murnaghan dies of prostate cancer, aged 68",
+              "url": "https://www.theguardian.com/tv-and-radio/2026/jul/11/tv-presenter-dermot-murnaghan-dies-after-being-ill-with-prostate-cancer",
+              "published_at": "2026-07-11T20:32:42+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "英國資深主播莫納漢因攝護腺癌辭世，享年68歲，曾任職ITV、BBC與Sky News並主持《Eggheads》。",
+              "source_id": "guardian_culture",
+              "source_title": "TV presenter Dermot Murnaghan dies of prostate cancer, aged 68",
+              "source_url": "https://www.theguardian.com/tv-and-radio/2026/jul/11/tv-presenter-dermot-murnaghan-dies-after-being-ill-with-prostate-cancer",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 23,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2; arts_major_award_or_institution"
+        },
+        {
+          "event_id": "daily_20260712_evt_005",
+          "headline": "一週世界大事20圖回顧",
+          "context": "《衛報》精選過去一週的20張新聞照片，涵蓋美國建國250週年慶典、哈米尼（Ali Khamenei）的葬禮、歐洲又一波致命熱浪，以及世界盃賽事。",
+          "beat": "ARTS",
+          "thread_text": "《衛報》精選出過去一週的20張新聞照片，這一週不平靜：有美國建國250週年慶典、哈米尼（Ali Khamenei）的葬禮、歐洲又一波致命熱浪，還有世界盃賽事。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "這一週，世界各地忙著發生大事。《衛報》精選出20張新聞照片，記錄下美國建國250週年慶典、哈米尼（Ali Khamenei）的葬禮、歐洲又一波致命熱浪，還有世界盃賽事——攝影記者們的鏡頭，把這一週濃縮成了畫面。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "《衛報》精選了過去一週的20張新聞照片。這一週不平靜：美國有建國250週年慶典，伊朗有哈米尼的葬禮，歐洲又一波致命熱浪，還有世界盃賽事。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "《衛報》精選出過去一週的20張新聞照片，這一週不平靜：有美國建國250週年慶典、哈米尼（Ali Khamenei）的葬禮、歐洲又一波致命熱浪，還有世界盃賽事。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "這一週，世界各地忙著發生大事。《衛報》精選出20張新聞照片，記錄下美國建國250週年慶典、哈米尼（Ali Khamenei）的葬禮、歐洲又一波致命熱浪，還有世界盃賽事——攝影記者們的鏡頭，把這一週濃縮成了畫面。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "《衛報》精選了過去一週的20張新聞照片。這一週不平靜：美國有建國250週年慶典，伊朗有哈米尼的葬禮，歐洲又一波致命熱浪，還有世界盃賽事。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_art_design",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "The US’s 250th anniversary, the funeral of Ali Khamenei, another brutal heatwave in Europe and the World Cup – the past seven days as captured by the world’s leading photojournalists Continue reading...",
+              "title": "The week around the world in 20 pictures",
+              "url": "https://www.theguardian.com/artanddesign/gallery/2026/jul/10/the-week-around-the-world-in-20-pictures",
+              "published_at": "2026-07-11T02:22:53+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "衛報精選過去一週20張新聞照片，涵蓋美國建國250週年、哈米尼葬禮、歐洲熱浪與世界盃。",
+              "source_id": "guardian_art_design",
+              "source_title": "The week around the world in 20 pictures",
+              "source_url": "https://www.theguardian.com/artanddesign/gallery/2026/jul/10/the-week-around-the-world-in-20-pictures",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "視覺藝術",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "AI",
+      "title": "AI 新知",
+      "emoji": "🤖",
+      "items": [
+        {
+          "event_id": "daily_20260712_evt_150",
+          "headline": "ChatGPT徵才拓展家庭市場",
+          "context": "OpenAI 正在為 ChatGPT 招募一名產品經理，專門負責開發給家庭、照顧者與年長者使用的體驗，根據一則徵才公告。",
+          "beat": "AI",
+          "thread_text": "OpenAI 正在為 ChatGPT 招募一名產品經理，專門開發給家庭、照顧者與年長者使用的體驗——這是徵才公告透露的訊息。\n\n本則來自 TechCrunch，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "ChatGPT 想更深入你家的日常生活。根據一則徵才公告，OpenAI 正在招募一名產品經理，專門負責打造給家庭、照顧者與年長者使用的體驗——這意味著 ChatGPT 接下來的重點，可能不只是效率工具，還想走進家庭的日常照護場景。\n\n本則來自 TechCrunch，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "OpenAI 正在為 ChatGPT 招募一名產品經理，專門負責打造給家庭、照顧者和年長者使用的體驗。這是一則徵才公告透露的消息。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "OpenAI 正在為 ChatGPT 招募一名產品經理，專門開發給家庭、照顧者與年長者使用的體驗——這是徵才公告透露的訊息。\n\n本則來自 TechCrunch，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "ChatGPT 想更深入你家的日常生活。根據一則徵才公告，OpenAI 正在招募一名產品經理，專門負責打造給家庭、照顧者與年長者使用的體驗——這意味著 ChatGPT 接下來的重點，可能不只是效率工具，還想走進家庭的日常照護場景。\n\n本則來自 TechCrunch，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "OpenAI 正在為 ChatGPT 招募一名產品經理，專門負責打造給家庭、照顧者和年長者使用的體驗。這是一則徵才公告透露的消息。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "techcrunch_ai",
+              "name": "TechCrunch",
+              "publisher": "TechCrunch",
+              "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+              "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+              "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+              "published_at": "2026-07-11T22:13:00+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "OpenAI徵才公告顯示，正為ChatGPT招募產品經理，負責家庭、照顧者與年長者的使用體驗。",
+              "source_id": "techcrunch_ai",
+              "source_title": "OpenAI bets on families as ChatGPT goes deeper into households",
+              "source_url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 28,
+          "single_source_warning": true,
+          "opinion_level": "light_context",
+          "selection_reason": "source_tier_2; ai_major_model_or_policy"
+        },
+        {
+          "event_id": "daily_20260712_evt_008",
+          "headline": "抱抱臉執行長談開源AI崛起",
+          "context": "Hugging Face 執行長德朗格（Clem Delangue）表示，開源AI正在蓬勃發展。這間公司已經成長為「AI界的GitHub」，讓開發者能分享、下載開源模型與資料集，目前約有一半的《財星》500大企業在用。",
+          "beat": "AI",
+          "thread_text": "Hugging Face 執行長德朗格（Clem Delangue）表示，開源AI正在蓬勃發展。這間公司已經成長為「AI界的GitHub」，讓開發者能分享、下載開源模型與資料集，目前約有一半的《財星》500大企業都在用。\n\n本則來自 TechCrunch，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "開源AI，比以前更重要了——這是 Hugging Face 執行長德朗格（Clem Delangue）的觀察。他的公司這幾年悄悄長成了「AI界的GitHub」，讓全世界的開發者能在上面分享、下載開源模型和資料集，如今約有一半的《財星》500大企業都在用。\n\n本則來自 TechCrunch，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "開源AI，現在比以前更重要了。這是 Hugging Face 執行長德朗格的觀察。他的公司這幾年長成了「AI界的GitHub」，讓開發者能分享、下載開源模型和資料集，現在大約一半的《財星》500大企業都在用。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "Hugging Face 執行長德朗格（Clem Delangue）表示，開源AI正在蓬勃發展。這間公司已經成長為「AI界的GitHub」，讓開發者能分享、下載開源模型與資料集，目前約有一半的《財星》500大企業都在用。\n\n本則來自 TechCrunch，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "開源AI，比以前更重要了——這是 Hugging Face 執行長德朗格（Clem Delangue）的觀察。他的公司這幾年悄悄長成了「AI界的GitHub」，讓全世界的開發者能在上面分享、下載開源模型和資料集，如今約有一半的《財星》500大企業都在用。\n\n本則來自 TechCrunch，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "開源AI，現在比以前更重要了。這是 Hugging Face 執行長德朗格的觀察。他的公司這幾年長成了「AI界的GitHub」，讓開發者能分享、下載開源模型和資料集，現在大約一半的《財星》500大企業都在用。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "techcrunch_ai",
+              "name": "TechCrunch",
+              "publisher": "TechCrunch",
+              "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+              "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+              "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+              "published_at": "2026-07-11T03:00:00+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "Hugging Face執行長德朗格說開源AI正蓬勃發展，公司已成長為AI界的GitHub，約半數財星500大企業使用。",
+              "source_id": "techcrunch_ai",
+              "source_title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+              "source_url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 28,
+          "single_source_warning": true,
+          "opinion_level": "light_context",
+          "selection_reason": "source_tier_2; ai_major_model_or_policy"
+        },
+        {
+          "event_id": "daily_20260712_evt_045",
+          "headline": "刺客教條黑旗重製版登場",
+          "context": "BBC 記者高爾肯（Tom Gerken）試玩了《刺客教條：黑旗》重製版——這款眾所期待的海盜遊戲，是從頭重新打造的，玩家足足等了13年。",
+          "beat": "AI",
+          "thread_text": "BBC 記者高爾肯（Tom Gerken）試玩了《刺客教條：黑旗》重製版。這款眾所期待的海盜遊戲，是從頭重新打造的——玩家整整等了13年。\n\n本則來自 BBC，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "等了13年，《刺客教條：黑旗》重製版終於來了。BBC 記者高爾肯（Tom Gerken）先一步試玩，這款從頭重新打造的海盜遊戲，值不值得玩家等這麼久？\n\n本則來自 BBC，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "《刺客教條：黑旗》重製版來了，玩家等了整整13年。這款海盜遊戲是從頭重新打造的，BBC 記者先一步試玩過。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "BBC 記者高爾肯（Tom Gerken）試玩了《刺客教條：黑旗》重製版。這款眾所期待的海盜遊戲，是從頭重新打造的——玩家整整等了13年。\n\n本則來自 BBC，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "等了13年，《刺客教條：黑旗》重製版終於來了。BBC 記者高爾肯（Tom Gerken）先一步試玩，這款從頭重新打造的海盜遊戲，值不值得玩家等這麼久？\n\n本則來自 BBC，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "《刺客教條：黑旗》重製版來了，玩家等了整整13年。這款海盜遊戲是從頭重新打造的，BBC 記者先一步試玩過。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_technology",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
+              "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+              "url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-07-11T08:08:51+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "BBC記者試玩《刺客教條：黑旗》重製版，遊戲從頭重新打造，玩家等了13年。",
+              "source_id": "bbc_technology",
+              "source_title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+              "source_url": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "light_context",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "ECON",
+      "title": "全球經濟趨勢",
+      "emoji": "📊",
+      "items": [
+        {
+          "event_id": "daily_20260712_evt_050",
+          "headline": "紐時控訴聯邦就業機構報復",
+          "context": "美國平等就業機會委員會（EEOC）今年5月對《紐約時報》提告，指控報社因未晉升一名白人男性員工而涉及歧視。如今《紐約時報》反過來指控，EEOC此舉是報復行為。",
+          "beat": "ECON",
+          "thread_text": "美國平等就業機會委員會（EEOC）今年5月對《紐約時報》提告，指控報社因未晉升一名白人男性員工而涉及歧視。如今《紐約時報》反控，EEOC 此舉其實是報復。\n\n本則來自 The New York Times，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "《紐約時報》和聯邦就業機構槓上了。事情要從今年5月說起：美國平等就業機會委員會（EEOC）對《紐約時報》提告，指控報社因為沒讓一名白人男性員工升遷而涉及歧視。如今《紐約時報》回擊，反控 EEOC 此舉根本是報復。\n\n本則來自 The New York Times，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "《紐約時報》和聯邦就業機構槓上了。今年5月，美國平等就業機會委員會告《紐約時報》，說報社沒讓一名白人男性員工升遷，涉及歧視。現在《紐約時報》反過來控告，說這其實是報復。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美國平等就業機會委員會（EEOC）今年5月對《紐約時報》提告，指控報社因未晉升一名白人男性員工而涉及歧視。如今《紐約時報》反控，EEOC 此舉其實是報復。\n\n本則來自 The New York Times，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "《紐約時報》和聯邦就業機構槓上了。事情要從今年5月說起：美國平等就業機會委員會（EEOC）對《紐約時報》提告，指控報社因為沒讓一名白人男性員工升遷而涉及歧視。如今《紐約時報》回擊，反控 EEOC 此舉根本是報復。\n\n本則來自 The New York Times，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "《紐約時報》和聯邦就業機構槓上了。今年5月，美國平等就業機會委員會告《紐約時報》，說報社沒讓一名白人男性員工升遷，涉及歧視。現在《紐約時報》反過來控告，說這其實是報復。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "nyt_business",
+              "name": "The New York Times",
+              "publisher": "The New York Times",
+              "summary": "A May lawsuit by the Equal Employment Opportunity Commission claims the newspaper discriminated against a white male employee who did not get a promotion.",
+              "title": "New York Times Accuses Federal Employment Agency of Retaliation",
+              "url": "https://www.nytimes.com/2026/07/10/business/media/new-york-times-eeoc-lawsuit.html",
+              "published_at": "2026-07-11T09:33:43+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "EEOC今年5月控告紐約時報歧視一名未獲晉升的白人男性員工，紐約時報反控EEOC報復。",
+              "source_id": "nyt_business",
+              "source_title": "New York Times Accuses Federal Employment Agency of Retaliation",
+              "source_url": "https://www.nytimes.com/2026/07/10/business/media/new-york-times-eeoc-lawsuit.html",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 28,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2; economy_macro_policy"
+        },
+        {
+          "event_id": "daily_20260712_evt_006",
+          "headline": "英國政治獻金規則解析",
+          "context": "英國的政治獻金與餽贈規則，最近因為改革黨（Reform UK）黨魁法拉吉（Nigel Farage）收下泰國籍加密貨幣富豪哈伯恩（Christopher Harborne）500萬英鎊的贈與，又被拿出來討論。國會標準專員正在調查此案，各界也呼籲對大額政治獻金設上限。",
+          "beat": "ECON",
+          "thread_text": "英國的政治獻金與餽贈規則，最近又被搬上檯面。起因是改革黨（Reform UK）黨魁法拉吉（Nigel Farage）收下泰國籍加密貨幣富豪哈伯恩（Christopher Harborne）500萬英鎊的贈與，就在他成為國會議員前不久。國會標準專員正在調查此案，各界也呼籲替大額政治獻金設上限。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "英國政壇最近吵的，是「政治獻金到底該不該有上限」。導火線是改革黨（Reform UK）黨魁法拉吉（Nigel Farage），他在成為國會議員前不久，收下了泰國籍加密貨幣富豪哈伯恩（Christopher Harborne）500萬英鎊的贈與。法拉吉說這是私人贈與、沒有附加條件，但國會標準專員已經展開調查。這起事件也讓「大額政治獻金該不該設上限」的呼聲又高了一階。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "英國政壇最近在吵，政治獻金到底該不該有上限。導火線是改革黨黨魁法拉吉，他在當上國會議員前不久，收下了一名泰國籍加密貨幣富豪500萬英鎊的贈與——大概是新台幣兩億元。法拉吉說這是私人贈與，沒有附加條件，但國會標準專員已經在調查這件事了。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "英國的政治獻金與餽贈規則，最近又被搬上檯面。起因是改革黨（Reform UK）黨魁法拉吉（Nigel Farage）收下泰國籍加密貨幣富豪哈伯恩（Christopher Harborne）500萬英鎊的贈與，就在他成為國會議員前不久。國會標準專員正在調查此案，各界也呼籲替大額政治獻金設上限。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "英國政壇最近吵的，是「政治獻金到底該不該有上限」。導火線是改革黨（Reform UK）黨魁法拉吉（Nigel Farage），他在成為國會議員前不久，收下了泰國籍加密貨幣富豪哈伯恩（Christopher Harborne）500萬英鎊的贈與。法拉吉說這是私人贈與、沒有附加條件，但國會標準專員已經展開調查。這起事件也讓「大額政治獻金該不該設上限」的呼聲又高了一階。\n\n本則來自 The Guardian，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "英國政壇最近在吵，政治獻金到底該不該有上限。導火線是改革黨黨魁法拉吉，他在當上國會議員前不久，收下了一名泰國籍加密貨幣富豪500萬英鎊的贈與——大概是新台幣兩億元。法拉吉說這是私人贈與，沒有附加條件，但國會標準專員已經在調查這件事了。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_business",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Mega-donors are coming under scrutiny with growing calls for donations cap beyond those from overseas investors The question of who funds politicians and political parties – and why they want to give money to get people elected – is an extremely heated one. In principle, UK voters can support their chosen politicians through donations or benefits, as long as those candidates and their parties keep within spending limits during an election period, which is designed to stop powerful interests from influencing the result. However, recent years have seen the rise of mega-donors giving vast sums to political parties, leading to calls for a new cap on the amount one individual or company can donate in a year. There has also been pressure for greater transparency around financial interests after the furore over Nigel Farage’s £5m gift from Thailand-based crypto billionaire Christopher Harborne , shortly before the Reform UK leader became an MP. The rules state that gifts only have to be declared if they are political, and Farage has said it was “personal” and freely given with no demands attached. Parliament’s standards commissioner is investigating the case . So, what are the rules on political donations and gifts? Continue reading...",
+              "title": "What are the rules on political donations and gifts in the UK?",
+              "url": "https://www.theguardian.com/politics/2026/jul/10/how-do-political-donations-work-and-why-are-there-growing-calls-for-a-cap",
+              "published_at": "2026-07-11T02:24:15+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "法拉吉在成為國會議員前收下泰國籍富豪500萬英鎊贈與，國會標準專員正調查此案，各界呼籲政治獻金設上限。",
+              "source_id": "guardian_business",
+              "source_title": "What are the rules on political donations and gifts in the UK?",
+              "source_url": "https://www.theguardian.com/politics/2026/jul/10/how-do-political-donations-work-and-why-are-there-growing-calls-for-a-cap",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "light_context",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20260712_evt_016",
+          "headline": "美伊戰事再起 美國油價又漲",
+          "context": "美國多地的汽油支出又漲了，起因是美國與伊朗新一輪的軍事衝突推升了國際油價。",
+          "beat": "ECON",
+          "thread_text": "美國多地的汽油支出又漲了。起因是美國與伊朗新一輪的軍事衝突，把國際油價推高了一截。\n\n本則來自 Reuters，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "加油又變貴了。美國與伊朗新一輪的軍事衝突，把國際油價又推高了一截，反映到美國民眾的加油支出上，痛感又加深了一層。\n\n本則來自 Reuters，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "美國的汽油支出又漲了。原因是美國和伊朗新一輪的軍事衝突，把國際油價又推高了一截。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美國多地的汽油支出又漲了。起因是美國與伊朗新一輪的軍事衝突，把國際油價推高了一截。\n\n本則來自 Reuters，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "加油又變貴了。美國與伊朗新一輪的軍事衝突，把國際油價又推高了一截，反映到美國民眾的加油支出上，痛感又加深了一層。\n\n本則來自 Reuters，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "美國的汽油支出又漲了。原因是美國和伊朗新一輪的軍事衝突，把國際油價又推高了一截。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_business_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "US pain at the pump worsens after more US-Iran fighting lifts oil prices Reuters",
+              "title": "US pain at the pump worsens after more US-Iran fighting lifts oil prices - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmRTRTU1SVQyc05BT2JHSGRkZ0JQaFI5WjVraUplNlJaQVUzUk1jeHp2eE9WQ191SkRkSDRZZjJiVWtBZHg2VXdCWW9jV0xNLXR4QzhQak5NSDd6QVp5dWtFbl95TGVwVDhBRGV3V05CWGV0U2JVeU52OW1XSHhkVENveUdMSEF4Um8yc1B0cVphckZzd0dOZ0l5VHlVdHdEYXRrem4tNzlmSEJKZUNkRDJCMjhBSG5x?oc=5",
+              "published_at": "2026-07-11T04:42:04+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "美伊新一輪軍事衝突推升國際油價，美國汽油支出隨之上漲。",
+              "source_id": "reuters_business_google_news",
+              "source_title": "US pain at the pump worsens after more US-Iran fighting lifts oil prices - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmRTRTU1SVQyc05BT2JHSGRkZ0JQaFI5WjVraUplNlJaQVUzUk1jeHp2eE9WQ191SkRkSDRZZjJiVWtBZHg2VXdCWW9jV0xNLXR4QzhQak5NSDd6QVp5dWtFbl95TGVwVDhBRGV3V05CWGV0U2JVeU52OW1XSHhkVENveUdMSEF4Um8yc1B0cVphckZzd0dOZ0l5VHlVdHdEYXRrem4tNzlmSEJKZUNkRDJCMjhBSG5x?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20260712_evt_019",
+          "headline": "服飾零售商擬美國上市",
+          "context": "美國服飾零售商 Tailored Brands 在赴美申請首次公開發行（IPO）的文件中，揭露營收成長的數字。",
+          "beat": "ECON",
+          "thread_text": "美國服飾零售商 Tailored Brands 遞出赴美首次公開發行（IPO）申請文件，文件中揭露了營收成長的數字。\n\n本則來自 Reuters，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "又一家零售商準備敲鐘上市。美國服飾零售商 Tailored Brands 遞出了赴美首次公開發行（IPO）的申請文件，文件裡揭露營收正在成長——上市前先秀一波成績單。\n\n本則來自 Reuters，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "美國服飾零售商 Tailored Brands，遞出了在美國申請上市的文件。文件裡透露，他們的營收正在成長。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美國服飾零售商 Tailored Brands 遞出赴美首次公開發行（IPO）申請文件，文件中揭露了營收成長的數字。\n\n本則來自 Reuters，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "又一家零售商準備敲鐘上市。美國服飾零售商 Tailored Brands 遞出了赴美首次公開發行（IPO）的申請文件，文件裡揭露營收正在成長——上市前先秀一波成績單。\n\n本則來自 Reuters，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "美國服飾零售商 Tailored Brands，遞出了在美國申請上市的文件。文件裡透露，他們的營收正在成長。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_business_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Fashion retailer Tailored Brands reveals revenue rise in US IPO filing Reuters",
+              "title": "Fashion retailer Tailored Brands reveals revenue rise in US IPO filing - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmdwMUFiLUpUQzBDZlBHd1VCZkpHbTNrcUN1TXpQTzRZVnhTblphNzVxRUc3V1pWZHk0UW1RTVc2aWtrcFpURHYxNzkyX2UtTXd3TmhMbGhQeGNMek42T3YtSDNGVUpYMkFfX1dOZjZBTVpRX3RZYTIwdDN0emNJS01PT0tkYTlIZm11aWJHWEd4TFpDTEhPODl2NUxZLXVBTnZZaw?oc=5",
+              "published_at": "2026-07-11T04:58:23+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "Tailored Brands遞交美國IPO申請文件，文件揭露營收成長。",
+              "source_id": "reuters_business_google_news",
+              "source_title": "Fashion retailer Tailored Brands reveals revenue rise in US IPO filing - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmdwMUFiLUpUQzBDZlBHd1VCZkpHbTNrcUN1TXpQTzRZVnhTblphNzVxRUc3V1pWZHk0UW1RTVc2aWtrcFpURHYxNzkyX2UtTXd3TmhMbGhQeGNMek42T3YtSDNGVUpYMkFfX1dOZjZBTVpRX3RZYTIwdDN0emNJS01PT0tkYTlIZm11aWJHWEd4TFpDTEhPODl2NUxZLXVBTnZZaw?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "PTS_LOCAL",
+      "title": "公視在地新聞",
+      "emoji": "🇹🇼",
+      "items": [
+        {
+          "event_id": "daily_20260712_evt_056",
+          "headline": "巴威暴風圈籠罩台灣中北東半部",
+          "context": "中央氣象署11日表示，巴威颱風的暴風圈已經籠罩台中以北與整個東半部地區，彰化以北、南投、東半部地區及馬祖等14個縣市，都在陸上颱風警戒範圍內。氣象署預估，11日白天雨勢最猛烈，台灣本島與連江縣已發布豪大雨特報，台中以北山區要特別留意超大豪雨。",
+          "beat": "PTS_LOCAL",
+          "thread_text": "中央氣象署11日表示，巴威颱風的暴風圈已籠罩台中以北與整個東半部地區，彰化以北、南投、東半部地區與馬祖等14個縣市，全都在陸上颱風警戒範圍內。氣象署預估，11日白天是雨勢最猛烈的時刻，台灣本島與連江縣已發布豪大雨特報，台中以北山區要特別留意超大豪雨。\n\n本則來自公視，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "巴威颱風的暴風圈，已經籠罩台中以北和整個東半部。中央氣象署11日表示，彰化以北、南投、東半部及馬祖等14個縣市，全都在陸上颱風警戒範圍內，預估11日白天就是雨勢最猛烈的時刻。台灣本島與連江縣已發布豪大雨特報，台中以北山區尤其要留意超大豪雨。\n\n本則來自公視，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "巴威颱風的暴風圈，已經籠罩台中以北和整個東半部。中央氣象署說，彰化以北、南投、東半部地區和馬祖，一共14個縣市都在陸上颱風警戒範圍內。11日白天是雨勢最猛烈的時刻，台灣本島和連江縣都發布了豪大雨特報，台中以北山區尤其要留意超大豪雨。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "中央氣象署11日表示，巴威颱風的暴風圈已籠罩台中以北與整個東半部地區，彰化以北、南投、東半部地區與馬祖等14個縣市，全都在陸上颱風警戒範圍內。氣象署預估，11日白天是雨勢最猛烈的時刻，台灣本島與連江縣已發布豪大雨特報，台中以北山區要特別留意超大豪雨。\n\n本則來自公視，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "巴威颱風的暴風圈，已經籠罩台中以北和整個東半部。中央氣象署11日表示，彰化以北、南投、東半部及馬祖等14個縣市，全都在陸上颱風警戒範圍內，預估11日白天就是雨勢最猛烈的時刻。台灣本島與連江縣已發布豪大雨特報，台中以北山區尤其要留意超大豪雨。\n\n本則來自公視，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "巴威颱風的暴風圈，已經籠罩台中以北和整個東半部。中央氣象署說，彰化以北、南投、東半部地區和馬祖，一共14個縣市都在陸上颱風警戒範圍內。11日白天是雨勢最猛烈的時刻，台灣本島和連江縣都發布了豪大雨特報，台中以北山區尤其要留意超大豪雨。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "pts_news",
+              "name": "公視",
+              "publisher": "公視",
+              "summary": "中央氣象署今（11）日表示，至上午8時為止，巴威颱風的暴風圈已壟罩台中以北與整個東半部地區，彰化以北、南投、東半部地區及馬祖等14個縣市皆在陸上颱風警戒範圍內。根據最新預測資訊，預計今日白天將是降雨最猛烈時刻，台灣本島及連江縣地區已發布豪大雨特報，尤其台中以北山區要留意超大豪雨。",
+              "title": "巴威暴風圈壟罩台中以北 7/11白天降雨最猛烈",
+              "url": "https://news.pts.org.tw/article/817169",
+              "published_at": "2026-07-11T10:30:15+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "巴威颱風暴風圈籠罩台中以北與東半部，14縣市在陸上警戒範圍內，11日白天雨勢最猛烈。",
+              "source_id": "pts_news",
+              "source_title": "巴威暴風圈壟罩台中以北 7/11白天降雨最猛烈",
+              "source_url": "https://news.pts.org.tw/article/817169",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20260712_evt_057",
+          "headline": "巴威颱風籠罩北台灣 招牌墜落",
+          "context": "巴威颱風的暴風圈逐漸籠罩東半部及北台灣。從7月10日到11日清晨6時，宜蘭大同鄉雨下最多，超過238毫米；台中和平191毫米、桃園復興177毫米。北台灣已有銀行招牌被強風吹落，橫躺路面。風勢方面，宜蘭頭城、台北大屯山、屏東牡丹與基隆等地颳起12級強陣風——超過10級的陣風，其實就已經能把樹連根拔起。",
+          "beat": "PTS_LOCAL",
+          "thread_text": "巴威颱風的暴風圈逐漸籠罩東半部及北台灣。從7月10日到11日清晨6時，宜蘭大同鄉雨下最多，超過238毫米；台中和平191毫米、桃園復興177毫米。北台灣已有銀行招牌被強風吹落，橫躺路面。宜蘭頭城、台北大屯山、屏東牡丹與基隆等地更颳起12級強陣風——超過10級的陣風，其實就已經能把樹連根拔起，有颱風假的話還是待在家比較好。\n\n本則來自公視，2026 年 7 月 11 日發佈的報導。",
+          "threads_text": "巴威颱風的威力，這下真的有感了。暴風圈逐漸籠罩東半部及北台灣，從7月10日到11日清晨6時，宜蘭大同鄉雨下最多，超過238毫米；台中和平191毫米，桃園復興也有177毫米。北台灣已經有銀行招牌被強風吹落，橫躺在路面上。風勢方面，宜蘭頭城、台北大屯山、屏東牡丹和基隆等地颳起12級強陣風——超過10級的陣風，其實就已經能把樹連根拔起。如果今天有放颱風假，還是乖乖待在家比較安全。\n\n本則來自公視，2026 年 7 月 11 日發佈的報導。",
+          "voice_text": "巴威颱風的暴風圈，逐漸籠罩東半部和北台灣。從7月10日到11日清晨6點，宜蘭大同鄉雨下最多，超過238毫米；台中和平191毫米，桃園復興也有177毫米。北台灣已經有銀行招牌被強風吹落，橫躺在路面上。宜蘭頭城、台北大屯山、屏東牡丹和基隆，都颳起了12級強陣風——超過10級的陣風，就已經能把樹連根拔起了。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "巴威颱風的暴風圈逐漸籠罩東半部及北台灣。從7月10日到11日清晨6時，宜蘭大同鄉雨下最多，超過238毫米；台中和平191毫米、桃園復興177毫米。北台灣已有銀行招牌被強風吹落，橫躺路面。宜蘭頭城、台北大屯山、屏東牡丹與基隆等地更颳起12級強陣風——超過10級的陣風，其實就已經能把樹連根拔起，有颱風假的話還是待在家比較好。\n\n本則來自公視，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "巴威颱風的威力，這下真的有感了。暴風圈逐漸籠罩東半部及北台灣，從7月10日到11日清晨6時，宜蘭大同鄉雨下最多，超過238毫米；台中和平191毫米，桃園復興也有177毫米。北台灣已經有銀行招牌被強風吹落，橫躺在路面上。風勢方面，宜蘭頭城、台北大屯山、屏東牡丹和基隆等地颳起12級強陣風——超過10級的陣風，其實就已經能把樹連根拔起。如果今天有放颱風假，還是乖乖待在家比較安全。\n\n本則來自公視，2026 年 7 月 11 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "巴威颱風的暴風圈，逐漸籠罩東半部和北台灣。從7月10日到11日清晨6點，宜蘭大同鄉雨下最多，超過238毫米；台中和平191毫米，桃園復興也有177毫米。北台灣已經有銀行招牌被強風吹落，橫躺在路面上。宜蘭頭城、台北大屯山、屏東牡丹和基隆，都颳起了12級強陣風——超過10級的陣風，就已經能把樹連根拔起了。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "pts_news",
+              "name": "公視",
+              "publisher": "公視",
+              "summary": "巴威颱風的暴風圈逐漸籠罩東半部及北台灣，從昨（10）日到今（11）日早上6時，雨下最多的地方是在宜蘭的大同鄉，有超過238毫米；台中和平有191毫米、桃園復興也有177毫米的降雨。而風的部分，宜蘭頭城、台北大屯山、屏東牡丹、基隆等地都颳起了12級強陣風，超過10級的陣風其實就已經能夠將樹拔起，提醒今日有放颱風假的話，還是乖乖待在家，避免外出。",
+              "title": "巴威暴風圈壟罩北台灣 銀行招牌墜落橫躺路面",
+              "url": "https://news.pts.org.tw/article/817166",
+              "published_at": "2026-07-11T10:57:09+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "巴威颱風暴風圈籠罩東半部及北台灣，宜蘭大同鄉雨量超過238毫米，多地颳起12級強陣風。",
+              "source_id": "pts_news",
+              "source_title": "巴威暴風圈壟罩北台灣 銀行招牌墜落橫躺路面",
+              "source_url": "https://news.pts.org.tw/article/817166",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_feeds_checked": 27,
+    "total_feeds_failed": 0,
+    "total_feeds_failed_remote_blocked": 0,
+    "total_articles_fetched": 250,
+    "total_articles_after_filter": 236,
+    "total_events_merged": 187,
+    "total_events_selected": 18,
+    "tw_highlights_count": 2
+  },
+  "dropped_events": [
+    {
+      "event_id": "daily_20260712_evt_035",
+      "headline": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_040",
+      "headline": "Trump administration ties states' anti-terrorism grants to election security - Reuters",
+      "selection_score": -5,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_044",
+      "headline": "Malaysians in Johor state go to the polls in test of unity for PM Anwar's coalition - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_061",
+      "headline": "North Korea condemns NATO summit, says denuclearisation should start with US allies - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_062",
+      "headline": "Trump says missiles aimed at Iran if Tehran targets US president - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_176",
+      "headline": "British couple saved from Spanish ravine after deadly wildfire - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_183",
+      "headline": "Iran supreme leader calls for revenge for father's killing",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_184",
+      "headline": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_125",
+      "headline": "China prepares as Typhoon Bavi leaves Taiwan",
+      "selection_score": 38,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_135",
+      "headline": "What is going on in Yemen?",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_162",
+      "headline": "Syrians optimistic but cautious as sanctions removal revives economic hopes",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_169",
+      "headline": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_001",
+      "headline": "Watch: What links a bomb in Monaco and a shooting in Ukraine?",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_011",
+      "headline": "New species named after Cape Verde goalkeeper Vozinha",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_015",
+      "headline": "Family demands answers in death of young Black man in Mississippi - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_017",
+      "headline": "FAA extends flight cuts at Chicago O'Hare for another year - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_021",
+      "headline": "Occidental's quarterly realized oil prices jump amid Iran war disruption - Reuters",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_023",
+      "headline": "Fire at western Iranian mini-refinery contained, Iran media says - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_024",
+      "headline": "EXCLUSIVE: Bangladesh's Hasina plans December return with party colleagues to surrender - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_025",
+      "headline": "US insists Iran commit to stopping attacks in Hormuz strait, say US officials - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_026",
+      "headline": "New York Times countersues US employment agency over DEI lawsuit - Reuters",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_027",
+      "headline": "Dating can be hard in South Korea - so the monks stepped in",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_028",
+      "headline": "Xi says China’s commitment to North Korea friendship will not change, KCNA reports - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_029",
+      "headline": "Algeria reopens airspace to Malian flights, state media says - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_030",
+      "headline": "California cannot seek damages from 23andMe successor over 2023 data breach - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_032",
+      "headline": "Holtec Nuclear Corporation files for US IPO amid surging power demand - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_033",
+      "headline": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_034",
+      "headline": "Maine Senate candidate Graham Platner formally withdraws from race - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_036",
+      "headline": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_037",
+      "headline": "The photo that shows who's really on top in Le Pen's party",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_038",
+      "headline": "Meet the crypto billionaires building a world where money buys you a vote",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_041",
+      "headline": "SK Hynix shares jump in marquee US debut as AI euphoria persists - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_043",
+      "headline": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_046",
+      "headline": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_049",
+      "headline": "US acting spy chief announces new round of staff reductions - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_051",
+      "headline": "Russian strikes kill seven, wound dozens, Ukraine's Zelenskiy seeks faster weapons deliveries - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_052",
+      "headline": "Meta pulls new AI image feature after days of backlash",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_053",
+      "headline": "US, Latin American allies urge against casting doubt on Colombia's electoral process - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_055",
+      "headline": "New Zealand, India upgrade ties as PM Modi visits Auckland - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_058",
+      "headline": "西班牙野火釀12死、逾20失蹤 罹難者多為外籍遊客",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_059",
+      "headline": "山區降雨致入流量持續增加 萬里溪堰塞湖維持紅色警戒",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_060",
+      "headline": "Top Indonesian prosecutor resigns amid corruption probe - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_064",
+      "headline": "US seeks free Hormuz access from Iran as talks focus on strait - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_065",
+      "headline": "Small plane crash in Bahamas kills 10 people",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_066",
+      "headline": "巴威颱風釀全台36傷 累計疏散1.4萬人",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_068",
+      "headline": "From Moana to Suki Waterhouse: your complete entertainment guide to the week ahead",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_070",
+      "headline": "巴威來襲北市區風力上看11級 新北預防撤離擴大撤千餘人",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_071",
+      "headline": "巴威颱風持續朝西北方前進 氣象署：午後距離台灣最近",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_072",
+      "headline": "萬里溪堰塞湖蓄水量75.5% 午後降雨進水量影響溢流與否",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_076",
+      "headline": "西班牙安達盧西亞野火 已知12死、23人失蹤",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_077",
+      "headline": "北京呼籲維護落實美伊諒解備忘錄",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_078",
+      "headline": "睽違4年團聚　哈利梅根攜子女見英王查爾斯三世",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_079",
+      "headline": "Robot swans, giant keyboards and dancing mirrorball people: Illuminate Adelaide – in pictures",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_081",
+      "headline": "UK police release man arrested on suspicion of killing former minister Widdecombe - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_082",
+      "headline": "美國對伊朗祭新制裁　斬執政菁英金融命脈",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_085",
+      "headline": "One killed in drone attack on vessels in Taganrog Bay, Russian authorities say - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_086",
+      "headline": "中聯油品擴大下架4至6月產品 退貨管道、方式一次看",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_088",
+      "headline": "Turkey orders detention of 36 suspects in bribery probe in opposition-held district - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_089",
+      "headline": "Will Trump Accounts deliver for American children?",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_090",
+      "headline": "委內瑞拉強震逾4000死　家屬廢墟間苦尋親友",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_092",
+      "headline": "巴威颱風外圍環流帶來強降雨 菲律賓南部山崩釀15死、6失蹤",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_093",
+      "headline": "Australian killer's final police interview footage released",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_095",
+      "headline": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_096",
+      "headline": "孟買斥資437億打造海綿城市  盼科學防洪解淹水難題",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_101",
+      "headline": "印度電子垃圾增加　德里制訂廢電池回收SOP",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_102",
+      "headline": "巴威豪雨釀新竹122縣道中斷 五峰、尖石等撤離近1500人",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_103",
+      "headline": "美加新跨國大橋預計7/27通車　川普曾揚言封鎖",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_104",
+      "headline": "戴克辛雅加達晤印尼總統　討論區域情勢與經濟合作",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_106",
+      "headline": "‘‘It’s difficult for children to avoid the temptation of screens’: Soumayan Biswas’s best phone picture",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_107",
+      "headline": "日本最年長職業鋼琴家年邁過世　享嵩壽105歲",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_109",
+      "headline": "北韓軍方官員涉貪遭逐出執政黨　金正恩罕見公開痛斥",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_112",
+      "headline": "美伊衝突再起　調解方努力挽救外交協商空間",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_115",
+      "headline": "'We escaped Spanish wildfire, but our friends lost their lives'",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_117",
+      "headline": "基隆沿海持續發布巨浪告警 下午測得最高浪逾9公尺",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_119",
+      "headline": "颱風外圍環流帶來風雨 台中西屯路樹傾倒壓毀機車",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_120",
+      "headline": "颱風來襲雲林吹起強風 二崙騎士清晨遭倒樹壓傷",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_121",
+      "headline": "巴威來襲宜蘭童玩節持續休園 大同山區土石流警戒預警性撤離",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_122",
+      "headline": "俄羅斯指控開放空域供無人機攻擊　波海3國再駁斥",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_123",
+      "headline": "父親葬禮後再發書面聲明　穆吉塔巴矢言復仇",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_124",
+      "headline": "Eni CEO says oil market risks breaking out of current range by early 2027 - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_126",
+      "headline": "文湖線、三鶯線今全面停駛 雙北捷運、台鐵7/11行駛異動一次看",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_127",
+      "headline": "越南富國島外海觀光快艇翻覆　至少15人罹難",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_129",
+      "headline": "屏東牡丹、滿州陣風達14級以上 恆春半島也出現11級",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_130",
+      "headline": "巴威颱風為嘉義山區帶來豪雨 鹿草鄉曳引車打滑撞上號誌桿",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_131",
+      "headline": "午後萬里溪堰塞湖水位無顯著增 是否解除警戒仍依溢流風險判斷",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_132",
+      "headline": "大豹溪上游水流湍急淹上台階 蘆洲招牌遭吹落砸4部機車",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_133",
+      "headline": "泰安汶水溪暴漲洪流灌進路面 尖石鄉秀巒山壁嚴重坍方",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_134",
+      "headline": "巴威颱風暴風半徑略微縮小 估12日上午解除警報",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_136",
+      "headline": "Turkey still evaluating participation in Canada's global defence bank, sources say - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_138",
+      "headline": "Iran's supreme leader pledges revenge for slain father and predecessor - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_139",
+      "headline": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_142",
+      "headline": "音樂產業推AI內容標籤　標示創作是否使用人工智慧",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_143",
+      "headline": "Landmark US housing bill becomes law despite Trump protest",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_145",
+      "headline": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_146",
+      "headline": "紐時披露新空軍一號安全疑慮　多名記者遭傳喚",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_147",
+      "headline": "伊朗最高領袖遲不現身　路透：共和國執政包袱隱現",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_148",
+      "headline": "Teen Venezuela quake survivor mourns her 'young forever' friends - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_149",
+      "headline": "俄羅斯燃油危機加劇　新西伯利亞州籲民眾遠距工作",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_151",
+      "headline": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_157",
+      "headline": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_158",
+      "headline": "美國要求伊朗承諾確保海峽開放　傳調解方安排高層協商",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_171",
+      "headline": "China's second typhoon in a week makes landfall",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_172",
+      "headline": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_173",
+      "headline": "Trump revives praise for his health, cognitive test in post about May physical - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_175",
+      "headline": "烏克蘭無人機破壞威力升級　俄羅斯面臨消耗戰困境",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_179",
+      "headline": "Boat carrying tourists capsizes off Vietnam's Phu Quoc island, killing 15 - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_185",
+      "headline": "US Postal Service raises stamp price to 82 cents - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_186",
+      "headline": "Up, up and away: balloons take flight over Mildura – in pictures",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_002",
+      "headline": "CeCe Winans Revisits Pared-Down Worship Music on ‘The Hymns’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_003",
+      "headline": "This Author Says You Shouldn’t Be Intimidated by ‘The Odyssey’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_004",
+      "headline": "Hershel Parker, Melville Scholar of Ahab-Like Obsessiveness, Dies at 90",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_009",
+      "headline": "Historical Fiction Books That Will Transport You to the 1960s",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_012",
+      "headline": "Oil Prices Wobble As a Week of Hostilities Derails Shipping",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_014",
+      "headline": "Dinaw Mengestu Resigns as PEN America President After Israel Article",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_020",
+      "headline": "Apple sues OpenAI over alleged trade secret theft",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_022",
+      "headline": "Hachette Book Group Employees Vote to Unionize",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_031",
+      "headline": "Museum Spreads 800 Pounds of Peanut Butter in Tribute to Dutch Artist",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_039",
+      "headline": "Historian Kerri K. Greenidge and Her Book ‘The Grimkes’ Come Under Fire",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_042",
+      "headline": "Meta removes controversial AI feature on Instagram after backlash",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_047",
+      "headline": "‘Giulia’ Review: Jennifer Nettles Delivers Empowerment (and Poison)",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_048",
+      "headline": "OpenAI’s Head of Safety Is Leaving the Company",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_063",
+      "headline": "Book Review: ‘Fixer Chao,’ by Han Ong",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_067",
+      "headline": "Lizzo answers her critics: ‘I’m a fat, black, happy girl – they were always going to try to tear me down’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_069",
+      "headline": "TV tonight: a wild French drama about first world war super-soldiers",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_073",
+      "headline": "Casual by Chappell Roan helped me ditch dead-end relationships",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_074",
+      "headline": "Lucky: Anya Taylor-Joy is undeniably cool in this explosive tale of cons, revenge and ass-kicking",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_080",
+      "headline": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_083",
+      "headline": "Spain edges Belgium and will face France in World Cup semifinal",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_098",
+      "headline": "Orna Guralnik of ‘Couples Therapy’ Considers Kendrick Lamar a Genius",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_099",
+      "headline": "Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_100",
+      "headline": "Beyoncé, the Rolling Stones: Songs to Know This Week",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_105",
+      "headline": "World cup wrap day 30",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_111",
+      "headline": "Review: ‘Suddenly Last Summer’ Opera Premieres at Bard",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_113",
+      "headline": "Speedboat accident in southern Vietnam kills 15 Indian tourists",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_114",
+      "headline": "Sheinbaum takes on cartels, Trump and the legacy of 1968",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_116",
+      "headline": "Zimbabweans return home amid xenophobic violence in South Africa",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_118",
+      "headline": "Most people who need glasses don't have them. Can the post office change that?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_140",
+      "headline": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_141",
+      "headline": "Kids Can’t Stop Watching ‘Moana.’ There’s a Scientific Explanation.",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_144",
+      "headline": "How Good Is Jon Hamm at Playing Jon Hamm?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_152",
+      "headline": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_154",
+      "headline": "Our Insatiable Appetite for Stories About Cannibalism",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_159",
+      "headline": "Algeria and Mali restore diplomatic ties following yearlong rift",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_161",
+      "headline": "Which Version of the ‘Odyssey’ Should You Read?",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_163",
+      "headline": "How Olivia Wilde Directed an Awkward Dance in ‘The Invite’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_165",
+      "headline": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_167",
+      "headline": "Yaacov Agam, Who Made Kinetic, Kaleidoscopic Art, Dies at 98",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_168",
+      "headline": "FIFA is not an independent sporting organisation; it is a political tool.",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_170",
+      "headline": "England vs Norway LIVE: FIFA World Cup 2026 quarterfinal",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_174",
+      "headline": "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_177",
+      "headline": "Evacuations as landslide threatens Indian village, construction firm blamed",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_178",
+      "headline": "US, Lebanese delegations meet to discuss Israeli ‘pilot zones’ withdrawal",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_180",
+      "headline": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_181",
+      "headline": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_182",
+      "headline": "Thousands gather in Srebrenica to mark 31 years since genocide",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_187",
+      "headline": "What’s behind Pakistan’s mass deportation of Afghans?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_013",
+      "headline": "Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_091",
+      "headline": "Ant Group’s Robbyant Unveils LingBot-VA 2.0: A Causal Video-Action Model Built Natively for Physical AI",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_007",
+      "headline": "Arriaga Linear Park / Laboratorio Regional de Arquitectura",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_010",
+      "headline": "How to Build a T4-Friendly Autonomous Data Science Agent with DeepAnalyze-8B, Sandboxed Code Execution, and Iterative Analysis",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_054",
+      "headline": "Yanlord Arcadia Sunken Garden —— Lacy Steps / TROP : terrains + open space",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_075",
+      "headline": "Tidsmaskinen After-School Center  / BBP Arkitekter",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_087",
+      "headline": "Architecture in the Andes: How Altitude Shapes Design Decisions",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_097",
+      "headline": "Ciutat Vella Apartment / Balzar Arquitectos",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_110",
+      "headline": "BBB House / Beczak / Beczak / Architekci",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_137",
+      "headline": "Muxarabi House / Ana Sawaia Arquitetura",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_155",
+      "headline": "Matita-Perê House / Matéria Base",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_164",
+      "headline": "Leloir Studio Pavilion / FIR Estudio",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20260712_evt_018",
+      "headline": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "selection_score": 8,
+      "drop_reason": "total_limit_reached"
+    }
+  ]
+}
