@@ -1,0 +1,2056 @@
+{
+  "reportId": "daily_20261019",
+  "date": "2026-10-19",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-10-19T05:21:34.083548+08:00",
+  "status": "ok",
+  "warnings": [],
+  "sections": [
+    {
+      "beat": "INTL",
+      "title": "國際大事",
+      "emoji": "🌍",
+      "items": [
+        {
+          "event_id": "daily_20261019_evt_136",
+          "headline": "川普力挺尼坦雅胡選戰",
+          "context": "以色列10月27日將舉行國會大選。美國總統川普（Donald Trump）在社群媒體發文，稱尼坦雅胡（Benjamin Netanyahu）是「堅強、勇敢、傑出」的領袖，公開表態支持。",
+          "beat": "INTL",
+          "thread_text": "川普力挺尼坦雅胡選戰\n\n以色列10月27日將舉行國會大選。美國總統川普（Donald Trump）在社群媒體發文，稱尼坦雅胡（Benjamin Netanyahu）是「堅強、勇敢、傑出」的領袖，公開表態支持。\n\n—— 本則整理自半島電視台與路透社2026年10月19日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "川普力挺尼坦雅胡選戰\n\n以色列10月27日將舉行國會大選。美國總統川普（Donald Trump）在社群媒體發文，稱尼坦雅胡（Benjamin Netanyahu）是「堅強、勇敢、傑出」的領袖，公開表態支持。\n\n本則整理自半島電視台與路透社於2026年10月19日發佈的報導。",
+          "voice_text": "川普公開力挺尼坦雅胡。以色列10月27日將舉行國會大選，川普在社群媒體發文，稱尼坦雅胡是「堅強、勇敢、傑出」的領袖，公開表態支持。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "川普力挺尼坦雅胡選戰\n\n以色列10月27日將舉行國會大選。美國總統川普（Donald Trump）在社群媒體發文，稱尼坦雅胡（Benjamin Netanyahu）是「堅強、勇敢、傑出」的領袖，公開表態支持。\n\n—— 本則整理自半島電視台與路透社2026年10月19日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "川普力挺尼坦雅胡選戰\n\n以色列10月27日將舉行國會大選。美國總統川普（Donald Trump）在社群媒體發文，稱尼坦雅胡（Benjamin Netanyahu）是「堅強、勇敢、傑出」的領袖，公開表態支持。\n\n本則整理自半島電視台與路透社於2026年10月19日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "川普公開力挺尼坦雅胡。以色列10月27日將舉行國會大選，川普在社群媒體發文，稱尼坦雅胡是「堅強、勇敢、傑出」的領袖，公開表態支持。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader.",
+              "title": "Trump endorses Netanyahu in Israeli legislative elections",
+              "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+              "published_at": "2026-10-19T00:36:26+08:00"
+            },
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Trump endorses Netanyahu in close Israeli election Reuters",
+              "title": "Trump endorses Netanyahu in close Israeli election - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
+              "published_at": "2026-10-19T01:41:20+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "美國總統川普在社群媒體發文，稱尼坦雅胡是「堅強、勇敢、傑出」的領袖。",
+              "source_id": "aljazeera_all",
+              "source_title": "Trump endorses Netanyahu in Israeli legislative elections",
+              "source_url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "以色列將在10月27日舉行國會大選。",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Trump endorses Netanyahu in close Israeli election - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXNEX0FibmplMGVhLVA1TDdESTEzdk9PR1JYNWtsQzJkTG5ER1lrMkhfV05saHNXYndlOXFxdFJONU4zOEZhZUdtXzR0WGpVSHBuLUUyOExTWHktR3AtMjlnU08yNXpaUWFVOXE1Q3dNaDFkZG4yT0JFMmlkYzdvTXFudjFQOF9rcFBaM0VBbjBaOFQ5bndSNS1fZw?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 78,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2; major_geopolitical_event"
+        },
+        {
+          "event_id": "daily_20261019_evt_009",
+          "headline": "法國學生抗議擴大動盪",
+          "context": "法國多個城市10月17日（週六）出現數百場抗議。多半維持和平，但部分演變成混亂與暴力衝突，出現縱火、打劫與衝突場面。",
+          "beat": "INTL",
+          "thread_text": "法國學生抗議擴大動盪\n\n法國多個城市10月17日（週六）出現數百場抗議。多半維持和平，但部分演變成混亂與暴力，出現縱火、打劫與衝突場面。\n\n—— 本則整理自NPR與BBC2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "法國學生抗議擴大動盪\n\n法國多個城市10月17日（週六）出現數百場抗議。多半維持和平，但部分演變成混亂與暴力，出現縱火、打劫與衝突場面。\n\n本則整理自NPR與BBC於2026年10月18日發佈的報導。",
+          "voice_text": "法國學生抗議，演變成更大規模的社會動盪。10月17日週六，多個城市出現數百場抗議，多半和平，但部分演變成混亂與暴力，出現縱火、打劫與衝突。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "法國學生抗議擴大動盪\n\n法國多個城市10月17日（週六）出現數百場抗議。多半維持和平，但部分演變成混亂與暴力，出現縱火、打劫與衝突場面。\n\n—— 本則整理自NPR與BBC2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "法國學生抗議擴大動盪\n\n法國多個城市10月17日（週六）出現數百場抗議。多半維持和平，但部分演變成混亂與暴力，出現縱火、打劫與衝突場面。\n\n本則整理自NPR與BBC於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "法國學生抗議，演變成更大規模的社會動盪。10月17日週六，多個城市出現數百場抗議，多半和平，但部分演變成混亂與暴力，出現縱火、打劫與衝突。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "npr_world",
+              "name": "NPR",
+              "publisher": "NPR",
+              "summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
+              "title": "Student protests widen into greater social unrest in France",
+              "url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+              "published_at": "2026-10-18T05:18:52+08:00"
+            },
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+              "title": "How day of protests unfolded as disorder breaks out across France",
+              "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-10-18T05:33:17+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "法國多個城市出現數百場抗議，多半和平但部分演變成混亂與暴力。",
+              "source_id": "npr_world",
+              "source_title": "Student protests widen into greater social unrest in France",
+              "source_url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+              "support_type": "direct"
+            },
+            {
+              "claim": "示威演變成暴力，出現縱火、打劫等行為。",
+              "source_id": "bbc_world",
+              "source_title": "How day of protests unfolded as disorder breaks out across France",
+              "source_url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261019_evt_100",
+          "headline": "歐洲外交官遭以色列定居者攻擊",
+          "context": "約旦河西岸發生一起攻擊事件，一群歐洲外交官遭以色列定居者攻擊，事件發生在針對巴勒斯坦橄欖農的暴力衝突中。以色列軍方譴責這起暴力行為，但總理辦公室稱這是一場「抹黑」行動；歐盟則要求追究責任。",
+          "beat": "INTL",
+          "thread_text": "歐洲外交官遭以色列定居者攻擊\n\n約旦河西岸發生一起攻擊事件，一群歐洲外交官遭以色列定居者攻擊，事件發生在針對巴勒斯坦橄欖農的暴力衝突中。以色列軍方譴責這起暴力行為，但總理辦公室稱這是一場「抹黑」行動；歐盟則要求追究責任。\n\n—— 本則整理自BBC與半島電視台2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "歐洲外交官遭以色列定居者攻擊\n\n約旦河西岸發生一起攻擊事件，一群歐洲外交官遭以色列定居者攻擊，事件發生在針對巴勒斯坦橄欖農的暴力衝突中。以色列軍方譴責這起暴力行為，但總理辦公室稱這是一場「抹黑」行動；歐盟則要求追究責任。\n\n本則整理自BBC與半島電視台於2026年10月18日發佈的報導。",
+          "voice_text": "約旦河西岸，一群歐洲外交官遭以色列定居者攻擊。事件發生在針對巴勒斯坦橄欖農的暴力衝突中。以色列軍方譴責這起暴力行為，但總理辦公室說，這是一場「抹黑」行動。歐盟則要求以色列當局追究責任。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "歐洲外交官遭以色列定居者攻擊\n\n約旦河西岸發生一起攻擊事件，一群歐洲外交官遭以色列定居者攻擊，事件發生在針對巴勒斯坦橄欖農的暴力衝突中。以色列軍方譴責這起暴力行為，但總理辦公室稱這是一場「抹黑」行動；歐盟則要求追究責任。\n\n—— 本則整理自BBC與半島電視台2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "歐洲外交官遭以色列定居者攻擊\n\n約旦河西岸發生一起攻擊事件，一群歐洲外交官遭以色列定居者攻擊，事件發生在針對巴勒斯坦橄欖農的暴力衝突中。以色列軍方譴責這起暴力行為，但總理辦公室稱這是一場「抹黑」行動；歐盟則要求追究責任。\n\n本則整理自BBC與半島電視台於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "約旦河西岸，一群歐洲外交官遭以色列定居者攻擊。事件發生在針對巴勒斯坦橄欖農的暴力衝突中。以色列軍方譴責這起暴力行為，但總理辦公室說，這是一場「抹黑」行動。歐盟則要求以色列當局追究責任。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+              "title": "European diplomats attacked by Israeli settlers in West Bank",
+              "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-10-18T20:16:14+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.",
+              "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+              "url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+              "published_at": "2026-10-18T23:10:05+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "一群歐洲外交官在約旦河西岸遭以色列定居者攻擊，以色列軍方譴責此事。",
+              "source_id": "bbc_world",
+              "source_title": "European diplomats attacked by Israeli settlers in West Bank",
+              "source_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "歐盟要求追究責任，事件發生在針對巴勒斯坦橄欖農的暴力衝突中。",
+              "source_id": "aljazeera_all",
+              "source_title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+              "source_url": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261019_evt_083",
+          "headline": "教宗術後首度公開現身",
+          "context": "教宗良十四世（Pope Leo XIV）肺癌手術後首度公開現身。10月18日（週日），他在使徒宮陽台誦念傳統三鐘經祈禱，向聖伯多祿廣場的信眾致謝，並表示會逐步恢復日常職務。",
+          "beat": "INTL",
+          "thread_text": "教宗術後首度公開現身\n\n教宗良十四世肺癌手術後首度公開現身。10月18日（週日），他在使徒宮陽台誦念傳統三鐘經祈禱，向聖伯多祿廣場的信眾致謝，並表示會逐步恢復日常職務。\n\n—— 本則整理自BBC、NPR與路透社2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "教宗術後首度公開現身\n\n教宗良十四世肺癌手術後首度公開現身。10月18日（週日），他在使徒宮陽台誦念傳統三鐘經祈禱，向聖伯多祿廣場的信眾致謝，並表示會逐步恢復日常職務。\n\n本則整理自BBC、NPR與路透社於2026年10月18日發佈的報導。",
+          "voice_text": "教宗良十四世，術後首度公開現身了。10月18日週日，他在使徒宮陽台誦念傳統三鐘經祈禱，向聖伯多祿廣場的信眾致謝。他說，會逐步恢復日常職務。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "教宗術後首度公開現身\n\n教宗良十四世肺癌手術後首度公開現身。10月18日（週日），他在使徒宮陽台誦念傳統三鐘經祈禱，向聖伯多祿廣場的信眾致謝，並表示會逐步恢復日常職務。\n\n—— 本則整理自BBC、NPR與路透社2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "教宗術後首度公開現身\n\n教宗良十四世肺癌手術後首度公開現身。10月18日（週日），他在使徒宮陽台誦念傳統三鐘經祈禱，向聖伯多祿廣場的信眾致謝，並表示會逐步恢復日常職務。\n\n本則整理自BBC、NPR與路透社於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "教宗良十四世，術後首度公開現身了。10月18日週日，他在使徒宮陽台誦念傳統三鐘經祈禱，向聖伯多祿廣場的信眾致謝。他說，會逐步恢復日常職務。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+              "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+              "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-10-18T19:09:32+08:00"
+            },
+            {
+              "source_id": "npr_world",
+              "name": "NPR",
+              "publisher": "NPR",
+              "summary": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.",
+              "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+              "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+              "published_at": "2026-10-18T20:55:01+08:00"
+            },
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Pope Leo pledges gradual return to duties in first event since cancer surgery Reuters",
+              "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
+              "published_at": "2026-10-18T22:09:12+08:00"
+            }
+          ],
+          "source_count": 3,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "教宗良十四世肺癌手術後首度公開現身，誦念傳統三鐘經祈禱。",
+              "source_id": "bbc_world",
+              "source_title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+              "source_url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "教宗向聖伯多祿廣場的信眾致謝，並表示會逐步恢復日常職務。",
+              "source_id": "npr_world",
+              "source_title": "Pope Leo says he will gradually resume duties after cancer surgery",
+              "source_url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+              "support_type": "direct"
+            },
+            {
+              "claim": "教宗承諾逐步恢復日常職務。",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Pope Leo pledges gradual return to duties in first event since cancer surgery - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQajlwczZReXZXSkQ1X1JuZWNGWlNjX2VXcW9hNVdlNXYybU00b3NkSFdpdXo4ZXFLZ184OENSdTZRbE9DdDF2ejZIRVpXUWk2MjdJbWM2Y0JMNzVfcGFvYzRxUU5LYUhpTTB6QWpQWHgwR0tEUXZkNnhBMkxJYkd4dTBydU1OWFpVd3lSNjRSSmF3QW9TUmFocVJVa1QyVUtJcFFHeUwwTGg?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261019_evt_019",
+          "headline": "加拿大軍事基地大火4死",
+          "context": "加拿大亞伯達省一座軍事基地發生大火。總理卡尼（Mark Carney）表示，至少4名軍人死亡、數十人受傷，是加拿大軍方在國內本土遭遇過最嚴重的和平時期悲劇之一。",
+          "beat": "INTL",
+          "thread_text": "加拿大軍事基地大火4死\n\n加拿大亞伯達省一座軍事基地發生大火。總理卡尼（Mark Carney）表示，至少4名軍人死亡、數十人受傷，是加拿大軍方在國內本土遭遇過最嚴重的和平時期悲劇之一。\n\n—— 本則整理自路透社、NPR與BBC2026年10月18日至19日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "加拿大軍事基地大火4死\n\n加拿大亞伯達省一座軍事基地發生大火。總理卡尼（Mark Carney）表示，至少4名軍人死亡、數十人受傷，是加拿大軍方在國內本土遭遇過最嚴重的和平時期悲劇之一。\n\n本則整理自路透社、NPR與BBC於2026年10月18日至19日發佈的報導。",
+          "voice_text": "加拿大一座軍事基地發生大火，至少4人死亡。地點在亞伯達省，總理卡尼說，數十人受傷，這是加拿大軍方在本土遭遇過最嚴重的和平時期悲劇之一。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "加拿大軍事基地大火4死\n\n加拿大亞伯達省一座軍事基地發生大火。總理卡尼（Mark Carney）表示，至少4名軍人死亡、數十人受傷，是加拿大軍方在國內本土遭遇過最嚴重的和平時期悲劇之一。\n\n—— 本則整理自路透社、NPR與BBC2026年10月18日至19日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "加拿大軍事基地大火4死\n\n加拿大亞伯達省一座軍事基地發生大火。總理卡尼（Mark Carney）表示，至少4名軍人死亡、數十人受傷，是加拿大軍方在國內本土遭遇過最嚴重的和平時期悲劇之一。\n\n本則整理自路透社、NPR與BBC於2026年10月18日至19日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "加拿大一座軍事基地發生大火，至少4人死亡。地點在亞伯達省，總理卡尼說，數十人受傷，這是加拿大軍方在本土遭遇過最嚴重的和平時期悲劇之一。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta Reuters",
+              "title": "Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2FXR2gxVGRZLXlocTZDQnduRHpvT3JVUHotdTZsTmczb1B4TDE0OWktQmlDNm1WcGdqcEE2Zm9HTmtpN19Pb29YNnVyVHI4d1hXUG1lb0U2ejg2cDF4VGE5Wng0TGdrVDRaSU85WnNQVmw2WmpOaHhMNlpnTFo0cC1tRkRjTDZJVllKdDJIaUhmM1laR01KS2FrQTRKb1lpQThJZlRIeVd0OVZQUnlFX2tnamx6bHladV95MWZHNUVsSldx?oc=5",
+              "published_at": "2026-10-18T10:13:00+08:00"
+            },
+            {
+              "source_id": "npr_world",
+              "name": "NPR",
+              "publisher": "NPR",
+              "summary": "Canadian Prime Minister Mark Carney described the incident as one of the worst peacetime tragedies for Canada's military on domestic soil.",
+              "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
+              "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+              "published_at": "2026-10-18T15:56:08+08:00"
+            },
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+              "title": "What we know so far about deadly fire at Canadian military base",
+              "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-10-19T03:42:37+08:00"
+            }
+          ],
+          "source_count": 3,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "加拿大亞伯達省一座軍事基地發生大火，至少4名軍人死亡。",
+              "source_id": "npr_world",
+              "source_title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
+              "source_url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+              "support_type": "direct"
+            },
+            {
+              "claim": "總理卡尼稱此為加拿大軍方在本土遭遇過最嚴重的和平時期悲劇之一。",
+              "source_id": "npr_world",
+              "source_title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
+              "source_url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+              "support_type": "direct"
+            },
+            {
+              "claim": "大火已確認造成人員死亡。",
+              "source_id": "bbc_world",
+              "source_title": "What we know so far about deadly fire at Canadian military base",
+              "source_url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        }
+      ]
+    },
+    {
+      "beat": "ARTS",
+      "title": "八大藝術",
+      "emoji": "🎭",
+      "items": [
+        {
+          "event_id": "daily_20261019_evt_056",
+          "headline": "弗格森的私房歌單",
+          "context": "英國歌手蕾貝卡·弗格森（Rebecca Ferguson）分享她的私房歌單：小時候只能聽福音歌曲，第一次聽到惠妮·休斯頓（Whitney Houston）的《I Will Always Love You》時深受震撼。她人生買的第一張單曲，是童年在利物浦一間超市買的The Corrs《So Young》。",
+          "beat": "ARTS",
+          "thread_text": "弗格森的私房歌單\n\n英國歌手蕾貝卡·弗格森（Rebecca Ferguson）分享她的私房歌單：小時候只能聽福音歌曲，第一次聽到惠妮·休斯頓（Whitney Houston）的《I Will Always Love You》時，深受震撼。她人生買的第一張單曲，是童年在利物浦一間超市買的The Corrs《So Young》。\n\n—— 本則來自衛報2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "弗格森的私房歌單\n\n英國歌手蕾貝卡·弗格森（Rebecca Ferguson）分享她的私房歌單：小時候只能聽福音歌曲，第一次聽到惠妮·休斯頓（Whitney Houston）的《I Will Always Love You》時，深受震撼。她人生買的第一張單曲，是童年在利物浦一間超市買的The Corrs《So Young》。\n\n本則來自衛報於2026年10月18日發佈的報導。",
+          "voice_text": "英國歌手弗格森，分享了她的私房歌單。她小時候只能聽福音歌曲，第一次聽到惠妮·休斯頓的《I Will Always Love You》，深受震撼。她人生買的第一張單曲，是童年在利物浦一間超市買的The Corrs歌曲《So Young》。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "弗格森的私房歌單\n\n英國歌手蕾貝卡·弗格森（Rebecca Ferguson）分享她的私房歌單：小時候只能聽福音歌曲，第一次聽到惠妮·休斯頓（Whitney Houston）的《I Will Always Love You》時，深受震撼。她人生買的第一張單曲，是童年在利物浦一間超市買的The Corrs《So Young》。\n\n—— 本則來自衛報2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "弗格森的私房歌單\n\n英國歌手蕾貝卡·弗格森（Rebecca Ferguson）分享她的私房歌單：小時候只能聽福音歌曲，第一次聽到惠妮·休斯頓（Whitney Houston）的《I Will Always Love You》時，深受震撼。她人生買的第一張單曲，是童年在利物浦一間超市買的The Corrs《So Young》。\n\n本則來自衛報於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "英國歌手弗格森，分享了她的私房歌單。她小時候只能聽福音歌曲，第一次聽到惠妮·休斯頓的《I Will Always Love You》，深受震撼。她人生買的第一張單曲，是童年在利物浦一間超市買的The Corrs歌曲《So Young》。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_music",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "The singer-songwriter gets a lift from U2 and likes to reminisce to Bette Midler, but which cheesy Euro banger does she secretly like? The first song I fell in love with When I was five or six, my mum wouldn’t let me listen to anything other than Christian gospel. Her friend Jane felt sorry for me and brought me a cassette with Whitney Houston on one side and Cher on the other. My ears couldn’t believe what they were hearing. I Will Always Love You made me think: This is what I’m going to do. The first single I bought So Young by the Corrs, from Sainsbury’s in Walton Village in Liverpool. I couldn’t really afford music as a kid, so buying a record was a big deal. I’d heard the Corrs on the radio, liked their voices and thought: I’m buying this. Continue reading...",
+              "title": "‘I drunkenly sing Wonderwall off-key and awfully’: Rebecca Ferguson’s honest playlist",
+              "url": "https://www.theguardian.com/music/2026/oct/18/rebecca-ferguson-honest-playlist-whitney-houston-the-corrs",
+              "published_at": "2026-10-18T16:00:54+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "弗格森分享她的私房歌單，提到童年聽惠妮·休斯頓的《I Will Always Love You》深受震撼，第一張單曲是The Corrs的《So Young》。",
+              "source_id": "guardian_music",
+              "source_title": "‘I drunkenly sing Wonderwall off-key and awfully’: Rebecca Ferguson’s honest playlist",
+              "source_url": "https://www.theguardian.com/music/2026/oct/18/rebecca-ferguson-honest-playlist-whitney-houston-the-corrs",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "音樂",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261019_evt_014",
+          "headline": "雪梨邦迪海邊雕塑展",
+          "context": "澳洲雪梨邦迪（Bondi）到塔馬拉瑪（Tamarama）2公里長的海岸步道，再次舉辦全澳最大型的免費戶外雕塑展，展出來自世界各地藝術家的作品，展期至11月2日。",
+          "beat": "ARTS",
+          "thread_text": "雪梨邦迪海邊雕塑展\n\n澳洲雪梨邦迪（Bondi）到塔馬拉瑪（Tamarama）2公里長的海岸步道，再次舉辦全澳最大型的免費戶外雕塑展，展出來自世界各地藝術家的作品，展期至11月2日。\n\n—— 本則來自衛報2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "雪梨邦迪海邊雕塑展\n\n澳洲雪梨邦迪（Bondi）到塔馬拉瑪（Tamarama）2公里長的海岸步道，再次舉辦全澳最大型的免費戶外雕塑展，展出來自世界各地藝術家的作品，展期至11月2日。\n\n本則來自衛報於2026年10月18日發佈的報導。",
+          "voice_text": "雪梨邦迪海邊，又辦起戶外雕塑展了。這是全澳洲最大型的免費戶外雕塑展，沿著邦迪到塔馬拉瑪2公里長的海岸步道展出，來自世界各地藝術家的作品，展期到11月2日。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "雪梨邦迪海邊雕塑展\n\n澳洲雪梨邦迪（Bondi）到塔馬拉瑪（Tamarama）2公里長的海岸步道，再次舉辦全澳最大型的免費戶外雕塑展，展出來自世界各地藝術家的作品，展期至11月2日。\n\n—— 本則來自衛報2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "雪梨邦迪海邊雕塑展\n\n澳洲雪梨邦迪（Bondi）到塔馬拉瑪（Tamarama）2公里長的海岸步道，再次舉辦全澳最大型的免費戶外雕塑展，展出來自世界各地藝術家的作品，展期至11月2日。\n\n本則來自衛報於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "雪梨邦迪海邊，又辦起戶外雕塑展了。這是全澳洲最大型的免費戶外雕塑展，沿著邦迪到塔馬拉瑪2公里長的海岸步道展出，來自世界各地藝術家的作品，展期到11月2日。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_art_design",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Australia’s largest free outdoor sculpture exhibition returns to Sydney’s 2km Bondi to Tamarama coastal walk, showcasing work by artists from around the world. The annual exhibition is on now until 2 November Spot the banana shark: 30 years of Bondi’s Sculpture by the Sea – in pictures Continue reading...",
+              "title": "Sculpture by the Sea 2026: Bondi comes alive with beachside art – in pictures",
+              "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/18/sculpture-by-the-sea-2026-bondi-beachside-art-in-pictures",
+              "published_at": "2026-10-18T07:00:44+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "澳洲雪梨邦迪到塔馬拉瑪2公里海岸步道再次舉辦全澳最大型免費戶外雕塑展，展期至11月2日。",
+              "source_id": "guardian_art_design",
+              "source_title": "Sculpture by the Sea 2026: Bondi comes alive with beachside art – in pictures",
+              "source_url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/18/sculpture-by-the-sea-2026-bondi-beachside-art-in-pictures",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "視覺藝術",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261019_evt_081",
+          "headline": "末日論可能讓人更無力",
+          "context": "這是一篇評論：面對氣候危機、AI浩劫、戰爭與政治動盪，用強烈警告「嚇」人行動看似合理，但評論指出，這種「末日論」反而容易讓人陷入無力與麻木。若人人都僵住不動，情況不會改變，真正需要的是行動。",
+          "beat": "ARTS",
+          "thread_text": "末日論可能讓人更無力\n\n這是一篇評論：面對氣候危機、AI浩劫、戰爭與政治動盪，用強烈警告「嚇」人行動看似合理，但評論指出，這種「末日論」反而容易讓人陷入無力與麻木。若人人都僵住不動，情況不會改變，真正需要的是行動。\n\n—— 本則來自衛報2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "末日論可能讓人更無力\n\n這是一篇評論：面對氣候危機、AI浩劫、戰爭與政治動盪，用強烈警告「嚇」人行動看似合理，但評論指出，這種「末日論」反而容易讓人陷入無力與麻木。若人人都僵住不動，情況不會改變，真正需要的是行動。\n\n本則來自衛報於2026年10月18日發佈的報導。",
+          "voice_text": "這是個觀察：一直用末日般的警告嚇人，可能讓人更不想行動，而不是更想做事。面對氣候、AI、戰爭這些大危機，把人嚇到僵住，情況不會因此改變；真正需要的是行動。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "末日論可能讓人更無力\n\n這是一篇評論：面對氣候危機、AI浩劫、戰爭與政治動盪，用強烈警告「嚇」人行動看似合理，但評論指出，這種「末日論」反而容易讓人陷入無力與麻木。若人人都僵住不動，情況不會改變，真正需要的是行動。\n\n—— 本則來自衛報2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "末日論可能讓人更無力\n\n這是一篇評論：面對氣候危機、AI浩劫、戰爭與政治動盪，用強烈警告「嚇」人行動看似合理，但評論指出，這種「末日論」反而容易讓人陷入無力與麻木。若人人都僵住不動，情況不會改變，真正需要的是行動。\n\n本則來自衛報於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "這是個觀察：一直用末日般的警告嚇人，可能讓人更不想行動，而不是更想做事。面對氣候、AI、戰爭這些大危機，把人嚇到僵住，情況不會因此改變；真正需要的是行動。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_books",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "In the face of terrible crises, it can feel right to shock people into action. But what if that has the opposite effect? These days, it’s easy to succumb to hopelessness. Whether you’re thinking about the climate crisis, the prospect of AI apocalypse, war or political turmoil, the list of challenges facing humanity can seem insurmountable. It certainly feels unprecedented, and much of it may be. The sense of impending doom, on the other hand, is nothing new. And what we have learned from the past is that doomerism can lead to paralysis. If everyone freezes, then nothing changes – but if we want to have a chance of mitigating some of the threats I’ve mentioned then action is what’s required. Continue reading...",
+              "title": "The problem with telling people the world is ending",
+              "url": "https://www.theguardian.com/environment/2026/oct/18/the-problem-with-telling-people-the-world-is-ending",
+              "published_at": "2026-10-18T19:00:02+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "評論指出，用末日式警告嚇人行動，容易讓人陷入無力與麻木，反而需要的是行動。",
+              "source_id": "guardian_books",
+              "source_title": "The problem with telling people the world is ending",
+              "source_url": "https://www.theguardian.com/environment/2026/oct/18/the-problem-with-telling-people-the-world-is-ending",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "文學",
+          "single_source_warning": true,
+          "opinion_level": "explicit_commentary",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261019_evt_063",
+          "headline": "阿里G回歸掀爭議",
+          "context": "英國喜劇角色阿里G（Ali G，由薩夏·拜倫·科恩飾演）在新電影中回歸，面對正負兩極的討論。他在專訪中回應外界對他回歸的批評，也聊到最難搞的受訪者經驗，以及他打算如何「阻止二次大戰」的玩笑話。",
+          "beat": "ARTS",
+          "thread_text": "阿里G回歸掀爭議\n\n英國喜劇角色阿里G（Ali G，由薩夏·拜倫·科恩飾演）在新電影中回歸，面對正負兩極的討論。他在專訪中回應外界對他回歸的批評，也聊到最難搞的受訪者經驗，以及他打算如何「阻止二次大戰」的玩笑話。\n\n—— 本則來自衛報2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "阿里G回歸掀爭議\n\n英國喜劇角色阿里G（Ali G，由薩夏·拜倫·科恩飾演）在新電影中回歸，面對正負兩極的討論。他在專訪中回應外界對他回歸的批評，也聊到最難搞的受訪者經驗，以及他打算如何「阻止二次大戰」的玩笑話。\n\n本則來自衛報於2026年10月18日發佈的報導。",
+          "voice_text": "英國喜劇角色阿里G，在新電影裡回歸了。這次回歸引發正負兩極的討論，他在專訪中回應外界的批評，也聊到最難搞的受訪者經驗，還開玩笑說要怎麼「阻止二次大戰」。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "阿里G回歸掀爭議\n\n英國喜劇角色阿里G（Ali G，由薩夏·拜倫·科恩飾演）在新電影中回歸，面對正負兩極的討論。他在專訪中回應外界對他回歸的批評，也聊到最難搞的受訪者經驗，以及他打算如何「阻止二次大戰」的玩笑話。\n\n—— 本則來自衛報2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "阿里G回歸掀爭議\n\n英國喜劇角色阿里G（Ali G，由薩夏·拜倫·科恩飾演）在新電影中回歸，面對正負兩極的討論。他在專訪中回應外界對他回歸的批評，也聊到最難搞的受訪者經驗，以及他打算如何「阻止二次大戰」的玩笑話。\n\n本則來自衛報於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "英國喜劇角色阿里G，在新電影裡回歸了。這次回歸引發正負兩極的討論，他在專訪中回應外界的批評，也聊到最難搞的受訪者經驗，還開玩笑說要怎麼「阻止二次大戰」。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_film",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Staines’s finest nailed the zeitgeist of the late 90s and early 00s, and now he’s back – but how does he fit into 2026? He discusses the backlash against his return, his worst ever interviewee and how he’s going to prevent world war two “Can you tell people that you’re from Hustler?” Ali G asks me. “Or The Source. Or Guns & Ammo. Speaking to a Guardian journalist ain’t a good look for me in the hood.” At Ali’s request, we are meeting in an independent chicken shop in Staines because – due to some sort of mix-up – he thought the one interview he had agreed to for his new film was Chicken Shop Date , which was “90% likely to lead to boning”. He follows this with an entirely unprintable reminiscence about the first time he and “me Julie” had sex in the disabled toilets of Egham KFC. Continue reading...",
+              "title": "Ali G answers his critics: ‘Me ain’t the first intellectual to get haterz’",
+              "url": "https://www.theguardian.com/culture/2026/oct/18/ali-g-film-who-iz-i-interview-sacha-baron-cohen",
+              "published_at": "2026-10-18T17:00:55+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "阿里G在新電影中回歸，面對正負兩極的討論，受訪時回應批評並開玩笑談「阻止二次大戰」。",
+              "source_id": "guardian_film",
+              "source_title": "Ali G answers his critics: ‘Me ain’t the first intellectual to get haterz’",
+              "source_url": "https://www.theguardian.com/culture/2026/oct/18/ali-g-film-who-iz-i-interview-sacha-baron-cohen",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "電影",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "AI",
+      "title": "AI 新知",
+      "emoji": "🤖",
+      "items": [
+        {
+          "event_id": "daily_20261019_evt_070",
+          "headline": "Meta被控對AI雙重標準",
+          "context": "OnlyFans等平台的成人內容創作者質疑，Meta旗下AI聊天機器人Muse可以進行性暗示對話，卻同時限制創作者本人的社群帳號，形成雙重標準。",
+          "beat": "AI",
+          "thread_text": "Meta被控對AI雙重標準\n\nOnlyFans等平台的成人內容創作者質疑，Meta旗下AI聊天機器人Muse可以進行性暗示對話，卻同時限制創作者本人的社群帳號，形成雙重標準。\n\n—— 本則來自Wired2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "Meta被控對AI雙重標準\n\nOnlyFans等平台的成人內容創作者質疑，Meta旗下AI聊天機器人Muse可以進行性暗示對話，卻同時限制創作者本人的社群帳號，形成雙重標準。\n\n本則來自Wired於2026年10月18日發佈的報導。",
+          "voice_text": "有一群成人內容創作者，質疑Meta雙重標準。Meta旗下的AI聊天機器人Muse，可以進行性暗示對話，但這些創作者自己的社群帳號，卻受到限制。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "Meta被控對AI雙重標準\n\nOnlyFans等平台的成人內容創作者質疑，Meta旗下AI聊天機器人Muse可以進行性暗示對話，卻同時限制創作者本人的社群帳號，形成雙重標準。\n\n—— 本則來自Wired2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "Meta被控對AI雙重標準\n\nOnlyFans等平台的成人內容創作者質疑，Meta旗下AI聊天機器人Muse可以進行性暗示對話，卻同時限制創作者本人的社群帳號，形成雙重標準。\n\n本則來自Wired於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "有一群成人內容創作者，質疑Meta雙重標準。Meta旗下的AI聊天機器人Muse，可以進行性暗示對話，但這些創作者自己的社群帳號，卻受到限制。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "wired_ai",
+              "name": "Wired",
+              "publisher": "Wired",
+              "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+              "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+              "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+              "published_at": "2026-10-18T18:30:00+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "成人內容創作者質疑Meta讓AI聊天機器人Muse可性暗示對話，卻限制創作者自身帳號。",
+              "source_id": "wired_ai",
+              "source_title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+              "source_url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2"
+        },
+        {
+          "event_id": "daily_20261019_evt_010",
+          "headline": "Meta悄悄改條款惹議",
+          "context": "社群媒體Meta更新了使用條款，刪除了先前可能涉及網路爬取與AI訓練的用語。Meta發言人表示，新條款並不代表公司爬取網路內容的方式有任何改變。",
+          "beat": "AI",
+          "thread_text": "Meta悄悄改條款惹議\n\n社群媒體Meta更新了使用條款，刪除了先前可能涉及網路爬取與AI訓練的用語。Meta發言人表示，新條款並不代表公司爬取網路內容的方式有任何改變。\n\n—— 本則來自TechCrunch2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "Meta悄悄改條款惹議\n\n社群媒體Meta更新了使用條款，刪除了先前可能涉及網路爬取與AI訓練的用語。Meta發言人表示，新條款並不代表公司爬取網路內容的方式有任何改變。\n\n本則來自TechCrunch於2026年10月18日發佈的報導。",
+          "voice_text": "Meta的使用條款，悄悄改了。原本可能涉及網路爬取與AI訓練的用語被刪掉了，但Meta發言人說，公司爬取網路內容的方式，並沒有因此改變。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "Meta悄悄改條款惹議\n\n社群媒體Meta更新了使用條款，刪除了先前可能涉及網路爬取與AI訓練的用語。Meta發言人表示，新條款並不代表公司爬取網路內容的方式有任何改變。\n\n—— 本則來自TechCrunch2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "Meta悄悄改條款惹議\n\n社群媒體Meta更新了使用條款，刪除了先前可能涉及網路爬取與AI訓練的用語。Meta發言人表示，新條款並不代表公司爬取網路內容的方式有任何改變。\n\n本則來自TechCrunch於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "Meta的使用條款，悄悄改了。原本可能涉及網路爬取與AI訓練的用語被刪掉了，但Meta發言人說，公司爬取網路內容的方式，並沒有因此改變。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "techcrunch_ai",
+              "name": "TechCrunch",
+              "publisher": "TechCrunch",
+              "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+              "title": "Meta removes language that raised scraping and AI training concerns",
+              "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+              "published_at": "2026-10-18T05:31:32+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "Meta更新使用條款，刪除可能涉及網路爬取與AI訓練的用語，發言人稱爬取方式未改變。",
+              "source_id": "techcrunch_ai",
+              "source_title": "Meta removes language that raised scraping and AI training concerns",
+              "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2"
+        },
+        {
+          "event_id": "daily_20261019_evt_071",
+          "headline": "資料中心公關瞄準兒童",
+          "context": "面對社會對資料中心的反彈聲浪，一些親產業團體開始用新策略拉攏年輕世代，包括安排學童校外教學參觀資料中心，用懷舊的公關手法爭取好感。",
+          "beat": "AI",
+          "thread_text": "資料中心公關瞄準兒童\n\n面對社會對資料中心的反彈聲浪，一些親產業團體開始用新策略拉攏年輕世代，包括安排學童校外教學參觀資料中心，用懷舊的公關手法爭取好感。\n\n—— 本則來自Wired2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "資料中心公關瞄準兒童\n\n面對社會對資料中心的反彈聲浪，一些親產業團體開始用新策略拉攏年輕世代，包括安排學童校外教學參觀資料中心，用懷舊的公關手法爭取好感。\n\n本則來自Wired於2026年10月18日發佈的報導。",
+          "voice_text": "資料中心產業，開始把公關瞄準小朋友了。面對社會對資料中心的反彈聲浪，一些親產業團體開始用懷舊的公關手法拉攏年輕世代，包括安排學童校外教學參觀資料中心。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "資料中心公關瞄準兒童\n\n面對社會對資料中心的反彈聲浪，一些親產業團體開始用新策略拉攏年輕世代，包括安排學童校外教學參觀資料中心，用懷舊的公關手法爭取好感。\n\n—— 本則來自Wired2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "資料中心公關瞄準兒童\n\n面對社會對資料中心的反彈聲浪，一些親產業團體開始用新策略拉攏年輕世代，包括安排學童校外教學參觀資料中心，用懷舊的公關手法爭取好感。\n\n本則來自Wired於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "資料中心產業，開始把公關瞄準小朋友了。面對社會對資料中心的反彈聲浪，一些親產業團體開始用懷舊的公關手法拉攏年輕世代，包括安排學童校外教學參觀資料中心。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "wired_ai",
+              "name": "Wired",
+              "publisher": "Wired",
+              "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
+              "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+              "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+              "published_at": "2026-10-18T18:30:00+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "面對反彈聲浪，親產業團體安排學童校外教學參觀資料中心，用懷舊公關手法拉攏年輕世代。",
+              "source_id": "wired_ai",
+              "source_title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+              "source_url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2"
+        }
+      ]
+    },
+    {
+      "beat": "ECON",
+      "title": "全球經濟趨勢",
+      "emoji": "📊",
+      "items": [
+        {
+          "event_id": "daily_20261019_evt_096",
+          "headline": "美國小企業信心比川普高",
+          "context": "美國有3400 萬家小型企業，雇用全國約一半的勞工，創造約一半的GDP。整體而言，美國民眾對川普的經濟評價不佳，但多份調查顯示，小企業主對景氣的信心相對穩定。",
+          "beat": "ECON",
+          "thread_text": "美國小企業信心比川普高\n\n美國有3400 萬家小型企業，雇用全國約一半的勞工，創造約一半的GDP。整體而言，美國民眾對川普的經濟評價不佳，但多份調查顯示，小企業主對景氣的信心相對穩定。\n\n—— 本則來自衛報2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "美國小企業信心比川普高\n\n美國有3400 萬家小型企業，雇用全國約一半的勞工，創造約一半的GDP。整體而言，美國民眾對川普的經濟評價不佳，但多份調查顯示，小企業主對景氣的信心相對穩定。\n\n本則來自衛報於2026年10月18日發佈的報導。",
+          "voice_text": "美國的小企業主，信心比川普的支持率高。美國有3400萬家小型企業，雇用全國大約一半的勞工，創造大約一半的GDP。整體來說，民眾對川普的經濟評價不好，但多份調查顯示，小企業主對景氣信心相對穩定。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美國小企業信心比川普高\n\n美國有3400 萬家小型企業，雇用全國約一半的勞工，創造約一半的GDP。整體而言，美國民眾對川普的經濟評價不佳，但多份調查顯示，小企業主對景氣的信心相對穩定。\n\n—— 本則來自衛報2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "美國小企業信心比川普高\n\n美國有3400 萬家小型企業，雇用全國約一半的勞工，創造約一半的GDP。整體而言，美國民眾對川普的經濟評價不佳，但多份調查顯示，小企業主對景氣的信心相對穩定。\n\n本則來自衛報於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "美國的小企業主，信心比川普的支持率高。美國有3400萬家小型企業，雇用全國大約一半的勞工，創造大約一半的GDP。整體來說，民眾對川普的經濟評價不好，但多份調查顯示，小企業主對景氣信心相對穩定。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_business",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Overall, economic sentiment for Trump is poor, but small businesses seem fairly confident, according to several surveys There are 34m small businesses in the United States. They employ approximately half of the country’s workers and generate about half of the country’s GDP. They’re an important voting block. So how are they feeling about the economy as we head into November’s midterm elections? Overall, economic sentiment for Donald Trump is poor but small business – admittedly a diverse demographic that’s hard to poll – seems fairly confident. A number of recently published surveys and reports can help understand their mood. Confidence is generally stable. Continue reading...",
+              "title": "Small business owners are doing OK – but will that help Trump overcome his low approval ratings?",
+              "url": "https://www.theguardian.com/business/2026/oct/18/small-business-owners-trump-economy",
+              "published_at": "2026-10-18T20:00:02+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "美國有3400萬家小型企業，雇用全國約一半的勞工，創造約一半的GDP。",
+              "source_id": "guardian_business",
+              "source_title": "Small business owners are doing OK – but will that help Trump overcome his low approval ratings?",
+              "source_url": "https://www.theguardian.com/business/2026/oct/18/small-business-owners-trump-economy",
+              "support_type": "direct"
+            },
+            {
+              "claim": "多份調查顯示，整體民眾對川普的經濟評價不佳，但小企業主信心相對穩定。",
+              "source_id": "guardian_business",
+              "source_title": "Small business owners are doing OK – but will that help Trump overcome his low approval ratings?",
+              "source_url": "https://www.theguardian.com/business/2026/oct/18/small-business-owners-trump-economy",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 35,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1; economy_macro_policy"
+        },
+        {
+          "event_id": "daily_20261019_evt_062",
+          "headline": "3張圖看懂美國經濟",
+          "context": "美國期中選舉將近，通膨仍偏高，消費支出維持強勁，而整體經濟走向，似乎越來越取決於AI產業的發展。",
+          "beat": "ECON",
+          "thread_text": "3張圖看懂美國經濟\n\n美國期中選舉將近，通膨仍偏高，消費支出維持強勁，而整體經濟走向，似乎越來越取決於AI產業的發展。\n\n—— 本則來自紐約時報2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "3張圖看懂美國經濟\n\n美國期中選舉將近，通膨仍偏高，消費支出維持強勁，而整體經濟走向，似乎越來越取決於AI產業的發展。\n\n本則來自紐約時報於2026年10月18日發佈的報導。",
+          "voice_text": "美國經濟現在是什麼狀況？通膨仍然偏高，消費支出維持強勁，而整體經濟走向，越來越取決於AI產業的發展，期中選舉也快到了。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "3張圖看懂美國經濟\n\n美國期中選舉將近，通膨仍偏高，消費支出維持強勁，而整體經濟走向，似乎越來越取決於AI產業的發展。\n\n—— 本則來自紐約時報2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "3張圖看懂美國經濟\n\n美國期中選舉將近，通膨仍偏高，消費支出維持強勁，而整體經濟走向，似乎越來越取決於AI產業的發展。\n\n本則來自紐約時報於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "美國經濟現在是什麼狀況？通膨仍然偏高，消費支出維持強勁，而整體經濟走向，越來越取決於AI產業的發展，期中選舉也快到了。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "nyt_business",
+              "name": "The New York Times",
+              "publisher": "The New York Times",
+              "summary": "Inflation is high, consumer spending is strong and seemingly everything depends on what happens with artificial intelligence.",
+              "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
+              "url": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
+              "published_at": "2026-10-18T17:00:50+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "美國通膨仍偏高、消費支出強勁，經濟走向越來越取決於AI產業發展。",
+              "source_id": "nyt_business",
+              "source_title": "3 Charts That Explain the Economy as Voters Head to the Polls",
+              "source_url": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 28,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2; economy_macro_policy"
+        },
+        {
+          "event_id": "daily_20261019_evt_013",
+          "headline": "委內瑞拉盼吸760億油資",
+          "context": "委內瑞拉代理總統表示，預期未來5年可吸引近760 億美元的石油投資。",
+          "beat": "ECON",
+          "thread_text": "委內瑞拉盼吸760億油資\n\n委內瑞拉代理總統表示，預期未來5年可吸引近760 億美元的石油投資。\n\n—— 本則來自路透社2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "委內瑞拉盼吸760億油資\n\n委內瑞拉代理總統表示，預期未來5年可吸引近760 億美元的石油投資。\n\n本則來自路透社於2026年10月18日發佈的報導。",
+          "voice_text": "委內瑞拉代理總統說，預計未來5年能吸引近760億美元的石油投資。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "委內瑞拉盼吸760億油資\n\n委內瑞拉代理總統表示，預期未來5年可吸引近760 億美元的石油投資。\n\n—— 本則來自路透社2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "委內瑞拉盼吸760億油資\n\n委內瑞拉代理總統表示，預期未來5年可吸引近760 億美元的石油投資。\n\n本則來自路透社於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "委內瑞拉代理總統說，預計未來5年能吸引近760億美元的石油投資。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_business_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Venezuela expects nearly $76 billion in oil investment over five years, acting president says Reuters",
+              "title": "Venezuela expects nearly $76 billion in oil investment over five years, acting president says - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjRrMjhGV0NJUjVPZmZUdm1Da3JxcUFDaW9PTTVhVjZqSUszdzlLMGIwdjk4MFc0UXlUU0ZSZ1h4aGNTMmE1V3ZfdGJNcFVIUVIzbGFwTFdjd2xMVWtLWlBlV21QNlNxY0ZBcXVWTS05Z0c5UnY5d0tIWVFXOEdnLUZUTk84UXB1ektOV3A3OHhXSmxVYnhMZktTMl9PZUFaRGdpUkF4VXlGMlBoWVdhclhOa2p0bFExTTljdWtRZGs1bXM?oc=5",
+              "published_at": "2026-10-18T06:53:43+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "委內瑞拉代理總統表示，預期未來5年可吸引近760億美元的石油投資。",
+              "source_id": "reuters_business_google_news",
+              "source_title": "Venezuela expects nearly $76 billion in oil investment over five years, acting president says - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNjRrMjhGV0NJUjVPZmZUdm1Da3JxcUFDaW9PTTVhVjZqSUszdzlLMGIwdjk4MFc0UXlUU0ZSZ1h4aGNTMmE1V3ZfdGJNcFVIUVIzbGFwTFdjd2xMVWtLWlBlV21QNlNxY0ZBcXVWTS05Z0c5UnY5d0tIWVFXOEdnLUZUTk84UXB1ektOV3A3OHhXSmxVYnhMZktTMl9PZUFaRGdpUkF4VXlGMlBoWVdhclhOa2p0bFExTTljdWtRZGs1bXM?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261019_evt_075",
+          "headline": "卡尼推油管救不回石油業",
+          "context": "加拿大總理卡尼（Mark Carney）積極推動新建輸油管，但分析指出，這恐怕無法讓加拿大石油業過去的就業潮重現。",
+          "beat": "ECON",
+          "thread_text": "卡尼推油管救不回石油業\n\n加拿大總理卡尼（Mark Carney）積極推動新建輸油管，但分析指出，這恐怕無法讓加拿大石油業過去的就業潮重現。\n\n—— 本則來自路透社2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "卡尼推油管救不回石油業\n\n加拿大總理卡尼（Mark Carney）積極推動新建輸油管，但分析指出，這恐怕無法讓加拿大石油業過去的就業潮重現。\n\n本則來自路透社於2026年10月18日發佈的報導。",
+          "voice_text": "加拿大總理卡尼，積極推動新建輸油管。不過分析指出，這恐怕沒辦法讓加拿大石油業過去的就業潮重現。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "卡尼推油管救不回石油業\n\n加拿大總理卡尼（Mark Carney）積極推動新建輸油管，但分析指出，這恐怕無法讓加拿大石油業過去的就業潮重現。\n\n—— 本則來自路透社2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "卡尼推油管救不回石油業\n\n加拿大總理卡尼（Mark Carney）積極推動新建輸油管，但分析指出，這恐怕無法讓加拿大石油業過去的就業潮重現。\n\n本則來自路透社於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "加拿大總理卡尼，積極推動新建輸油管。不過分析指出，這恐怕沒辦法讓加拿大石油業過去的就業潮重現。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom Reuters",
+              "title": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEtubmtfLWRIRC0xYjJxNnpzbkdOSzJPakNObmdUZ1EyRnB4cThXMjdRY3FWb1padzJMVVdoSG80Nk5lTmFMUU56dHdIU3kxcl9BYlVzOUROZzg5Y1lnTTdSS3h1YkJqdzJFaTB6b1JoV2h3dWxiUHRMNU1zMEpfcWx6b2pHQlJVXzJZLU1EdDVXXzd5X19DUW5memxWTHlPdTdqYl9YT0lrWndI?oc=5",
+              "published_at": "2026-10-18T18:54:34+08:00"
+            },
+            {
+              "source_id": "reuters_business_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom Reuters",
+              "title": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVEx4bjB6aEFXT0RQMjhjSF8yVm5zdDR6bjlqX0MwSFo2aFBIeVlnVTRTV3NRQ2lYem1feHFkaW5yakdlRmFqMXlVNXpJZ21NbGJzcjNtc2Fua0lWd1BsbHlMYjJrVnZKeFVESlhaN1MtWTFFdFpqcDJpeDhaaU1XSjBEWEdORVZpNXUzM0VfWVRZdWVjU0Z0bXB3Wk45cTQzU3JLVWRHM3Iyd3ZNODZOdS01RG5PXzBOVFE?oc=5",
+              "published_at": "2026-10-18T20:15:28+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "加拿大總理卡尼積極推動新建輸油管，分析指出恐無法重現石油業就業潮。",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Carney’s pipeline push is unlikely to bring back Canada’s oil jobs boom - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEtubmtfLWRIRC0xYjJxNnpzbkdOSzJPakNObmdUZ1EyRnB4cThXMjdRY3FWb1padzJMVVdoSG80Nk5lTmFMUU56dHdIU3kxcl9BYlVzOUROZzg5Y1lnTTdSS3h1YkJqdzJFaTB6b1JoV2h3dWxiUHRMNU1zMEpfcWx6b2pHQlJVXzJZLU1EdDVXXzd5X19DUW5memxWTHlPdTdqYl9YT0lrWndI?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "PTS_LOCAL",
+      "title": "公視在地新聞",
+      "emoji": "🇹🇼",
+      "items": [
+        {
+          "event_id": "daily_20261019_evt_020",
+          "headline": "名古屋亞帕運昨開幕",
+          "context": "愛知名古屋亞帕運已於10月18日（週日）開幕。我國代表團10月17日（週六）出席官方舉辦的歡迎派對，所有選手整裝待發，期待展現訓練成果。這一屆共有6名隊醫隨行，盼讓選手能無後顧之憂、全力迎接挑戰。",
+          "beat": "PTS_LOCAL",
+          "thread_text": "名古屋亞帕運昨開幕\n\n愛知名古屋亞帕運已於10月18日（週日）開幕。我國代表團10月17日（週六）出席官方舉辦的歡迎派對，所有選手整裝待發，期待展現訓練成果。這一屆共有6名隊醫隨行，盼讓選手能無後顧之憂、全力迎接挑戰。\n\n—— 本則來自公視2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "名古屋亞帕運昨開幕\n\n愛知名古屋亞帕運已於10月18日（週日）開幕。我國代表團10月17日（週六）出席官方舉辦的歡迎派對，所有選手整裝待發，期待展現訓練成果。這一屆共有6名隊醫隨行，盼讓選手能無後顧之憂、全力迎接挑戰。\n\n本則來自公視於2026年10月18日發佈的報導。",
+          "voice_text": "名古屋亞帕運，昨天開幕了。我國代表團10月17日週六出席官方歡迎派對，所有選手整裝待發。這一屆共有6名隊醫隨行，希望讓選手能無後顧之憂，全力迎接挑戰。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "名古屋亞帕運昨開幕\n\n愛知名古屋亞帕運已於10月18日（週日）開幕。我國代表團10月17日（週六）出席官方舉辦的歡迎派對，所有選手整裝待發，期待展現訓練成果。這一屆共有6名隊醫隨行，盼讓選手能無後顧之憂、全力迎接挑戰。\n\n—— 本則來自公視2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "名古屋亞帕運昨開幕\n\n愛知名古屋亞帕運已於10月18日（週日）開幕。我國代表團10月17日（週六）出席官方舉辦的歡迎派對，所有選手整裝待發，期待展現訓練成果。這一屆共有6名隊醫隨行，盼讓選手能無後顧之憂、全力迎接挑戰。\n\n本則來自公視於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "名古屋亞帕運，昨天開幕了。我國代表團10月17日週六出席官方歡迎派對，所有選手整裝待發。這一屆共有6名隊醫隨行，希望讓選手能無後顧之憂，全力迎接挑戰。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "pts_news",
+              "name": "公視",
+              "publisher": "公視",
+              "summary": "愛知名古屋亞帕運，我國代表團昨（17）日參與官方舉辦的歡迎派對，所有選手蓄勢待發，也期待能奮力展現訓練成果。而這一屆共有6名隊醫隨行，希望讓選手能夠無後顧之憂，全力迎接挑戰。",
+              "title": "名古屋亞帕運今開幕 我代表團6名隊醫隨行",
+              "url": "https://news.pts.org.tw/article/831851",
+              "published_at": "2026-10-18T11:07:36+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "愛知名古屋亞帕運10月18日開幕，我國代表團10月17日出席歡迎派對，這一屆共有6名隊醫隨行。",
+              "source_id": "pts_news",
+              "source_title": "名古屋亞帕運今開幕 我代表團6名隊醫隨行",
+              "source_url": "https://news.pts.org.tw/article/831851",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261019_evt_021",
+          "headline": "亞帕運桌球我選手晉級",
+          "context": "名古屋亞帕運桌球項目傳捷報：男單名將程銘志以小組2勝0敗的成績，挺進16強；女單林姿妤、田曉雯也接連擊退對手，雙雙晉級。衛冕者陳柏諺同樣順利晉級下一輪，目標鎖定金牌。",
+          "beat": "PTS_LOCAL",
+          "thread_text": "亞帕運桌球我選手晉級\n\n名古屋亞帕運桌球項目傳捷報。男單名將程銘志以小組2勝0敗的成績，挺進16強；女單林姿妤、田曉雯也接連擊退對手，雙雙晉級。衛冕者陳柏諺同樣順利晉級下一輪，目標鎖定金牌。\n\n—— 本則來自公視2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。",
+          "threads_text": "亞帕運桌球我選手晉級\n\n名古屋亞帕運桌球項目傳捷報。男單名將程銘志以小組2勝0敗的成績，挺進16強；女單林姿妤、田曉雯也接連擊退對手，雙雙晉級。衛冕者陳柏諺同樣順利晉級下一輪，目標鎖定金牌。\n\n本則來自公視於2026年10月18日發佈的報導。",
+          "voice_text": "名古屋亞帕運，桌球項目傳來捷報。男單名將程銘志，以小組2勝0敗的成績挺進16強。女單的林姿妤、田曉雯，也接連擊退對手，雙雙晉級。衛冕者陳柏諺同樣順利晉級下一輪，目標鎖定金牌。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "亞帕運桌球我選手晉級\n\n名古屋亞帕運桌球項目傳捷報。男單名將程銘志以小組2勝0敗的成績，挺進16強；女單林姿妤、田曉雯也接連擊退對手，雙雙晉級。衛冕者陳柏諺同樣順利晉級下一輪，目標鎖定金牌。\n\n—— 本則來自公視2026年10月18日發佈的報導，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "亞帕運桌球我選手晉級\n\n名古屋亞帕運桌球項目傳捷報。男單名將程銘志以小組2勝0敗的成績，挺進16強；女單林姿妤、田曉雯也接連擊退對手，雙雙晉級。衛冕者陳柏諺同樣順利晉級下一輪，目標鎖定金牌。\n\n本則來自公視於2026年10月18日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "名古屋亞帕運，桌球項目傳來捷報。男單名將程銘志，以小組2勝0敗的成績挺進16強。女單的林姿妤、田曉雯，也接連擊退對手，雙雙晉級。衛冕者陳柏諺同樣順利晉級下一輪，目標鎖定金牌。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "pts_news",
+              "name": "公視",
+              "publisher": "公視",
+              "summary": "愛知名古屋亞帕運桌球傳捷報，男單名將程銘志，以小組2勝0敗的成績，強勢挺進16強；女單好手林姿妤、田曉雯，也接連力退對手，小組賽雙雙晉級。而尋求衛冕的陳柏諺，同樣也順利挺進下一輪，目標就是金牌。",
+              "title": "亞帕運桌球男單程銘志進16強 林姿妤、田曉雯女單雙雙晉級",
+              "url": "https://news.pts.org.tw/article/831850",
+              "published_at": "2026-10-18T11:30:12+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "程銘志小組2勝0敗挺進16強，林姿妤、田曉雯女單雙雙晉級，陳柏諺也順利晉級下一輪。",
+              "source_id": "pts_news",
+              "source_title": "亞帕運桌球男單程銘志進16強 林姿妤、田曉雯女單雙雙晉級",
+              "source_url": "https://news.pts.org.tw/article/831850",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_feeds_checked": 27,
+    "total_feeds_failed": 0,
+    "total_feeds_failed_remote_blocked": 0,
+    "total_articles_fetched": 234,
+    "total_articles_after_filter": 223,
+    "total_events_merged": 171,
+    "total_events_selected": 18,
+    "tw_highlights_count": 2
+  },
+  "dropped_events": [
+    {
+      "event_id": "daily_20261019_evt_001",
+      "headline": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "selection_score": -12,
+      "drop_reason": "reported_recently"
+    },
+    {
+      "event_id": "daily_20261019_evt_099",
+      "headline": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports - Reuters",
+      "selection_score": 45,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_017",
+      "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_022",
+      "headline": "Rubio says Trump to take up to 60 days to weigh Russia sanctions - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_121",
+      "headline": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_134",
+      "headline": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
+      "selection_score": 38,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_159",
+      "headline": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_160",
+      "headline": "Clarence Seedorf calls out genocide in first Corinthians press conference",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_162",
+      "headline": "India’s crackdown on cockroaches, critics and cameras",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_003",
+      "headline": "At least 17 dead in crush at Hindu festival event in India",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_006",
+      "headline": "Anti-government protesters battle with police in Albania",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_012",
+      "headline": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_023",
+      "headline": "Ex-Chihuahua attorney general accused of treason for allowing US participation in drug raid - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_027",
+      "headline": "丹麥超市試用機器人夜間補貨 盼助員工提升效率",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_028",
+      "headline": "印度杜爾嘉女神節踩踏意外 造成17死、25人受傷",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_031",
+      "headline": "Rubio arrives in Central Asia while other US officials hit foreign policy hot spots - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_033",
+      "headline": "Vietnam signs free-trade pact with European countries including Norway, Switzerland - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_034",
+      "headline": "Lithuanians forced to take shelter after suspected drone enters airspace - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_035",
+      "headline": "宜縣府規劃增幼幼班招生名額 教師職業工會籲推班班2師",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_036",
+      "headline": "嘉義公寓命案60歲男倒臥屋內 鄰房陳男涉重嫌、桃園落網",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_037",
+      "headline": "山友登台中馬崙山失足 墜50米深谷釀頭部撕裂傷",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_038",
+      "headline": "帛琉總統感謝我20年醫療援助 賴清德：友邦不畏中國打壓挺台",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_039",
+      "headline": "法國學運擴大成全國示威 上百年歷史市政廳遭焚毀",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_041",
+      "headline": "台電估半導體用電量上升 擬2035年前擴建燃氣機組",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_042",
+      "headline": "蔣萬安預告盧秀燕出任競總主委 沈伯洋邀蔡英文、全體市民擔任",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_043",
+      "headline": "公費流感疫苗累計324萬人接種 較去年同期增9.5%",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_044",
+      "headline": "強颱薔琵預測朝台灣接近 氣象署：不排除週四發海警",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_049",
+      "headline": "Heat pumps and insulation would cut UK living costs more than new oilfields, study suggests",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_050",
+      "headline": "German police investigate fence breach at Leipzig airport - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_051",
+      "headline": "Heating oil customers face tough winter",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_052",
+      "headline": "Two arrested for terrorism in Spain's Basque Country - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_054",
+      "headline": "一週大事／國民黨普發2萬逕付二讀 北市長選戰辯論會敲定（2026.10.12-10.18）",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_058",
+      "headline": "Zelenskiy says Russia attacked Ukrainian energy sector 76 times in past week - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_065",
+      "headline": "Iran's parliament approves Mehrdad Akhlaqi as minister of defence - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_066",
+      "headline": "Japan PM Takaichi's support rate falls below 50%, lowest since taking office, Kyodo reports - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_069",
+      "headline": "Iran urges US to accept proposal to reopen Strait of Hormuz - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_072",
+      "headline": "泰國推免費平台提升AI普及率　專家：應強化技能培訓",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_078",
+      "headline": "Accenture looks to sell Chinese operations for up to $1.5 billion, FT reports - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_082",
+      "headline": "法國示威頻傳暴力　愛馬仕、LV等精品店慘遭洗劫",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_084",
+      "headline": "金融時報：IT顧問公司埃森哲尋求脫手中國業務",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_085",
+      "headline": "伊朗國會通過任命案　新國防部長熟悉軍工製造採購",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_086",
+      "headline": "民調：日相高市內閣支持率首跌破5成　57％認為撤換農相太遲",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_087",
+      "headline": "法國暴力示威1800多人被捕　當局矢言依法究責",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_088",
+      "headline": "內政部統計全國平均屋齡34年 嘉義等8縣市老屋占比破7成",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_089",
+      "headline": "近170萬車輛欠繳「養管費」 公路局：未補繳明年起強制執行",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_090",
+      "headline": "台南鐵路地下化正式通車 當地盼凋零商圈能復甦",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_091",
+      "headline": "加拿大總理證實軍事基地大火 防長對死傷人數三緘其口",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_092",
+      "headline": "彰化護理師替病患抽血 遭扯髮造成頭皮紅腫",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_093",
+      "headline": "立院三讀部分長者免健保費 石崇良：保費恐調漲轉嫁青壯年",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_094",
+      "headline": "中國船侵擾花蓮、東沙等海域 我海巡署派艦艇監控驅離",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_095",
+      "headline": "賴清德赴宜蘭輔選林國漳 鄭麗文、柯文哲至新竹挺高虹安",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_097",
+      "headline": "遭批4年未出席幼兒園長會議 蔣萬安：盡速安排",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_098",
+      "headline": "伊朗新任防長警告美國　若再發動攻擊將蒙受巨大損失",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_102",
+      "headline": "韓媒：三星應輝達要求　下一代HBM基礎晶粒採台積電3奈米",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_103",
+      "headline": "打擊跨國犯罪  中馬同意重啟引渡條約談判",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_105",
+      "headline": "Great Pottery Throw Down judge Keith Brymer Jones looks back: ‘Men like seeing me be emotional’",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_106",
+      "headline": "Bristol Old Vic tackles arts ‘emergency’ by bringing the theatre into classrooms",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_108",
+      "headline": "「狗狗猩猩大冒險」黑猩猩小龐滿25歲　訓練師駁「凶暴化」謠言",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_109",
+      "headline": "不顧川普要求　烏對俄發動今年最大無人機攻擊之一",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_110",
+      "headline": "Ukraine 'regrets' possible diversion of its drones over Lithuania, foreign ministry says - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_111",
+      "headline": "美國拉攏中亞　盧比歐率200多位美企高層訪烏茲別克",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_112",
+      "headline": "烏克蘭盼用星盾打擊俄國　盧比歐：基輔目前無權限",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_113",
+      "headline": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_114",
+      "headline": "前英相蘇納克：中國以增他國依賴為目標　歐洲面臨險境",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_116",
+      "headline": "Oil lifts Saudi bourse; Egypt tumbles on regional tensions - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_117",
+      "headline": "Romanian F-16 fighter jets shoot down two drones over Romanian territorial waters - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_124",
+      "headline": "澤倫斯基稱美國恢復情報分享　助烏克蘭防俄軍空襲",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_126",
+      "headline": "法國民怨掀暴動　馬克宏卻看席琳狄翁演唱會挨批",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_127",
+      "headline": "川普怪罪移民造成法國動亂破壞　呼籲收緊邊界管控",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_130",
+      "headline": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_131",
+      "headline": "Saudi-led coalition says helicopter crash in Najran kills two crew members - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_137",
+      "headline": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_140",
+      "headline": "川普為尼坦雅胡連任背書　讚揚「偉大戰士總理」",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_141",
+      "headline": "US officials visit Palestinian village after settler attacks on diplomats - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_144",
+      "headline": "Dance Is Not for Us review – desire and defiance as one revolutionary mover sweats it all out",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_145",
+      "headline": "Albanian PM says protests pose threat to EU membership, not government - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_148",
+      "headline": "Brazil's Bolsonaro, Lula head into first debate a week before vote - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_155",
+      "headline": "Macron condemns \"shocking\" scenes of violence across France - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_156",
+      "headline": "加拿大軍事基地重大事故　總理：已知4軍人罹難數十人重傷",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_157",
+      "headline": "Milan police clash with protesters on second day of unrest - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_163",
+      "headline": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_164",
+      "headline": "Woman dies after being swept away by river as torrential rains batter Spain - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_166",
+      "headline": "Macron urges calm as France counts cost of worst unrest in years - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_168",
+      "headline": "In France's Limoges, the fire-ravaged town hall rekindles memories of Notre Dame - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_170",
+      "headline": "Macron calls for 'calm and order' after riots across France",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_002",
+      "headline": "Charlie Vickers: ‘Tom Cruise cheated at freediving – that’s the headline’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_008",
+      "headline": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_011",
+      "headline": "The Best Book Parties Are at the Frankfurt Book Fair",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_016",
+      "headline": "Peter Nagy, Visionary Artist Turned Art Dealer, Dies at 66",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_026",
+      "headline": "Lana Del Rey’s Country Duet and 9 More Songs We’re Talking About",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_032",
+      "headline": "TV tonight: a very moreish drama about a hellish birthday party",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_046",
+      "headline": "‘How do we welcome the stranger, with humanity or anger?’ The forgotten Germans who found refuge in Ireland",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_048",
+      "headline": "‘It was like your worst nightmare’ – Ellie and Natasia on mums, music … and failing to make Bob Mortimer smile",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_055",
+      "headline": "A Mona Lisa Etched Into Oklahoma’s Skies by a Pilot and His Plane",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_059",
+      "headline": "America’s Answer to John le Carré",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_061",
+      "headline": "Book Review: ‘Emperor of Nothing: The Making of Larry David,’ by Blake J. Smith",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_064",
+      "headline": "‘Shakespeare was a Black woman’: the playwright’s under-recognized connection to Black culture",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_080",
+      "headline": "‘Medieval romance overflowed with sexually active fairies’: the surprisingly long roots of romantasy",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_101",
+      "headline": "Ariadne/Dido and Aeneas review – English Touring Opera conjures two strikingly different mythological worlds",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_107",
+      "headline": "‘La Bola Negra’ Review: In Search of Freedom, and Love",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_118",
+      "headline": "Why is Trump now encouraging mail-in voting?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_119",
+      "headline": "Two Nights at Saint Vitus, the Metal Mecca of Brooklyn",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_120",
+      "headline": "France protests updates: Macron vows rioters will ‘pay for their crimes’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_123",
+      "headline": "4.48 Psychosis review – a dazzling, harrowing opera worthy of Sarah Kane’s furious writing",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_128",
+      "headline": "Manchester United held at Leeds despite improved performance for Carrick",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_129",
+      "headline": "Photos: Antigovernment protesters clash with police in Albania’s capital",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_132",
+      "headline": "Who Is Billy Evans, Elizabeth Holmes’s Fiancé and the Antagonist of ‘You Can See Everything’?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_133",
+      "headline": "Anthropic gives outside AI watchdog “employee-like” access",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_135",
+      "headline": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_138",
+      "headline": "Blurring the Line Between 3 Dimensions and 2",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_139",
+      "headline": "The Man Who Taught Us How to Pay Attention",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_142",
+      "headline": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_143",
+      "headline": "7 Takeaways From Chuck Lorre’s New Memoir, ‘Sitcom’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_146",
+      "headline": "Madueke scores only goal as below-par Arsenal beat Nottingham Forest",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_147",
+      "headline": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_150",
+      "headline": "Why the US is holding secret talks with Myanmar’s military ruler",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_151",
+      "headline": "John Berger Is Back in Focus Thanks to Reissues, New Biography",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_152",
+      "headline": "Gaza bodybuilders find solace in strongman competition among the ruins",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_153",
+      "headline": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_154",
+      "headline": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_158",
+      "headline": "In Netflix’s ‘East of Eden,’ Florence Pugh’s Cathy Ames Is Recognizably Human",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_161",
+      "headline": "How will Europe deal with youth-led protests?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_165",
+      "headline": "What’s behind Europe’s youth protests?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_167",
+      "headline": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_169",
+      "headline": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_171",
+      "headline": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_040",
+      "headline": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_005",
+      "headline": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_007",
+      "headline": "Sangwich Club / east bureau",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_018",
+      "headline": "Beijing 1733 ByteDance Commercial Project / XU Studio",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_024",
+      "headline": "Giving AI a “crystal clear” view of the materials world",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_025",
+      "headline": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_030",
+      "headline": "Karimoku New Standard and ASICS create furniture made from crushed trainers",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_045",
+      "headline": "Harfa Rooftop Extension / matěj šebek architekti",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_053",
+      "headline": "Catching Fog: How Architecture Collects Water from the Air",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_057",
+      "headline": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_060",
+      "headline": "Seven striking buildings that make a statement with red",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_067",
+      "headline": "Living Archive / Office ParkScheerbarth",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_068",
+      "headline": "Thin concrete plane defines minimalist villa in Ibiza by Fran Silvestre Arquitectos",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_079",
+      "headline": "Mirador de Gràcia / Miriam Castells",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_104",
+      "headline": "Promenade House / studio gm",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_149",
+      "headline": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_015",
+      "headline": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says - Reuters",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_029",
+      "headline": "‘A key artist in her own right’: wallpaper and fabrics designer emerges from William Morris’s shadow",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_047",
+      "headline": "The last lace mill – in pictures",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_073",
+      "headline": "教宗肺癌手術後首場公開活動　在梵蒂岡向群眾致意",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_074",
+      "headline": "EU condemns attacks by violent settlers, including on diplomats, spokesperson says - Reuters",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_077",
+      "headline": "Parisians wake up to protest damage and looted shops",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_076",
+      "headline": "Twelfth Night review – Mathew Horne oozes arrogance as a brilliantly buttoned-up Malvolio",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_115",
+      "headline": "Why have France’s school protests become a wider political crisis?",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_122",
+      "headline": "A timeline of West Bank attacks on Palestinians and foreign officials",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_125",
+      "headline": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261019_evt_004",
+      "headline": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "selection_score": 8,
+      "drop_reason": "total_limit_reached"
+    }
+  ]
+}
