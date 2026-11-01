@@ -1,0 +1,2104 @@
+{
+  "reportId": "daily_20261102",
+  "date": "2026-11-02",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-11-02T05:24:00.038362+08:00",
+  "status": "ok",
+  "warnings": [],
+  "sections": [
+    {
+      "beat": "INTL",
+      "title": "國際大事",
+      "emoji": "🌍",
+      "items": [
+        {
+          "event_id": "daily_20261102_evt_162",
+          "headline": "法官駁回川普阿拉斯加案",
+          "context": "美國一名法官駁回了川普政府挑戰阿拉斯加選舉認證結果的訴訟。阿拉斯加聯邦參議員蘇利文（Sullivan）則承諾，會尊重這次選舉的結果。",
+          "beat": "INTL",
+          "thread_text": "美國一名法官駁回了川普政府挑戰阿拉斯加選舉認證結果的訴訟。阿拉斯加聯邦參議員蘇利文（Sullivan）則承諾，會尊重這次選舉的結果——這跟川普政府的態度形成對比。\n\n—— 本則來自 Al Jazeera、Reuters，2026 年 11 月 2 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "美國一名法官駁回了川普政府挑戰阿拉斯加選舉認證結果的訴訟。阿拉斯加聯邦參議員蘇利文（Sullivan）則承諾，會尊重這次選舉的結果——他的表態，跟川普政府試圖挑戰阿拉斯加選舉認證結果的態度，形成明顯對比。\n\n本則整理自 Al Jazeera、Reuters 於 2026 年 11 月 2 日發佈的報導。",
+          "voice_text": "法官駁回了川普政府挑戰阿拉斯加選舉認證結果的訴訟。阿拉斯加聯邦參議員蘇利文承諾，會尊重這次選舉的結果——這跟川普政府的態度，形成明顯對比。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美國一名法官駁回了川普政府挑戰阿拉斯加選舉認證結果的訴訟。阿拉斯加聯邦參議員蘇利文（Sullivan）則承諾，會尊重這次選舉的結果——這跟川普政府的態度形成對比。\n\n—— 本則來自 Al Jazeera、Reuters，2026 年 11 月 2 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "美國一名法官駁回了川普政府挑戰阿拉斯加選舉認證結果的訴訟。阿拉斯加聯邦參議員蘇利文（Sullivan）則承諾，會尊重這次選舉的結果——他的表態，跟川普政府試圖挑戰阿拉斯加選舉認證結果的態度，形成明顯對比。\n\n本則整理自 Al Jazeera、Reuters 於 2026 年 11 月 2 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "法官駁回了川普政府挑戰阿拉斯加選舉認證結果的訴訟。阿拉斯加聯邦參議員蘇利文承諾，會尊重這次選舉的結果——這跟川普政府的態度，形成明顯對比。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "Senator Sullivan's pledge contrasts with the Trump administration's effort to challenge Alaska's election certification.",
+              "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
+              "url": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
+              "published_at": "2026-11-02T02:37:37+08:00"
+            },
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "US judge dismisses Trump election lawsuit in Alaska Reuters",
+              "title": "US judge dismisses Trump election lawsuit in Alaska - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
+              "published_at": "2026-11-02T04:10:37+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "美國一名法官駁回川普政府挑戰阿拉斯加選舉認證結果的訴訟。",
+              "source_id": "reuters_world_google_news",
+              "source_title": "US judge dismisses Trump election lawsuit in Alaska - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
+              "support_type": "direct"
+            },
+            {
+              "claim": "阿拉斯加聯邦參議員蘇利文承諾會尊重這次選舉結果，態度與川普政府相反。",
+              "source_id": "aljazeera_all",
+              "source_title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
+              "source_url": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 78,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2; major_geopolitical_event"
+        },
+        {
+          "event_id": "daily_20261102_evt_055",
+          "headline": "印度反對黨遊行逼選委下台",
+          "context": "印度反對黨11月1日在新德里發起大規模集會，數千人參加，要求選舉委員會主席下台。遊行矛頭指向近期選民名冊的調整方式，反對黨認為這對莫迪所屬政黨有利。",
+          "beat": "INTL",
+          "thread_text": "印度反對黨11月1日在新德里發起大規模集會，數千人站上街頭，要求選舉委員會主席下台。他們的訴求，指向最近一次選民名冊調整——反對黨認為，這次調整對莫迪所屬政黨有利。\n\n—— 本則來自 BBC、Al Jazeera，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "印度反對黨11月1日在新德里發起大規模集會，數千人站上街頭，要求選舉委員會主席下台。訴求的焦點，是最近一次選民名冊的調整方式——反對黨認為，這樣的調整對總理莫迪所屬的政黨有利。新德里當地也有記者在現場拍下這波遊行的畫面。\n\n本則整理自 BBC、Al Jazeera 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "印度反對黨發起大遊行，要選委會主席下台。11月1日這天，數千人聚集在新德里街頭，訴求對準最近一次選民名冊的調整——反對黨認為，這對執政黨有利。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "印度反對黨11月1日在新德里發起大規模集會，數千人站上街頭，要求選舉委員會主席下台。他們的訴求，指向最近一次選民名冊調整——反對黨認為，這次調整對莫迪所屬政黨有利。\n\n—— 本則來自 BBC、Al Jazeera，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "印度反對黨11月1日在新德里發起大規模集會，數千人站上街頭，要求選舉委員會主席下台。訴求的焦點，是最近一次選民名冊的調整方式——反對黨認為，這樣的調整對總理莫迪所屬的政黨有利。新德里當地也有記者在現場拍下這波遊行的畫面。\n\n本則整理自 BBC、Al Jazeera 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "印度反對黨發起大遊行，要選委會主席下台。11月1日這天，數千人聚集在新德里街頭，訴求對準最近一次選民名冊的調整——反對黨認為，這對執政黨有利。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+              "title": "India's opposition holds mega rally seeking election chief's resignation",
+              "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-01T15:00:55+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "Protesters march in New Delhi demanding the election chief quit over voter roll changes seen as favouring Modi’s party.",
+              "title": "Photos: Thousands join India’s opposition rally against election chief",
+              "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
+              "published_at": "2026-11-01T22:46:03+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "印度反對黨11月1日在新德里發起大規模集會，要求選舉委員會主席下台。",
+              "source_id": "bbc_world",
+              "source_title": "India's opposition holds mega rally seeking election chief's resignation",
+              "source_url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "遊行訴求指向選民名冊調整方式，反對黨認為此舉對莫迪所屬政黨有利。",
+              "source_id": "aljazeera_all",
+              "source_title": "Photos: Thousands join India’s opposition rally against election chief",
+              "source_url": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 78,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2; major_geopolitical_event"
+        },
+        {
+          "event_id": "daily_20261102_evt_163",
+          "headline": "密州民主黨員挺共和候選人",
+          "context": "美國密西根州聯邦眾議員Haley Stevens在民主黨參議員初選中敗給Abdul El-Sayed，如今她反而宣布支持對手的共和黨候選人Mike Rogers，距離投票只剩幾天。",
+          "beat": "INTL",
+          "thread_text": "美國密西根州聯邦眾議員Haley Stevens，在民主黨參議員初選中敗給了Abdul El-Sayed。如今距離投票只剩幾天，她卻宣布轉而支持對手陣營的共和黨候選人Mike Rogers。\n\n—— 本則來自 Al Jazeera、BBC，2026 年 11 月 2 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "美國密西根州聯邦眾議員Haley Stevens，在民主黨參議員初選中敗給了Abdul El-Sayed。如今距離投票只剩幾天，她卻宣布轉而支持對手陣營的共和黨候選人Mike Rogers，這起跨黨派表態，讓民主黨內部的分裂爭議再度升溫。\n\n本則整理自 Al Jazeera、BBC 於 2026 年 11 月 2 日發佈的報導。",
+          "voice_text": "密西根一名民主黨眾議員，倒戈支持共和黨候選人。Haley Stevens在民主黨初選中，敗給了Abdul El-Sayed，如今距離投票只剩幾天，她卻宣布支持共和黨候選人Mike Rogers，黨內的分裂爭議也因此再度升溫。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美國密西根州聯邦眾議員Haley Stevens，在民主黨參議員初選中敗給了Abdul El-Sayed。如今距離投票只剩幾天，她卻宣布轉而支持對手陣營的共和黨候選人Mike Rogers。\n\n—— 本則來自 Al Jazeera、BBC，2026 年 11 月 2 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "美國密西根州聯邦眾議員Haley Stevens，在民主黨參議員初選中敗給了Abdul El-Sayed。如今距離投票只剩幾天，她卻宣布轉而支持對手陣營的共和黨候選人Mike Rogers，這起跨黨派表態，讓民主黨內部的分裂爭議再度升溫。\n\n本則整理自 Al Jazeera、BBC 於 2026 年 11 月 2 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "密西根一名民主黨眾議員，倒戈支持共和黨候選人。Haley Stevens在民主黨初選中，敗給了Abdul El-Sayed，如今距離投票只剩幾天，她卻宣布支持共和黨候選人Mike Rogers，黨內的分裂爭議也因此再度升溫。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race.",
+              "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
+              "url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
+              "published_at": "2026-11-02T02:51:07+08:00"
+            },
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
+              "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+              "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-02T04:11:26+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "密西根州聯邦眾議員Haley Stevens在民主黨參議員初選中敗給Abdul El-Sayed，如今宣布支持對手陣營的共和黨候選人Mike Rogers。",
+              "source_id": "aljazeera_all",
+              "source_title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
+              "source_url": "https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "這起跨黨派表態，讓民主黨內部的分裂爭議再度升溫。",
+              "source_id": "bbc_world",
+              "source_title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+              "source_url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261102_evt_020",
+          "headline": "法官駁回川普控WSJ案",
+          "context": "法官駁回了川普控告《華爾街日報》的訴訟案。這起訴訟源於該報刊出一封據稱由川普署名、寫給艾普斯坦的生日賀卡信件。",
+          "beat": "INTL",
+          "thread_text": "法官駁回了川普控告《華爾街日報》的訴訟案。這起訴訟源於該報刊出一封據稱由川普署名、寫給艾普斯坦的生日賀卡信件。\n\n—— 本則來自 Reuters、BBC，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "法官駁回了川普控告《華爾街日報》的訴訟案。這起訴訟源於該報刊出一封據稱由川普署名、寫給艾普斯坦的生日賀卡信件，川普因此一狀告上法院。法官這次的裁定，等於終結了川普這波法律攻勢。\n\n本則整理自 Reuters、BBC 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "法官駁回了川普控告《華爾街日報》的訴訟案。這起訴訟，源自該報刊出一封據稱由川普署名、寫給艾普斯坦的生日賀卡信件。法官這次的裁定，等於終結了川普這波法律攻勢。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "法官駁回了川普控告《華爾街日報》的訴訟案。這起訴訟源於該報刊出一封據稱由川普署名、寫給艾普斯坦的生日賀卡信件。\n\n—— 本則來自 Reuters、BBC，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "法官駁回了川普控告《華爾街日報》的訴訟案。這起訴訟源於該報刊出一封據稱由川普署名、寫給艾普斯坦的生日賀卡信件，川普因此一狀告上法院。法官這次的裁定，等於終結了川普這波法律攻勢。\n\n本則整理自 Reuters、BBC 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "法官駁回了川普控告《華爾街日報》的訴訟案。這起訴訟，源自該報刊出一封據稱由川普署名、寫給艾普斯坦的生日賀卡信件。法官這次的裁定，等於終結了川普這波法律攻勢。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting Reuters",
+              "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
+              "published_at": "2026-11-01T06:58:33+08:00"
+            },
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+              "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+              "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-01T08:41:24+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "法官駁回川普控告《華爾街日報》的訴訟案，該案源於報紙刊出一封據稱由川普署名、寫給艾普斯坦的生日賀卡信件。",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
+              "support_type": "direct"
+            },
+            {
+              "claim": "法官的裁定終結了川普針對《華爾街日報》的法律行動。",
+              "source_id": "bbc_world",
+              "source_title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+              "source_url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 45,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1"
+        },
+        {
+          "event_id": "daily_20261102_evt_144",
+          "headline": "加薩以軍空襲致8死",
+          "context": "以色列在加薩的空襲，造成至少8人死亡，其中包括一名兒童。醫療人員說，哈瑪斯警方有5名人員在汗尤尼斯（Khan Younis）遇難，加薩市則有3人死亡。",
+          "beat": "INTL",
+          "thread_text": "以色列在加薩的空襲，造成至少8人死亡，其中包括一名兒童。醫療人員說，哈瑪斯警方有5名人員在汗尤尼斯（Khan Younis）遇難，加薩市則有3人死亡。\n\n—— 本則來自 Reuters、BBC，2026 年 11 月 2 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "以色列在加薩的空襲，造成至少8人死亡，其中包括一名兒童。醫院方面表示，哈瑪斯治理下的警方有5名人員在汗尤尼斯（Khan Younis）遇難，加薩市則有3人死亡，死者中有一名兒童。\n\n本則整理自 Reuters、BBC 於 2026 年 11 月 2 日發佈的報導。",
+          "voice_text": "以色列在加薩的空襲，造成至少8人死亡，其中有一名兒童。醫院方面說，哈瑪斯治理下的警方，有5名人員在汗尤尼斯遇難，加薩市則有3人死亡。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "以色列在加薩的空襲，造成至少8人死亡，其中包括一名兒童。醫療人員說，哈瑪斯警方有5名人員在汗尤尼斯（Khan Younis）遇難，加薩市則有3人死亡。\n\n—— 本則來自 Reuters、BBC，2026 年 11 月 2 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "以色列在加薩的空襲，造成至少8人死亡，其中包括一名兒童。醫院方面表示，哈瑪斯治理下的警方有5名人員在汗尤尼斯（Khan Younis）遇難，加薩市則有3人死亡，死者中有一名兒童。\n\n本則整理自 Reuters、BBC 於 2026 年 11 月 2 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "以色列在加薩的空襲，造成至少8人死亡，其中有一名兒童。醫院方面說，哈瑪斯治理下的警方，有5名人員在汗尤尼斯遇難，加薩市則有3人死亡。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Israeli strikes kill eight people in Gaza - medics say Reuters",
+              "title": "Israeli strikes kill eight people in Gaza - medics say - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2E3NlZWbHB1MUtZdG5sLXBXci1sVnQtMWxWYk1CM1EzTUtfMXJiWDZYRlIzN09BWlBuaUVXOThueVFEdF9nMXdVaUpobUNCSXM3dUZWQVZjN2MwZ19pQUN6cDUtbnE2Rm1PX3BwYmhTWWo4TGRqbG0xSmhKQVhWYTlVNkFpTFdsUFhmcDlVaFI5cWZRYk1jcFRoU3RIZUV2QTRBdm5B?oc=5",
+              "published_at": "2026-11-02T00:41:43+08:00"
+            },
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+              "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+              "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-02T01:06:32+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "以色列在加薩的空襲造成至少8人死亡，醫療人員證實此事。",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Israeli strikes kill eight people in Gaza - medics say - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2E3NlZWbHB1MUtZdG5sLXBXci1sVnQtMWxWYk1CM1EzTUtfMXJiWDZYRlIzN09BWlBuaUVXOThueVFEdF9nMXdVaUpobUNCSXM3dUZWQVZjN2MwZ19pQUN6cDUtbnE2Rm1PX3BwYmhTWWo4TGRqbG0xSmhKQVhWYTlVNkFpTFdsUFhmcDlVaFI5cWZRYk1jcFRoU3RIZUV2QTRBdm5B?oc=5",
+              "support_type": "direct"
+            },
+            {
+              "claim": "哈瑪斯治理下的警方有5名人員在汗尤尼斯遇難，加薩市另有3人死亡，其中包括一名兒童。",
+              "source_id": "bbc_world",
+              "source_title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+              "source_url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 45,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "ARTS",
+      "title": "八大藝術",
+      "emoji": "🎭",
+      "items": [
+        {
+          "event_id": "daily_20261102_evt_143",
+          "headline": "導演麥可·曼恩誤擊傷腿",
+          "context": "好萊塢導演麥可·曼恩（Michael Mann）10月31日在洛杉磯一處靶場The Range LA意外擦傷了腿。他的代表說，當時槍械還在槍套裡就意外走火，傷勢輕微，83歲的曼恩目前狀況穩定。這起消息最早由TMZ披露。",
+          "beat": "ARTS",
+          "thread_text": "好萊塢導演麥可·曼恩10月31日在洛杉磯一處靶場意外擦傷了腿。他的代表說，當時槍械還在槍套裡就意外走火，傷勢輕微，83歲的曼恩目前狀況穩定。這起消息最早由TMZ披露。\n\n—— 本則來自 The Guardian、The New York Times，2026 年 11 月 2 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "好萊塢導演麥可·曼恩10月31日在洛杉磯一處名叫The Range LA的靶場，意外擦傷了自己的腿。他的代表說，當時槍械還在槍套裡就意外走火，傷勢輕微。83歲的曼恩，目前狀況穩定，已經送醫治療。這起消息最早由TMZ披露。\n\n本則整理自 The Guardian、The New York Times 於 2026 年 11 月 2 日發佈的報導。",
+          "voice_text": "好萊塢導演麥可·曼恩意外擦傷了自己的腿。10月31日，他在洛杉磯一處靶場，槍械還在槍套裡就意外走火。他的代表說，傷勢輕微，83歲的曼恩目前狀況穩定，已經送醫治療。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "好萊塢導演麥可·曼恩10月31日在洛杉磯一處靶場意外擦傷了腿。他的代表說，當時槍械還在槍套裡就意外走火，傷勢輕微，83歲的曼恩目前狀況穩定。這起消息最早由TMZ披露。\n\n—— 本則來自 The Guardian、The New York Times，2026 年 11 月 2 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "好萊塢導演麥可·曼恩10月31日在洛杉磯一處名叫The Range LA的靶場，意外擦傷了自己的腿。他的代表說，當時槍械還在槍套裡就意外走火，傷勢輕微。83歲的曼恩，目前狀況穩定，已經送醫治療。這起消息最早由TMZ披露。\n\n本則整理自 The Guardian、The New York Times 於 2026 年 11 月 2 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "好萊塢導演麥可·曼恩意外擦傷了自己的腿。10月31日，他在洛杉磯一處靶場，槍械還在槍套裡就意外走火。他的代表說，傷勢輕微，83歲的曼恩目前狀況穩定，已經送醫治療。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_film",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Mann taken to hospital with superficial injury after weapon accidentally discharged while holstered Hollywood director Michael Mann has been taken to the hospital following an apparently accidental shooting at a Los Angeles gun range, according to the Associated Press. Mann, 83, reportedly shot himself in the leg while at the The Range LA. The news was first reported on celebrity website TMZ. He sustained what his representative described as a superficial injury after a weapon accidentally discharged while holstered. Continue reading...",
+              "title": "Director Michael Mann accidentally shoots himself in the leg at gun range",
+              "url": "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg",
+              "published_at": "2026-11-02T00:39:37+08:00"
+            },
+            {
+              "source_id": "nyt_arts",
+              "name": "The New York Times",
+              "publisher": "The New York Times",
+              "summary": "The director and producer was in stable condition after his gun “accidentally discharged” on Saturday, a representative said.",
+              "title": "Michael Mann Accidentally Shoots Himself at Los Angeles Gun Range",
+              "url": "https://www.nytimes.com/2026/11/01/movies/michael-mann-shooting.html",
+              "published_at": "2026-11-02T03:32:16+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "好萊塢導演麥可·曼恩10月31日在洛杉磯一處靶場（The Range LA）意外擦傷腿部，傷勢輕微。",
+              "source_id": "guardian_film",
+              "source_title": "Director Michael Mann accidentally shoots himself in the leg at gun range",
+              "source_url": "https://www.theguardian.com/film/2026/nov/01/michael-mann-accidentally-shoots-himself-leg",
+              "support_type": "direct"
+            },
+            {
+              "claim": "83歲的曼恩在槍械意外走火後狀況穩定，代表證實此事。",
+              "source_id": "nyt_arts",
+              "source_title": "Michael Mann Accidentally Shoots Himself at Los Angeles Gun Range",
+              "source_url": "https://www.nytimes.com/2026/11/01/movies/michael-mann-shooting.html",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "sub_beat": "電影",
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261102_evt_004",
+          "headline": "巴頓迷思被新傳記揭穿",
+          "context": "Geoffrey Bardon被視為Papunya原住民『點畫』藝術運動的創始英雄——1971年，他以年輕美術老師的身分，從雪梨來到距離愛麗絲泉250公里的原住民聚落Papunya。但一本新傳記，正在拆解這個流傳數十年的英雄神話。",
+          "beat": "ARTS",
+          "thread_text": "Geoffrey Bardon被視為Papunya原住民『點畫』藝術運動的創始英雄——1971年，他以年輕美術老師身分，從雪梨來到距離愛麗絲泉250公里的原住民聚落Papunya。但一本新傳記，正在拆解這個流傳數十年的英雄神話。\n\n—— 本則來自 The Guardian，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "Geoffrey Bardon長年被視為Papunya原住民『點畫』藝術運動的創始英雄——1971年，他以年輕美術老師的身分，從雪梨來到距離愛麗絲泉250公里的原住民聚落Papunya，這段故事後來成為這個全球知名藝術運動的起源神話。但一本新傳記，正在拆解這段流傳數十年的英雄敘事，也翻出其中的瘋狂與扭曲之處。\n\n本則整理自 The Guardian 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "有一個流傳數十年的藝術英雄神話，正被一本新傳記拆解。Geoffrey Bardon長年被當成Papunya原住民『點畫』藝術運動的創始英雄——1971年，他以年輕美術老師的身分，從雪梨來到澳洲中部的原住民聚落Papunya。但新傳記說，這段故事裡藏著扭曲跟瘋狂的一面。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "Geoffrey Bardon被視為Papunya原住民『點畫』藝術運動的創始英雄——1971年，他以年輕美術老師身分，從雪梨來到距離愛麗絲泉250公里的原住民聚落Papunya。但一本新傳記，正在拆解這個流傳數十年的英雄神話。\n\n—— 本則來自 The Guardian，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "Geoffrey Bardon長年被視為Papunya原住民『點畫』藝術運動的創始英雄——1971年，他以年輕美術老師的身分，從雪梨來到距離愛麗絲泉250公里的原住民聚落Papunya，這段故事後來成為這個全球知名藝術運動的起源神話。但一本新傳記，正在拆解這段流傳數十年的英雄敘事，也翻出其中的瘋狂與扭曲之處。\n\n本則整理自 The Guardian 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "有一個流傳數十年的藝術英雄神話，正被一本新傳記拆解。Geoffrey Bardon長年被當成Papunya原住民『點畫』藝術運動的創始英雄——1971年，他以年輕美術老師的身分，從雪梨來到澳洲中部的原住民聚落Papunya。但新傳記說，這段故事裡藏著扭曲跟瘋狂的一面。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_art_design",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Bardon has largely remained in popular consciousness as the synonymous hero and martyr of the art movement’s origin story. But a new biography is unravelling the myth, and the madness, behind the tale Like many foundation stories, the white Australian narrative about the birth of the globally celebrated Western Desert Aboriginal “dot painting” movement is steeped in myth. For decades it has gone like this. In 1971 a young, eccentric middle-class art teacher from Sydney, Geoffrey Bardon, arrives in the remote assimilationist Aboriginal settlement of Papunya, 250km west of Alice Springs. Continue reading...",
+              "title": "‘A whitewashing of minds’: the mania and myth of Geoffrey Bardon and the painting men of Papunya",
+              "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/nov/01/geoffrey-bardon-aboriginal-dot-painting-papunya",
+              "published_at": "2026-11-01T03:00:51+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "Geoffrey Bardon被視為Papunya原住民『點畫』藝術運動的創始英雄，一本新傳記正在拆解這段流傳數十年的英雄神話。",
+              "source_id": "guardian_art_design",
+              "source_title": "‘A whitewashing of minds’: the mania and myth of Geoffrey Bardon and the painting men of Papunya",
+              "source_url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/nov/01/geoffrey-bardon-aboriginal-dot-painting-papunya",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "視覺藝術",
+          "single_source_warning": true,
+          "opinion_level": "light_context",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261102_evt_024",
+          "headline": "日本興起『樸實萬聖節』",
+          "context": "萬聖節通常是闔家同樂、孩子扮裝要糖的節日，但日本掀起了不一樣的玩法——『地味萬聖節』（Jimi Halloween），意思是樸實、低調的萬聖節。成年參加者會扮成日常生活裡最普通的人，認真演出各種瑣碎又具體的任務，地點在東京澀谷。",
+          "beat": "ARTS",
+          "thread_text": "萬聖節通常是闔家同樂、孩子扮裝要糖的節日，但日本掀起了不一樣的玩法——『地味萬聖節』，意思是樸實、低調的萬聖節。成年參加者會扮成日常生活裡最普通的人，認真演出各種瑣碎又具體的任務。這個活動由線上雜誌Daily Portal Z主辦，地點在東京澀谷。\n\n—— 本則來自 The Guardian，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "萬聖節通常是闔家同樂、孩子扮裝要糖的節日，但日本掀起了不一樣的玩法——『地味萬聖節』（Jimi Halloween），意思是樸實、低調的萬聖節。成年參加者會扮成日常生活裡最普通的人，認真演出各種瑣碎又具體的任務，把平凡無奇的情境，當成值得慶祝的事。這個活動由線上雜誌Daily Portal Z主辦，地點在東京澀谷。\n\n本則整理自 The Guardian 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "日本有一種不一樣的萬聖節，叫『地味萬聖節』，意思是樸實、低調的萬聖節。平常萬聖節是闔家同樂、孩子扮裝要糖的節日，但這個活動裡，成年參加者會扮成日常生活裡最普通的人，認真演出各種瑣碎又具體的任務。主辦單位是一家線上雜誌，地點在東京澀谷。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "萬聖節通常是闔家同樂、孩子扮裝要糖的節日，但日本掀起了不一樣的玩法——『地味萬聖節』，意思是樸實、低調的萬聖節。成年參加者會扮成日常生活裡最普通的人，認真演出各種瑣碎又具體的任務。這個活動由線上雜誌Daily Portal Z主辦，地點在東京澀谷。\n\n—— 本則來自 The Guardian，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "萬聖節通常是闔家同樂、孩子扮裝要糖的節日，但日本掀起了不一樣的玩法——『地味萬聖節』（Jimi Halloween），意思是樸實、低調的萬聖節。成年參加者會扮成日常生活裡最普通的人，認真演出各種瑣碎又具體的任務，把平凡無奇的情境，當成值得慶祝的事。這個活動由線上雜誌Daily Portal Z主辦，地點在東京澀谷。\n\n本則整理自 The Guardian 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "日本有一種不一樣的萬聖節，叫『地味萬聖節』，意思是樸實、低調的萬聖節。平常萬聖節是闔家同樂、孩子扮裝要糖的節日，但這個活動裡，成年參加者會扮成日常生活裡最普通的人，認真演出各種瑣碎又具體的任務。主辦單位是一家線上雜誌，地點在東京澀谷。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_art_design",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "While Halloween is traditionally a family-oriented holiday and an occasion for children to dress up and go trick-or-treating, a unique spin on spooky season is taking off in Japan. ‘Jimi Halloween’ or ‘Mundane Halloween’ sees adult participants dress up as ordinary people in everyday life. They do highly specific tasks, embracing and celebrating unremarkable situations for the event, hosted by online magazine Daily Portal Z in Tokyo’s Shibuya district. Continue reading...",
+              "title": "Japan’s Jimi Halloween, a celebration of all things mundane – in pictures",
+              "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/01/japan-jimi-halloween-celebration-of-all-things-mundane-tokyo-shibuya-in-pictures",
+              "published_at": "2026-11-01T08:32:29+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "日本『地味萬聖節』讓成年參加者扮成日常生活裡最普通的人，演出瑣碎具體的任務，活動由線上雜誌Daily Portal Z主辦，地點在東京澀谷。",
+              "source_id": "guardian_art_design",
+              "source_title": "Japan’s Jimi Halloween, a celebration of all things mundane – in pictures",
+              "source_url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/01/japan-jimi-halloween-celebration-of-all-things-mundane-tokyo-shibuya-in-pictures",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "視覺藝術",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261102_evt_061",
+          "headline": "同台演員憶史都華",
+          "context": "派崔克·史都華的兩位劇場、電影同台演員Dafne Keen與Harriet Walter，公開回憶起跟他一起工作的時光——從模仿狗叫、指揮樂隊，到他對『玩』這件事近乎虔誠的信念。Dafne Keen說，11歲時能跟他一起拍《羅根》，是她無法想像的榮幸。",
+          "beat": "ARTS",
+          "thread_text": "派崔克·史都華的兩位同台演員Dafne Keen與Harriet Walter，公開回憶起跟他一起工作的時光——從模仿狗叫、指揮樂隊，到他對『玩』這件事近乎虔誠的信念。Dafne Keen說，11歲時能跟他一起拍《羅根》，是她無法想像的榮幸，他待人溫暖、幽默又大方。\n\n—— 本則來自 The Guardian，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "派崔克·史都華的兩位同台演員Dafne Keen與Harriet Walter，公開回憶起跟他一起工作的時光——從模仿狗叫、指揮樂隊，到他對『玩』這件事近乎虔誠的信念。Dafne Keen說，11歲時能跟他一起拍《羅根》，是她無法想像的榮幸。她形容他是個極其溫暖、機智又大方的人，總能讓身邊每個人感覺自己被邀請參與某種美好的事，而他教人的方式，總是不知不覺就讓你學到了東西。\n\n本則整理自 The Guardian 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "史都華的兩位同台演員，公開回憶起跟他一起工作的時光。Dafne Keen跟Harriet Walter說，史都華會模仿狗叫、指揮樂隊，對『玩』這件事幾乎有種虔誠的信念。Dafne Keen說，11歲時能跟他一起拍《羅根》，是她無法想像的榮幸——他待人溫暖、幽默又大方，總能讓身邊的人覺得自己被邀請參與某種美好的事。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "派崔克·史都華的兩位同台演員Dafne Keen與Harriet Walter，公開回憶起跟他一起工作的時光——從模仿狗叫、指揮樂隊，到他對『玩』這件事近乎虔誠的信念。Dafne Keen說，11歲時能跟他一起拍《羅根》，是她無法想像的榮幸，他待人溫暖、幽默又大方。\n\n—— 本則來自 The Guardian，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "派崔克·史都華的兩位同台演員Dafne Keen與Harriet Walter，公開回憶起跟他一起工作的時光——從模仿狗叫、指揮樂隊，到他對『玩』這件事近乎虔誠的信念。Dafne Keen說，11歲時能跟他一起拍《羅根》，是她無法想像的榮幸。她形容他是個極其溫暖、機智又大方的人，總能讓身邊每個人感覺自己被邀請參與某種美好的事，而他教人的方式，總是不知不覺就讓你學到了東西。\n\n本則整理自 The Guardian 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "史都華的兩位同台演員，公開回憶起跟他一起工作的時光。Dafne Keen跟Harriet Walter說，史都華會模仿狗叫、指揮樂隊，對『玩』這件事幾乎有種虔誠的信念。Dafne Keen說，11歲時能跟他一起拍《羅根》，是她無法想像的榮幸——他待人溫暖、幽默又大方，總能讓身邊的人覺得自己被邀請參與某種美好的事。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_stage",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "The late actor’s co-stars in Logan and Anthony and Cleopatra remember dog impressions, marching band-conducting and a fervent belief in fun I had the unbelievable privilege of working with Patrick when I was 11 [in Logan]. He was a man of extraordinary warmth, wit and generosity. He possessed that increasingly rare ability to make everyone around him feel as though they were being let in on something wonderful. To work alongside him was to be reminded, every day, of what it means to love what you do, and to share that love with others. He imparted lessons in a way that was so wise, you didn’t even realise you were being taught. Continue reading...",
+              "title": "Dafne Keen and Harriet Walter on working with Patrick Stewart: ‘I’ve never seen anyone so ecstatic’",
+              "url": "https://www.theguardian.com/culture/2026/nov/01/dafne-keen-and-harriet-walter-on-working-with-patrick-stewart-ive-never-seen-anyone-so-ecstatic",
+              "published_at": "2026-11-01T16:00:06+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "Dafne Keen與Harriet Walter回憶與派崔克·史都華同台的經驗，形容他溫暖、幽默、大方，對『玩』抱有近乎虔誠的信念；Dafne Keen說11歲時拍《羅根》時與他合作是無法想像的榮幸。",
+              "source_id": "guardian_stage",
+              "source_title": "Dafne Keen and Harriet Walter on working with Patrick Stewart: ‘I’ve never seen anyone so ecstatic’",
+              "source_url": "https://www.theguardian.com/culture/2026/nov/01/dafne-keen-and-harriet-walter-on-working-with-patrick-stewart-ive-never-seen-anyone-so-ecstatic",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "戲劇",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "AI",
+      "title": "AI 新知",
+      "emoji": "🤖",
+      "items": [
+        {
+          "event_id": "daily_20261102_evt_030",
+          "headline": "數據中心負債引AI泡沫疑慮",
+          "context": "一些你我可能沒聽過的公司，正讓AI泡沫破裂的疑慮升溫。這些負責融資、建設AI資料中心的業者，背負的債務已經來到數百億英鎊等級。",
+          "beat": "AI",
+          "thread_text": "一些你我可能沒聽過的公司，正讓「AI泡沫可能破裂」的疑慮升溫。這些負責融資、建設AI資料中心的業者，背負的債務已經來到數百億英鎊等級。\n\n—— 本則來自 BBC，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "一些你我可能沒聽過的公司，正讓「AI泡沫可能破裂」的疑慮升溫。這些公司負責融資、建設AI資料中心，背負的債務已經來到數百億英鎊等級。這類負債規模，正是外界擔心AI投資熱潮撐不住的理由之一。\n\n本則整理自 BBC 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "有些公司認為，AI泡沫可能要破了。這些你我可能沒聽過的公司，專門做AI資料中心的融資跟建設，他們背負的債務，已經來到數百億英鎊這個等級。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "一些你我可能沒聽過的公司，正讓「AI泡沫可能破裂」的疑慮升溫。這些負責融資、建設AI資料中心的業者，背負的債務已經來到數百億英鎊等級。\n\n—— 本則來自 BBC，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "一些你我可能沒聽過的公司，正讓「AI泡沫可能破裂」的疑慮升溫。這些公司負責融資、建設AI資料中心，背負的債務已經來到數百億英鎊等級。這類負債規模，正是外界擔心AI投資熱潮撐不住的理由之一。\n\n本則整理自 BBC 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "有些公司認為，AI泡沫可能要破了。這些你我可能沒聽過的公司，專門做AI資料中心的融資跟建設，他們背負的債務，已經來到數百億英鎊這個等級。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_technology",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+              "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+              "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-01T09:37:26+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "一些負責融資、建設AI資料中心的公司，背負的債務已經來到數百億英鎊等級，這讓外界對AI泡沫是否會破裂的疑慮升高。",
+              "source_id": "bbc_technology",
+              "source_title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+              "source_url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "light_context",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261102_evt_016",
+          "headline": "創辦人峰會11月4日登場",
+          "context": "TechCrunch創辦人峰會將在11月4日於波士頓SoWa Power Station舉行，主打一整天的密集交流與分享機會。主辦方提醒，現場報名的費用會比事先登記貴。",
+          "beat": "AI",
+          "thread_text": "TechCrunch創辦人峰會11月4日在波士頓SoWa Power Station登場，主打一整天的密集人脈交流與產業洞察分享。主辦方說，現場報名的費用會比事先登記更貴。\n\n—— 本則來自 TechCrunch，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "TechCrunch創辦人峰會將在11月4日於波士頓SoWa Power Station舉行，主打一整天的密集人脈交流、實用洞察與產業連結機會，目標是幫創業者找到能推進事業的人脈與想法。主辦方提醒，現場報名的費用會比事先登記貴。\n\n本則整理自 TechCrunch 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "TechCrunch創辦人峰會，11月4日在波士頓登場。這一天的活動，主打密集的人脈交流跟產業洞察分享，目標是幫創業者找到能推進事業的人脈與想法。主辦方提醒，現場報名的費用，會比事先登記貴。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "TechCrunch創辦人峰會11月4日在波士頓SoWa Power Station登場，主打一整天的密集人脈交流與產業洞察分享。主辦方說，現場報名的費用會比事先登記更貴。\n\n—— 本則來自 TechCrunch，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "TechCrunch創辦人峰會將在11月4日於波士頓SoWa Power Station舉行，主打一整天的密集人脈交流、實用洞察與產業連結機會，目標是幫創業者找到能推進事業的人脈與想法。主辦方提醒，現場報名的費用會比事先登記貴。\n\n本則整理自 TechCrunch 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "TechCrunch創辦人峰會，11月4日在波士頓登場。這一天的活動，主打密集的人脈交流跟產業洞察分享，目標是幫創業者找到能推進事業的人脈與想法。主辦方提醒，現場報名的費用，會比事先登記貴。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "techcrunch_ai",
+              "name": "TechCrunch",
+              "publisher": "TechCrunch",
+              "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+              "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+              "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+              "published_at": "2026-11-01T05:36:07+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "TechCrunch創辦人峰會11月4日在波士頓SoWa Power Station舉行，主辦方提醒現場報名費用會比事先登記貴。",
+              "source_id": "techcrunch_ai",
+              "source_title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+              "source_url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2"
+        },
+        {
+          "event_id": "daily_20261102_evt_017",
+          "headline": "蘋果執行長不追AI熱潮",
+          "context": "蘋果新任執行長出面說明公司目前在AI領域的定位，強調不會為了追AI熱潮而勉強推出產品。他的說法是，蘋果「不想為了AI而AI」。",
+          "beat": "AI",
+          "thread_text": "蘋果新任執行長出面說明公司目前在AI領域的定位。他說，蘋果「不想為了AI而AI，硬推產品出來」。\n\n—— 本則來自 TechCrunch，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "蘋果新任執行長出面說明公司目前在AI領域的定位，強調蘋果不會為了趕上AI熱潮，就硬推還不成熟的產品出來。他的說法是：「我們不想為了AI而AI。」\n\n本則整理自 TechCrunch 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "蘋果不想為了AI而AI。蘋果新任執行長這樣說明公司目前在AI領域的定位，他強調不會為了追上AI熱潮，就硬推還不成熟的產品。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "蘋果新任執行長出面說明公司目前在AI領域的定位。他說，蘋果「不想為了AI而AI，硬推產品出來」。\n\n—— 本則來自 TechCrunch，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "蘋果新任執行長出面說明公司目前在AI領域的定位，強調蘋果不會為了趕上AI熱潮，就硬推還不成熟的產品出來。他的說法是：「我們不想為了AI而AI。」\n\n本則整理自 TechCrunch 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "蘋果不想為了AI而AI。蘋果新任執行長這樣說明公司目前在AI領域的定位，他強調不會為了追上AI熱潮，就硬推還不成熟的產品。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "techcrunch_ai",
+              "name": "TechCrunch",
+              "publisher": "TechCrunch",
+              "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+              "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+              "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+              "published_at": "2026-11-01T05:41:00+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "蘋果新任執行長表示，公司不想為了AI而AI、硬推產品出來，藉此說明蘋果目前在AI領域的定位。",
+              "source_id": "techcrunch_ai",
+              "source_title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+              "source_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2"
+        }
+      ]
+    },
+    {
+      "beat": "ECON",
+      "title": "全球經濟趨勢",
+      "emoji": "📊",
+      "items": [
+        {
+          "event_id": "daily_20261102_evt_120",
+          "headline": "OPEC+12月產油目標不變",
+          "context": "OPEC+決定，12月的石油產量目標維持不變。這是為了把更艱難的決定留到下一輪——2027年的產量政策，將會是更棘手的討論。",
+          "beat": "ECON",
+          "thread_text": "OPEC+決定，12月的石油產量目標維持不變。這次按兵不動，是為了把更艱難的決定留到下一輪——2027年的產量政策，牽涉的考量會更棘手。\n\n—— 本則來自 Reuters，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "OPEC+決定，12月的石油產量目標維持不變，沒有進一步加碼或減產。這次按兵不動，某種程度上是把更艱難的決定留到下一輪——明年（2027年）的產量政策，牽涉的考量會更複雜，屆時才是真正考驗各產油國立場的時刻。\n\n本則整理自 Reuters 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "OPEC+決定，12月的石油產量目標維持不變。這次按兵不動，等於把更艱難的決定留到下一輪——明年的產量政策，牽涉的考量會更棘手。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "OPEC+決定，12月的石油產量目標維持不變。這次按兵不動，是為了把更艱難的決定留到下一輪——2027年的產量政策，牽涉的考量會更棘手。\n\n—— 本則來自 Reuters，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "OPEC+決定，12月的石油產量目標維持不變，沒有進一步加碼或減產。這次按兵不動，某種程度上是把更艱難的決定留到下一輪——明年（2027年）的產量政策，牽涉的考量會更複雜，屆時才是真正考驗各產油國立場的時刻。\n\n本則整理自 Reuters 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "OPEC+決定，12月的石油產量目標維持不變。這次按兵不動，等於把更艱難的決定留到下一輪——明年的產量政策，牽涉的考量會更棘手。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_business_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027 Reuters",
+              "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027 - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
+              "published_at": "2026-11-01T21:36:05+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "OPEC+決定12月石油產量目標維持不變，2027年的產量政策將面臨更棘手的決定。",
+              "source_id": "reuters_business_google_news",
+              "source_title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027 - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVRNX1Y5b0xXX3dlMU1QX2lRbVkxbkJYSU9SUVdxUFlXQ2hGcjRpRlVIbklCeTlZa1d2VnNOQWFaaVN0NHJVcnJSRVhUSngyVmcxdzlsZVpwSm1wbmduTGpNbXkwWEhKbGZQdURzZ0c0UHl2S28zLUxjbDdSUkdzZTFnMmtubVlvbmFVMHlsX3BvOVpLa2NqcWozZTJUWlhnUWUxYXFn?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 35,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1; economy_macro_policy"
+        },
+        {
+          "event_id": "daily_20261102_evt_097",
+          "headline": "美中貿易戰看似降溫實未解",
+          "context": "美中貿易戰看起來已經降溫，不再天天上新聞頭條。但有評論認為，這份平靜其實是假象——雙方都沒有真正放下武器，川普仍不時放話，說除非聯準會降息，否則要終止跟有貿易逆差國家的貿易。",
+          "beat": "ECON",
+          "thread_text": "美中貿易戰看起來已經降溫，不再天天上新聞頭條。但這份平靜其實是假象——雙方都沒有真正放下武器。川普仍不時放話，說除非聯準會降息，否則要終止跟有貿易逆差國家的貿易。\n\n—— 本則來自 The Guardian，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "美中貿易戰看起來已經降溫，不再天天上新聞頭條。但這份平靜其實是假象——雙方都沒有真正放下武器。川普仍不時放話，說除非聯準會降息，否則要終止跟有貿易逆差國家的貿易。這篇評論認為，世界兩大經濟體正在不動聲色地走向一場規模可能很大的經濟對抗，而這類對抗，歷史上常常會外溢成真正的衝突。\n\n本則整理自 The Guardian 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "美中貿易戰看起來降溫了，但這份平靜其實是假象。雙方都沒有真正放下武器。有評論認為，世界兩大經濟體正悄悄走向一場規模可能很大的經濟對抗，而這類對抗，歷史上常常會外溢成真正的衝突。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美中貿易戰看起來已經降溫，不再天天上新聞頭條。但這份平靜其實是假象——雙方都沒有真正放下武器。川普仍不時放話，說除非聯準會降息，否則要終止跟有貿易逆差國家的貿易。\n\n—— 本則來自 The Guardian，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "美中貿易戰看起來已經降溫，不再天天上新聞頭條。但這份平靜其實是假象——雙方都沒有真正放下武器。川普仍不時放話，說除非聯準會降息，否則要終止跟有貿易逆差國家的貿易。這篇評論認為，世界兩大經濟體正在不動聲色地走向一場規模可能很大的經濟對抗，而這類對抗，歷史上常常會外溢成真正的衝突。\n\n本則整理自 The Guardian 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "美中貿易戰看起來降溫了，但這份平靜其實是假象。雙方都沒有真正放下武器。有評論認為，世界兩大經濟體正悄悄走向一場規模可能很大的經濟對抗，而這類對抗，歷史上常常會外溢成真正的衝突。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_business",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democracy, AI killing us all and stuff like that. The sense of calm is misleading. Under the radar, the world is marching toward an economic war of potentially epic proportions, one that, history suggests, could well spill over into the real thing. Continue reading...",
+              "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+              "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+              "published_at": "2026-11-01T20:00:12+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "low",
+          "claim_trace": [
+            {
+              "claim": "美中貿易戰的緊張看起來降溫，但雙方都沒有真正放下武器。",
+              "source_id": "guardian_business",
+              "source_title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+              "source_url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+              "support_type": "direct"
+            },
+            {
+              "claim": "評論認為，川普仍威脅除非聯準會降息，否則終止跟貿易逆差國家的貿易。",
+              "source_id": "guardian_business",
+              "source_title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+              "source_url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 35,
+          "single_source_warning": true,
+          "opinion_level": "explicit_commentary",
+          "selection_reason": "source_tier_1; economy_macro_policy"
+        },
+        {
+          "event_id": "daily_20261102_evt_115",
+          "headline": "幣安63億美元遭駭補90%",
+          "context": "加密貨幣交易所幣安遭駭，損失63億美元。幣安已經補回其中90%的損失，FBI表示，這次攻擊是北韓所為。",
+          "beat": "ECON",
+          "thread_text": "加密貨幣交易所幣安遭駭，損失63億美元。幣安已經補回其中90%的損失。FBI說，這次攻擊是北韓幹的。\n\n—— 本則來自 BBC，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "加密貨幣交易所幣安遭駭，損失63億美元。幣安目前已經補回其中90%的損失。美國聯邦調查局（FBI）表示，這次攻擊是北韓所為。\n\n本則整理自 BBC 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "幣安遭駭，損失63億美元。這家加密貨幣交易所目前已經補回九成損失。FBI說，這次攻擊是北韓幹的。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "加密貨幣交易所幣安遭駭，損失63億美元。幣安已經補回其中90%的損失。FBI說，這次攻擊是北韓幹的。\n\n—— 本則來自 BBC，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "加密貨幣交易所幣安遭駭，損失63億美元。幣安目前已經補回其中90%的損失。美國聯邦調查局（FBI）表示，這次攻擊是北韓所為。\n\n本則整理自 BBC 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "幣安遭駭，損失63億美元。這家加密貨幣交易所目前已經補回九成損失。FBI說，這次攻擊是北韓幹的。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_business",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+              "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+              "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-01T21:11:37+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "加密貨幣交易所幣安遭駭，損失63億美元，已補回其中90%損失。",
+              "source_id": "bbc_business",
+              "source_title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+              "source_url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "FBI表示這次攻擊是北韓所為。",
+              "source_id": "bbc_business",
+              "source_title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+              "source_url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261102_evt_086",
+          "headline": "南韓業者稱霸波灣油運",
+          "context": "南韓船運公司Sinokor，掌控了波斯灣霍爾木茲海峽（Strait of Hormuz）大約一半的油輪通行量。這家原本名氣不大的公司，受益於伊朗戰爭開打前所下的一個大膽賭注。",
+          "beat": "ECON",
+          "thread_text": "南韓船運公司Sinokor，掌控了波斯灣霍爾木茲海峽（Strait of Hormuz）大約一半的油輪通行量。這家原本名氣不大的公司，受益於伊朗戰爭開打前所下的一個大膽賭注。\n\n—— 本則來自 The New York Times，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "南韓船運公司Sinokor，掌控了波斯灣霍爾木茲海峽（Strait of Hormuz）大約一半的油輪通行量——這條海峽是中東原油外銷的重要通道。這家原本名氣不大的公司，靠著在伊朗戰爭開打前下的一個大膽賭注，一舉站上了這個關鍵位置。\n\n本則整理自 The New York Times 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "南韓有一家叫Sinokor的船運公司，掌控了波斯灣霍爾木茲海峽大約一半的油輪通行量。這家原本名氣不大的公司，靠著伊朗戰爭開打前下的一個大膽賭注，站上了這個關鍵位置。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "南韓船運公司Sinokor，掌控了波斯灣霍爾木茲海峽（Strait of Hormuz）大約一半的油輪通行量。這家原本名氣不大的公司，受益於伊朗戰爭開打前所下的一個大膽賭注。\n\n—— 本則來自 The New York Times，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "南韓船運公司Sinokor，掌控了波斯灣霍爾木茲海峽（Strait of Hormuz）大約一半的油輪通行量——這條海峽是中東原油外銷的重要通道。這家原本名氣不大的公司，靠著在伊朗戰爭開打前下的一個大膽賭注，一舉站上了這個關鍵位置。\n\n本則整理自 The New York Times 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "南韓有一家叫Sinokor的船運公司，掌控了波斯灣霍爾木茲海峽大約一半的油輪通行量。這家原本名氣不大的公司，靠著伊朗戰爭開打前下的一個大膽賭注，站上了這個關鍵位置。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "nyt_business",
+              "name": "The New York Times",
+              "publisher": "The New York Times",
+              "summary": "South Korea’s Sinokor controls about half the tanker transits through the Strait of Hormuz, benefiting from a big bet just before the war in Iran started.",
+              "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
+              "url": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
+              "published_at": "2026-11-01T18:02:30+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "南韓船運公司Sinokor掌控波斯灣霍爾木茲海峽約一半的油輪通行量，受益於伊朗戰爭開打前所下的賭注。",
+              "source_id": "nyt_business",
+              "source_title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
+              "source_url": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2"
+        }
+      ]
+    },
+    {
+      "beat": "PTS_LOCAL",
+      "title": "公視在地新聞",
+      "emoji": "🇹🇼",
+      "items": [
+        {
+          "event_id": "daily_20261102_evt_032",
+          "headline": "同志遊行17萬人倡傾聽",
+          "context": "2026台灣同志遊行10月31日下午盛大登場，共有17萬人參與。今年主題是『聲做伙聽，路做伙行』，希望在社會輿論極化、國際反多元聲浪興起之際，鼓勵大家從『看見』邁向真正的『傾聽』。",
+          "beat": "PTS_LOCAL",
+          "thread_text": "2026台灣同志遊行10月31日下午盛大登場，共有17萬人參與。今年主題是『聲做伙聽，路做伙行』，希望在社會輿論極化、國際反多元聲浪興起之際，鼓勵大家從『看見』邁向真正的『傾聽』。\n\n—— 本則來自 公視，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "2026台灣同志遊行10月31日下午盛大登場，共有17萬人參與。今年活動以『聲做伙聽，路做伙行』為主題，希望在社會輿論極化、國際上出現反多元、反平等、反共融聲浪的這股浪潮下，鼓勵大家從單純的『看見』，邁向真正的『傾聽』。\n\n本則整理自 公視 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "台灣同志遊行，10月31日下午登場，17萬人參與。今年主題是『聲做伙聽，路做伙行』，主辦方希望在社會輿論兩極化、國際上出現反多元聲浪的這個時刻，鼓勵大家從單純的『看見』，邁向真正的『傾聽』。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "2026台灣同志遊行10月31日下午盛大登場，共有17萬人參與。今年主題是『聲做伙聽，路做伙行』，希望在社會輿論極化、國際反多元聲浪興起之際，鼓勵大家從『看見』邁向真正的『傾聽』。\n\n—— 本則來自 公視，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "2026台灣同志遊行10月31日下午盛大登場，共有17萬人參與。今年活動以『聲做伙聽，路做伙行』為主題，希望在社會輿論極化、國際上出現反多元、反平等、反共融聲浪的這股浪潮下，鼓勵大家從單純的『看見』，邁向真正的『傾聽』。\n\n本則整理自 公視 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "台灣同志遊行，10月31日下午登場，17萬人參與。今年主題是『聲做伙聽，路做伙行』，主辦方希望在社會輿論兩極化、國際上出現反多元聲浪的這個時刻，鼓勵大家從單純的『看見』，邁向真正的『傾聽』。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "pts_news",
+              "name": "公視",
+              "publisher": "公視",
+              "summary": "2026台灣同志遊行今（31）日下午盛大登場，共有17萬人參與，今年以「聲做伙聽，路做伙行」為主題，希望在社會輿論極化與國際反多元、反平等、反共融的浪潮下，鼓勵大家從「看見」邁向真正的「傾聽」。",
+              "title": "台灣同志遊行17萬人參與 倡議從「看見」邁向「傾聽」",
+              "url": "https://news.pts.org.tw/article/833730",
+              "published_at": "2026-11-01T11:14:23+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "2026台灣同志遊行10月31日下午登場，共17萬人參與，主題為『聲做伙聽，路做伙行』。",
+              "source_id": "pts_news",
+              "source_title": "台灣同志遊行17萬人參與 倡議從「看見」邁向「傾聽」",
+              "source_url": "https://news.pts.org.tw/article/833730",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261102_evt_033",
+          "headline": "波蘭憲法法庭院長遭停職",
+          "context": "波蘭司法體系爆發政治衝突，憲法法庭院長希維茨科夫斯基（Bogdan Święczkowski）10月31日遭停職，引發右翼陣營強烈反彈，指控總理圖斯克藉此發動政變。總統納夫羅茨基提前結束非洲訪問，趕回國內，並在10月31日現身憲法法庭。",
+          "beat": "PTS_LOCAL",
+          "thread_text": "波蘭司法體系爆發政治衝突，憲法法庭院長希維茨科夫斯基（Bogdan Święczkowski）10月31日遭停職。右翼陣營強烈反彈，指控總理圖斯克藉此發動政變。總統納夫羅茨基提前結束非洲訪問趕回國內，並在10月31日現身憲法法庭。\n\n—— 本則來自 公視，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。",
+          "threads_text": "波蘭司法體系爆發激烈政治衝突，憲法法庭院長希維茨科夫斯基（Bogdan Święczkowski）10月31日遭到停職，引發右翼陣營強烈反彈，指控總理圖斯克藉此發動政變。總統納夫羅茨基提前結束非洲訪問，緊急趕回國內，並在10月31日現身憲法法庭。這起事件也暴露出波蘭朝野多年來，在司法體系控制權上的政治爭議。\n\n本則整理自 公視 於 2026 年 11 月 1 日發佈的報導。",
+          "voice_text": "波蘭憲法法庭院長被停職了。希維茨科夫斯基10月31日遭到停職，右翼陣營強烈反彈，指控總理圖斯克藉此發動政變。總統納夫羅茨基提前結束非洲訪問，趕回國內，在10月31日當天出現在憲法法庭。這起事件，也讓波蘭朝野多年來在司法體系控制權上的政治爭議，再次浮上水面。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "波蘭司法體系爆發政治衝突，憲法法庭院長希維茨科夫斯基（Bogdan Święczkowski）10月31日遭停職。右翼陣營強烈反彈，指控總理圖斯克藉此發動政變。總統納夫羅茨基提前結束非洲訪問趕回國內，並在10月31日現身憲法法庭。\n\n—— 本則來自 公視，2026 年 11 月 1 日發佈，讓圖書館員翻譯給你聽。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "波蘭司法體系爆發激烈政治衝突，憲法法庭院長希維茨科夫斯基（Bogdan Święczkowski）10月31日遭到停職，引發右翼陣營強烈反彈，指控總理圖斯克藉此發動政變。總統納夫羅茨基提前結束非洲訪問，緊急趕回國內，並在10月31日現身憲法法庭。這起事件也暴露出波蘭朝野多年來，在司法體系控制權上的政治爭議。\n\n本則整理自 公視 於 2026 年 11 月 1 日發佈的報導。"
+              ]
+            },
+            "voice": {
+              "text": "波蘭憲法法庭院長被停職了。希維茨科夫斯基10月31日遭到停職，右翼陣營強烈反彈，指控總理圖斯克藉此發動政變。總統納夫羅茨基提前結束非洲訪問，趕回國內，在10月31日當天出現在憲法法庭。這起事件，也讓波蘭朝野多年來在司法體系控制權上的政治爭議，再次浮上水面。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "pts_news",
+              "name": "公視",
+              "publisher": "公視",
+              "summary": "波蘭司法體系爆發激烈政治衝突，憲法法庭院長希維茨科夫斯基（Bogdan Święczkowski）遭到停職，引發右翼陣營強烈反彈。總統納夫羅茨基提前結束非洲訪問，緊急返國，並在31日現身憲法法庭。這起事件也暴露波蘭朝野多年來，在司法體系控制權的政治爭議。",
+              "title": "波蘭憲法法庭院長遭停職 右翼陣營控總理圖斯克政變",
+              "url": "https://news.pts.org.tw/article/833728",
+              "published_at": "2026-11-01T11:18:59+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "波蘭憲法法庭院長希維茨科夫斯基10月31日遭停職，引發右翼陣營強烈反彈，指控總理圖斯克藉此發動政變。",
+              "source_id": "pts_news",
+              "source_title": "波蘭憲法法庭院長遭停職 右翼陣營控總理圖斯克政變",
+              "source_url": "https://news.pts.org.tw/article/833728",
+              "support_type": "direct"
+            },
+            {
+              "claim": "總統納夫羅茨基提前結束非洲訪問趕回國內，並在10月31日現身憲法法庭。",
+              "source_id": "pts_news",
+              "source_title": "波蘭憲法法庭院長遭停職 右翼陣營控總理圖斯克政變",
+              "source_url": "https://news.pts.org.tw/article/833728",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_feeds_checked": 27,
+    "total_feeds_failed": 0,
+    "total_feeds_failed_remote_blocked": 0,
+    "total_articles_fetched": 237,
+    "total_articles_after_filter": 223,
+    "total_events_merged": 181,
+    "total_events_selected": 18,
+    "tw_highlights_count": 2
+  },
+  "dropped_events": [
+    {
+      "event_id": "daily_20261102_evt_027",
+      "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "selection_score": 0,
+      "drop_reason": "reported_recently"
+    },
+    {
+      "event_id": "daily_20261102_evt_029",
+      "headline": "Taiwan says China harassing shipping with east coast patrol - Reuters",
+      "selection_score": 45,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_124",
+      "headline": "Qatar surges, bucking Gulf market slide on Iran war concerns - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_128",
+      "headline": "Iran, Qatari mediators hold third day of talks to end US-Iran war - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_151",
+      "headline": "New Zealand's two-speed economy poses election dilemma for ruling National party - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_170",
+      "headline": "Ukraine evacuates civilians from parts of Kherson region as expiry of Oleshky ceasefire nears - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_011",
+      "headline": "A new political era in the Southern Philippines",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_160",
+      "headline": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_167",
+      "headline": "How will the Iran war shape the outcome of the US midterm vote?",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_005",
+      "headline": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_009",
+      "headline": "Canada advancing its 'middle power' strategy with new trade deals, Anand says - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_010",
+      "headline": "Polish PM Tusk vows support for tribunal amid court crisis - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_014",
+      "headline": "Thousands demonstrate in Paris as protests spread across Europe",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_018",
+      "headline": "FBI links North Korea to theft of $6 billion from Binance - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_021",
+      "headline": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_022",
+      "headline": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_025",
+      "headline": "South Korea exports nearly double in October on AI investment boom - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_026",
+      "headline": "Trump says Flavio Bolsonaro can stay in US 'as long as he wants' - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_028",
+      "headline": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_031",
+      "headline": "Hanwha signs $269 million shipbuilding contract for US Navy - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_034",
+      "headline": "低薪、物價高漲引罷工示威 義大利50城市工會成員上街抗議",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_036",
+      "headline": "抗議高通膨、教育資源不足 法德多地再爆發警民衝突",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_038",
+      "headline": "大溪川固床工阻礙生物上溯 水保署承諾研議改善",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_039",
+      "headline": "武陵農場櫻花季開放訂房 1972間客房4分鐘搶光",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_040",
+      "headline": "教育部保障教師離線權 教團憂短時間恐衝擊親師關係",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_041",
+      "headline": "德國Z世代抗爭入夜後變調 部份示威者持土製汽油彈襲警",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_042",
+      "headline": "毒駕加重罰新制上路1小時 高雄警連查2起、沒入2機車",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_043",
+      "headline": "毒駕新制上路首日 高雄、桃園等地陸續查獲毒駕",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_044",
+      "headline": "沈伯洋、蔣萬安辯論後續拚選戰 今再隔空交火都更政策",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_045",
+      "headline": "中國海警以暗船闖東沙限制水域 我海巡併航監控驅離",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_046",
+      "headline": "爭安樂死遭駁回 新竹近全癱男子聲請釋憲",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_047",
+      "headline": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_050",
+      "headline": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_052",
+      "headline": "Mass protests sweep Italy during nationwide strike - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_053",
+      "headline": "Turkey appoints Muhsin Atci as head of Capital Markets Board - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_054",
+      "headline": "India's October coal-fired power output jumps most in 3 years as hydro generation slumps - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_056",
+      "headline": "India's October net goods and services tax collection rises 25.6% year-on-year - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_058",
+      "headline": "一週大事／立院加重毒駕刑責 西班牙高鐵追撞（2026.10.26-11.1）",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_059",
+      "headline": "Xiaomi's October EV deliveries top 50,000, hit 2026 monthly high - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_062",
+      "headline": "讀賣新聞：中國調查船繞台異常活動　疑蒐集海底電纜情報",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_063",
+      "headline": "印度反對派將遊行促選委會主席下台　德里加強維安",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_065",
+      "headline": "波斯灣船隻再遇襲　卡達天然氣油輪遭不明物體攻擊",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_067",
+      "headline": "‘It seems weird for an MC – but lyrics have never been a thing for me’: De La Soul’s honest playlist",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_068",
+      "headline": "GMO外匯交易服務遭入侵　旗下資安公司2024年早示警",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_069",
+      "headline": "艾普斯坦報導案　川普二度控告華爾街日報敗訴",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_070",
+      "headline": "泰國總理：泰柬邊境暫不重開　待解決領土與安全問題",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_071",
+      "headline": "96歲巴菲特愛喝可樂　傳曾自稱近50年沒喝過白開水",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_090",
+      "headline": "受007電影啟發　墨西哥市亡靈節遊行歡慶10週年",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_092",
+      "headline": "印度東北部族群衝突再起　釀5死",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_095",
+      "headline": "阿聯：盼美伊談判取得突破　但已做好最壞打算",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_096",
+      "headline": "伊朗軍方宣稱　若與美國爆發新戰事恐比先前更漫長",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_099",
+      "headline": "Why you should treat charisma as a red flag",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_100",
+      "headline": "秋季虎頭蜂活動頻繁 學者籲民眾上山提高警覺",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_101",
+      "headline": "非洲逾萬人確診伊波拉 民主剛果超過5300人死亡",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_102",
+      "headline": "傳中用非正式APEC邀請函邀台 外交部：若遭矮化將抗議",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_103",
+      "headline": "行動電源起火、冒煙頻傳 運安會建議納強制通報",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_104",
+      "headline": "林口祖師廟過火意外 逾20人腳底燙傷送醫",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_105",
+      "headline": "國光客運缺工脫班遭累罰45萬 交通部擬爭取開放僑外生駕駛",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_106",
+      "headline": "台糖粗油採購案流標 擬11/4重新招標",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_107",
+      "headline": "賴清德偕陳其邁替賴瑞隆站台 韓國瑜、柯文哲為柯志恩助陣",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_108",
+      "headline": "蔣萬安允提高清潔隊夜點費 沈伯洋提強化勞檢政策",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_109",
+      "headline": "Five killed in fresh ethnic violence in India's Manipur state - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_110",
+      "headline": "美期中選舉最後衝刺　川普赴農業帶2紅州拉抬選情",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_111",
+      "headline": "Pope Leo says he hopes Oleshky truce could spur Ukraine-Russia peace efforts - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_112",
+      "headline": "印度反對派號召5萬人示威　蟑螂人民黨保持中立不參加",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_113",
+      "headline": "韓國受惠AI投資10月出口額近倍增　創半世紀最大增幅",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_114",
+      "headline": "Jess Cartner-Morley’s November style essentials: fancy flats, sexy knits and a Christmassy pigeon",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_117",
+      "headline": "美期中選舉後民主黨若掌控國會　葛來儀：六項保證法制化可望推進",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_118",
+      "headline": "日本GMO遭駭或與北韓有關　攻擊者疑刻意混入海外痕跡",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_119",
+      "headline": "German, Slovak die in suspected electrocution at hotel pool in India - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_121",
+      "headline": "川普若輸期中選舉　路透：白宮規劃不靠國會施政路徑",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_122",
+      "headline": "美期中選舉民主黨若勝　川普關稅政策恐仍難推翻",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_125",
+      "headline": "美國阿拉巴馬州美式足球賽場外爆槍響　1死8傷",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_127",
+      "headline": "路透：OPEC+會議料將12月目標產油量維持不變",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_129",
+      "headline": "Halloween, midterms and cafe culture: photos of the weekend",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_133",
+      "headline": "Russia's FSB says minor detained over park attack threat after US tip-off - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_142",
+      "headline": "German ministers vow tough response to Frankfurt riots and looting - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_150",
+      "headline": "University of Cambridge scientist among those who died in Spanish train crash",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_153",
+      "headline": "Lindsay Clancy is back in court - where will her case go next?",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_154",
+      "headline": "Serbians mark railway disaster that led to rise of victorious student movement - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_157",
+      "headline": "Democratic Senator Murphy hospitalized after stroke, chief of staff says - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_158",
+      "headline": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_159",
+      "headline": "Latvia reports brief airspace intrusion near Russia, Belarus borders - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_164",
+      "headline": "Peaceful protests in Germany spiral into violence and looting",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_165",
+      "headline": "Bulgaria's acting President Iotova takes lead in presidential runoff vote, exit polls show - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_168",
+      "headline": "Canada PM Carney said he had a good conversation with Trump on trade - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_173",
+      "headline": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_174",
+      "headline": "Iran's IRGC Navy says two tankers 'exploded' after hitting mines in Hormuz - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_176",
+      "headline": "UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_180",
+      "headline": "Republicans face legal setback in Alaska while Democrat's endorsement gives boost - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_002",
+      "headline": "Key takeaways from this week's political meeting in Beijing",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_003",
+      "headline": "Why Does Culture Feel So Monotonous? A Walking Tour Reveals the Math.",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_006",
+      "headline": "France seethes again as youth-led protests sweep Europe",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_008",
+      "headline": "AO3 Fan Fiction Site Is Hacked and Could Be Offline for Weeks",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_012",
+      "headline": "Secretary Rubio has a tough time getting officials at G20 on the same page",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_015",
+      "headline": "Rosalind Ashford Has Died. She Wanted to Be a Stewardess but Became a Motown Star.",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_037",
+      "headline": "The best theatre to stream this month: the Gisèle Pelicot trial becomes an all-star play that ‘just floors you’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_051",
+      "headline": "TV tonight: oceanic wonder with David Attenborough in Blue Planet III",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_074",
+      "headline": "In San Diego, Exploring the Joy and Solace of Queer Latino Nightlife",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_075",
+      "headline": "Recalling the Pathbreaking Role of a Newark Art Space",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_076",
+      "headline": "Romeo + Juliet at 30: how Baz Luhrmann made teens fall in love with Shakespeare",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_077",
+      "headline": "‘Let’s take Alexa out into the garden and smash it with a shoe’: Charlie Brooker and Diane Morgan take aim at Hollywood, AI ... and each other",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_078",
+      "headline": "Museums Turn to A.I. to Create Personalized Tour Experiences",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_079",
+      "headline": "The Ancient Skill of Glassmaking Feels New Again",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_080",
+      "headline": "Swarms of Butterflies Land at New York’s Natural History Museum",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_081",
+      "headline": "You Must Be a Model! Yes, and an Author, Too.",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_082",
+      "headline": "Book Review: ‘Sound Tracks,’ by Graeme Lawson",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_083",
+      "headline": "24 Fun Things to Do in N.Y.C. in November",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_084",
+      "headline": "Imprisoned on Flimsy Evidence, He Began Quilting. Now His Work Is in Museums.",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_085",
+      "headline": "The Best Movies and TV Shows Coming to HBO Max, Hulu, Apple TV and More in November",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_087",
+      "headline": "‘Saturday Night Live U.K.’ Has Found Its Voice",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_088",
+      "headline": "A Rembrandt on Your Skin: Museum Hosts a Tattoo Parlor in Amsterdam",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_089",
+      "headline": "Cynthia Nixon Is Not a Miranda",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_091",
+      "headline": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_093",
+      "headline": "Tosca review – ENO’s new staging abandons Puccini’s realism for baffling and near-constant violence",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_116",
+      "headline": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_126",
+      "headline": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_131",
+      "headline": "Burnham ‘open’ to UK slavery apology, but not reparations: Why now?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_132",
+      "headline": "Two New Poetry Collections Lean Into the Ecstatic",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_135",
+      "headline": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_136",
+      "headline": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_137",
+      "headline": "‘In the Heights’ Review: An Exuberant Revival of Lin-Manuel Miranda’s Musical",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_138",
+      "headline": "Trump slams ex-lawyer’s $50m deal with pardoned banker’s family",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_139",
+      "headline": "Al Jazeera Balkans relaunches in new digital-first format",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_140",
+      "headline": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_141",
+      "headline": "Russia detains minor over alleged Moscow attack plot after US warning",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_145",
+      "headline": "India protesters march with 1km banner of deleted voters’ names",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_146",
+      "headline": "Bangladesh workers clash with police in protests over low pay",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_148",
+      "headline": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_149",
+      "headline": "24 Off Broadway Shows to Catch This November",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_152",
+      "headline": "‘S.N.L.’ Plays Trick-or-Treat When Trump Interrupts David S. Pumpkins",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_155",
+      "headline": "Cannibalism Novels With a Feminist Twist",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_156",
+      "headline": "Inside Heidi Klum’s 2026 Halloween Party: See All the Wacky Costumes",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_161",
+      "headline": "Juan Atkins, pioneer of Detroit techno sound, dies aged 64",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_166",
+      "headline": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_169",
+      "headline": "Arsenal go top after narrow win at Liverpool",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_171",
+      "headline": "For Harry Styles and His Fans, a ‘Harryween’ Farewell to New York",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_172",
+      "headline": "Video captures house collapsing due to Ecuador floods",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_175",
+      "headline": "Al Jazeera celebrates 30th anniversary",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_177",
+      "headline": "Police clash with housing crisis protesters in Portugal",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_178",
+      "headline": "Bulgaria’s acting President Iotova leads in run-off exit polls",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_179",
+      "headline": "Al Jazeera Director General hails 30 years of groundbreaking news",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_181",
+      "headline": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_023",
+      "headline": "Judge orders Trump administration to stop threatening US election officials",
+      "selection_score": -5,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_134",
+      "headline": "Serbia arrests police chief over abuse of office allegations",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_001",
+      "headline": "Em-Estudio lines Mexico City bar with walls of books",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_007",
+      "headline": "Konya Square Houses and Bicycle Museum Extension / Yalin Architectural Design",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_048",
+      "headline": "KOI Restaurant / SOA Architekti",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_049",
+      "headline": "Scrapped marine rope recast as stools that rock like buoys",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_057",
+      "headline": "Beyond Affordable Housing: Integrating Civic Infrastructure in US Mixed-Use Developments",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_060",
+      "headline": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_064",
+      "headline": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_066",
+      "headline": "U-shaped store / MANERA",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_072",
+      "headline": "Escola Sant Ignasi-Jesuïtes de Sarrià / Aquidos",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_073",
+      "headline": "Dezeen's favourite furniture and homeware from October",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_094",
+      "headline": "Tiered immigration hub by Aedas opens at Shenzhen-Hong Kong border",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_123",
+      "headline": "The House of Courtyards / Studio VDGA",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_130",
+      "headline": "Hotel Casa Cuenca / Taller Ivan Esqueda + Gala Sánchez-Renero Estudio + Mara Sánchez-Renero",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_035",
+      "headline": "Thousands join Indian opposition protest demanding poll chief's resignation - Reuters",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_019",
+      "headline": "How Binance’s $6.3 Billion Hack Went Down",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_098",
+      "headline": "Like many authors, I’m bombarded by scam fan mail. I wasn’t prepared for what would happen when I wrote back",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_147",
+      "headline": "Why This Playwright Can’t Quit His Family of Anxious Liberals",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261102_evt_013",
+      "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "selection_score": 8,
+      "drop_reason": "total_limit_reached"
+    }
+  ]
+}
