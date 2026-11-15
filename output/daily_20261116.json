@@ -1,0 +1,1873 @@
+{
+  "reportId": "daily_20261116",
+  "date": "2026-11-16",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-11-16T05:20:59.884536+08:00",
+  "status": "ok",
+  "warnings": [],
+  "sections": [
+    {
+      "beat": "INTL",
+      "title": "國際大事",
+      "emoji": "🌍",
+      "items": [
+        {
+          "event_id": "daily_20261116_evt_135",
+          "headline": "教宗秘魯行進入尾聲",
+          "context": "教宗良（Pope Leo）這趟拉丁美洲行程已經進入第12天，也是倒數第二天，途中他搭乘直升機前往庫斯科（Cusco）。他在秘魯走訪了亞馬遜與安地斯地區，呼籲保存當地原住民傳統。",
+          "beat": "INTL",
+          "thread_text": "教宗良（Pope Leo）這趟拉丁美洲行程已經進入第12天，也是倒數第二天，途中他搭乘直升機前往庫斯科（Cusco）。他在秘魯走訪了亞馬遜與安地斯地區，呼籲保存當地原住民傳統。",
+          "threads_text": "教宗良（Pope Leo）這趟拉丁美洲行程已經進入第12天，也是倒數第二天，途中他搭乘直升機前往庫斯科（Cusco）。\n\n他在秘魯走訪了亞馬遜與安地斯地區，呼籲保存當地原住民傳統。",
+          "voice_text": "教宗良的拉丁美洲行程走到了第12天，也是倒數第二天。他搭直升機飛往秘魯的庫斯科。這趟行程裡，他也走訪了秘魯的亞馬遜與安地斯地區，呼籲保存當地原住民傳統。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "教宗良（Pope Leo）這趟拉丁美洲行程已經進入第12天，也是倒數第二天，途中他搭乘直升機前往庫斯科（Cusco）。他在秘魯走訪了亞馬遜與安地斯地區，呼籲保存當地原住民傳統。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "教宗良（Pope Leo）這趟拉丁美洲行程已經進入第12天，也是倒數第二天，途中他搭乘直升機前往庫斯科（Cusco）。\n\n他在秘魯走訪了亞馬遜與安地斯地區，呼籲保存當地原住民傳統。"
+              ]
+            },
+            "voice": {
+              "text": "教宗良的拉丁美洲行程走到了第12天，也是倒數第二天。他搭直升機飛往秘魯的庫斯科。這趟行程裡，他也走訪了秘魯的亞馬遜與安地斯地區，呼籲保存當地原住民傳統。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+              "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+              "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-16T02:38:11+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
+              "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+              "url": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
+              "published_at": "2026-11-16T04:54:13+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "教宗在拉丁美洲12天行程的倒數第二天搭直升機前往庫斯科",
+              "source_id": "bbc_world",
+              "source_title": "Pope Leo rides in helicopter cockpit during Peru trip",
+              "source_url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "教宗在秘魯走訪亞馬遜與安地斯地區並呼籲保存原住民傳統",
+              "source_id": "aljazeera_all",
+              "source_title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+              "source_url": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261116_evt_116",
+          "headline": "愛沙尼亞將關閉俄國邊境",
+          "context": "愛沙尼亞一家無人機製造商遭人縱火未遂，警方已逮捕8人。愛沙尼亞政府說，這起縱火是俄羅斯情報機構下令的，因此決定關閉與俄羅斯之間的邊境口岸。",
+          "beat": "INTL",
+          "thread_text": "愛沙尼亞一家無人機製造商遭人縱火未遂，警方已逮捕8人。愛沙尼亞政府說，這起縱火是俄羅斯情報機構下令的，因此決定關閉與俄羅斯之間的邊境口岸。",
+          "threads_text": "愛沙尼亞一家無人機製造商遭人縱火未遂，警方已逮捕8人。\n\n愛沙尼亞政府說，這起縱火是俄羅斯情報機構下令的，因此決定關閉與俄羅斯之間的邊境口岸。",
+          "voice_text": "愛沙尼亞打算關閉跟俄羅斯之間的邊境口岸。原因是一家無人機工廠遭人縱火未遂。警方已經逮捕8人。愛沙尼亞政府說，這起縱火是俄羅斯情報機構下令的。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "愛沙尼亞一家無人機製造商遭人縱火未遂，警方已逮捕8人。愛沙尼亞政府說，這起縱火是俄羅斯情報機構下令的，因此決定關閉與俄羅斯之間的邊境口岸。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "愛沙尼亞一家無人機製造商遭人縱火未遂，警方已逮捕8人。\n\n愛沙尼亞政府說，這起縱火是俄羅斯情報機構下令的，因此決定關閉與俄羅斯之間的邊境口岸。"
+              ]
+            },
+            "voice": {
+              "text": "愛沙尼亞打算關閉跟俄羅斯之間的邊境口岸。原因是一家無人機工廠遭人縱火未遂。警方已經逮捕8人。愛沙尼亞政府說，這起縱火是俄羅斯情報機構下令的。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Estonia to close Russian border crossings after attempted arson attack Reuters",
+              "title": "Estonia to close Russian border crossings after attempted arson attack - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5",
+              "published_at": "2026-11-16T00:10:10+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.",
+              "title": "Estonia to close border crossings with Russia after attack on drone maker",
+              "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
+              "published_at": "2026-11-16T02:07:02+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "愛沙尼亞一家無人機製造商遭縱火未遂，已有8人被捕",
+              "source_id": "aljazeera_all",
+              "source_title": "Estonia to close border crossings with Russia after attack on drone maker",
+              "source_url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "愛沙尼亞政府表示縱火是俄羅斯情報機構下令",
+              "source_id": "aljazeera_all",
+              "source_title": "Estonia to close border crossings with Russia after attack on drone maker",
+              "source_url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "愛沙尼亞將關閉與俄羅斯的邊境口岸",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Estonia to close Russian border crossings after attempted arson attack - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261116_evt_064",
+          "headline": "約旦教堂槍擊案三人判死",
+          "context": "約旦一座東正教教堂上個月辦喪禮時遭到槍擊，造成9人死亡、34人受傷，案發地點在南部城市卡拉克（Karak）。約旦法院這星期對三名涉案男子判處死刑。",
+          "beat": "INTL",
+          "thread_text": "約旦一座東正教教堂上個月辦喪禮時遭到槍擊，造成9人死亡、34人受傷，案發地點在南部城市卡拉克（Karak）。約旦法院這星期對三名涉案男子判處死刑。",
+          "threads_text": "約旦一座東正教教堂上個月辦喪禮時遭到槍擊，造成9人死亡、34人受傷，案發地點在南部城市卡拉克（Karak）。\n\n約旦法院這星期對三名涉案男子判處死刑。",
+          "voice_text": "約旦這星期對三名男子判了死刑。他們被控在上個月的教堂槍擊案中犯案。那場槍擊發生在一場喪禮上，地點在南部城市卡拉克。9人死亡，34人受傷。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "約旦一座東正教教堂上個月辦喪禮時遭到槍擊，造成9人死亡、34人受傷，案發地點在南部城市卡拉克（Karak）。約旦法院這星期對三名涉案男子判處死刑。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "約旦一座東正教教堂上個月辦喪禮時遭到槍擊，造成9人死亡、34人受傷，案發地點在南部城市卡拉克（Karak）。\n\n約旦法院這星期對三名涉案男子判處死刑。"
+              ]
+            },
+            "voice": {
+              "text": "約旦這星期對三名男子判了死刑。他們被控在上個月的教堂槍擊案中犯案。那場槍擊發生在一場喪禮上，地點在南部城市卡拉克。9人死亡，34人受傷。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Jordan sentences three men to death over deadly church attack Reuters",
+              "title": "Jordan sentences three men to death over deadly church attack - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW5qZzl5QmYwRkpOaUNfQlVXU1FOdEhVX0RUWEtsYjU5a3ZfWEJGS3R4MjVRYlVha3ZrcWpnQVV1SHQ0c09qY0V2U2RscnZUNjlaVjUwYW1GN2pfMjNHNE1LemRjUEZTSGlQY3JhcUNFTjhOYlNDZkVQTzFVbHZ1elgzX01md3BoRG0tam4zVEFha2tnUjU5TlllRmtrb09PMHFQVFZmNXNWSm9wTVRPYUFn?oc=5",
+              "published_at": "2026-11-15T18:51:43+08:00"
+            },
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+              "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+              "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-15T19:06:32+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "Jordan sentences three men to death over deadly church attack in Karak",
+              "title": "Jordan sentences three men to death over deadly church attack in Karak",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
+              "published_at": "2026-11-16T04:12:38+08:00"
+            }
+          ],
+          "source_count": 3,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "約旦一座東正教教堂上個月辦喪禮時遭槍擊，造成9人死亡、34人受傷",
+              "source_id": "bbc_world",
+              "source_title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+              "source_url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "案發地點在南部城市卡拉克（Karak）",
+              "source_id": "aljazeera_all",
+              "source_title": "Jordan sentences three men to death over deadly church attack in Karak",
+              "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "約旦法院對三名涉案男子判處死刑",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Jordan sentences three men to death over deadly church attack - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSW5qZzl5QmYwRkpOaUNfQlVXU1FOdEhVX0RUWEtsYjU5a3ZfWEJGS3R4MjVRYlVha3ZrcWpnQVV1SHQ0c09qY0V2U2RscnZUNjlaVjUwYW1GN2pfMjNHNE1LemRjUEZTSGlQY3JhcUNFTjhOYlNDZkVQTzFVbHZ1elgzX01md3BoRG0tam4zVEFha2tnUjU5TlllRmtrb09PMHFQVFZmNXNWSm9wTVRPYUFn?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261116_evt_084",
+          "headline": "近1500移民抵加那利群島",
+          "context": "西班牙的加那利群島（Canary Islands），一天之內抵達了近1500名移民。這座群島位於非洲西北外海，是不少人從非洲前往歐洲常走的海上路線之一。",
+          "beat": "INTL",
+          "thread_text": "西班牙的加那利群島（Canary Islands），一天之內抵達了近1500名移民。這座群島位於非洲西北外海，是不少人從非洲前往歐洲常走的海上路線之一。",
+          "threads_text": "西班牙的加那利群島（Canary Islands），一天之內抵達了近1500名移民。\n\n這座群島位於非洲西北外海，是不少人從非洲前往歐洲常走的海上路線之一。",
+          "voice_text": "西班牙的加那利群島，一天湧入近1500名移民。這座群島在非洲西北外海，是許多人從非洲前往歐洲常走的海路。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "西班牙的加那利群島（Canary Islands），一天之內抵達了近1500名移民。這座群島位於非洲西北外海，是不少人從非洲前往歐洲常走的海上路線之一。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "西班牙的加那利群島（Canary Islands），一天之內抵達了近1500名移民。\n\n這座群島位於非洲西北外海，是不少人從非洲前往歐洲常走的海上路線之一。"
+              ]
+            },
+            "voice": {
+              "text": "西班牙的加那利群島，一天湧入近1500名移民。這座群島在非洲西北外海，是許多人從非洲前往歐洲常走的海路。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Nearly 1,500 migrants arrive in Canary Islands in one day Reuters",
+              "title": "Nearly 1,500 migrants arrive in Canary Islands in one day - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNV80Q09DeEFLU2dxNDdvQTZZeWkyQkVmZUoxbEpNY2RHTHJhY2ZpRTRxT1N4QXFZaGNmWWdOV0thQ3ZLdml4cmpDdmZVTElvaWdGTG1JZUNnNUJFMFZuS2pDYTRDNEd0LUV3eUc5ZlVSU3ZmelZWT28yQm9OOF9zeXdKbnN5bWtrWURSNV9TSGhyOXN1c2J1RWhVV05MTV9o?oc=5",
+              "published_at": "2026-11-15T20:09:19+08:00"
+            },
+            {
+              "source_id": "aljazeera_all",
+              "name": "Al Jazeera",
+              "publisher": "Al Jazeera",
+              "summary": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+              "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+              "published_at": "2026-11-16T01:39:23+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "西班牙的加那利群島一天之內抵達了近1500名移民",
+              "source_id": "aljazeera_all",
+              "source_title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+              "source_url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "近1500名移民一天內抵達加那利群島",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Nearly 1,500 migrants arrive in Canary Islands in one day - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNV80Q09DeEFLU2dxNDdvQTZZeWkyQkVmZUoxbEpNY2RHTHJhY2ZpRTRxT1N4QXFZaGNmWWdOV0thQ3ZLdml4cmpDdmZVTElvaWdGTG1JZUNnNUJFMFZuS2pDYTRDNEd0LUV3eUc5ZlVSU3ZmelZWT28yQm9OOF9zeXdKbnN5bWtrWURSNV9TSGhyOXN1c2J1RWhVV05MTV9o?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 53,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1; source_tier_2"
+        },
+        {
+          "event_id": "daily_20261116_evt_003",
+          "headline": "紐奧良油輪撞翻遊輪",
+          "context": "美國紐奧良（New Orleans）11月13日，一艘油輪撞上停靠中的遊輪，造成遊輪翻覆，約130人獲救。美國國家運輸安全委員會（NTSB）已經從油輪上取出了資料記錄器。",
+          "beat": "INTL",
+          "thread_text": "美國紐奧良（New Orleans）11月13日，一艘油輪撞上停靠中的遊輪，造成遊輪翻覆，約130人獲救。美國國家運輸安全委員會（NTSB）已經從油輪上取出了資料記錄器。",
+          "threads_text": "美國紐奧良（New Orleans）11月13日，一艘油輪撞上停靠中的遊輪，造成遊輪翻覆，約130人獲救。\n\n美國國家運輸安全委員會（NTSB）已經從油輪上取出了資料記錄器。",
+          "voice_text": "美國紐奧良11月13日發生船撞船意外。一艘油輪撞上停靠中的遊輪，遊輪整個翻覆，大約130人獲救。美國國家運輸安全委員會已經從油輪上取出了資料記錄器。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美國紐奧良（New Orleans）11月13日，一艘油輪撞上停靠中的遊輪，造成遊輪翻覆，約130人獲救。美國國家運輸安全委員會（NTSB）已經從油輪上取出了資料記錄器。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "美國紐奧良（New Orleans）11月13日，一艘油輪撞上停靠中的遊輪，造成遊輪翻覆，約130人獲救。\n\n美國國家運輸安全委員會（NTSB）已經從油輪上取出了資料記錄器。"
+              ]
+            },
+            "voice": {
+              "text": "美國紐奧良11月13日發生船撞船意外。一艘油輪撞上停靠中的遊輪，遊輪整個翻覆，大約130人獲救。美國國家運輸安全委員會已經從油輪上取出了資料記錄器。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_world",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+              "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+              "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-15T03:14:33+08:00"
+            },
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Data recorder recovered from tanker in New Orleans cruise ship collision, NTSB says Reuters",
+              "title": "Data recorder recovered from tanker in New Orleans cruise ship collision, NTSB says - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDVOVl84WGtvTHZ4WDdMVXE2VWQ3dGE4LXV6LWhGQ1pTZzlUWUt1QXBWOWVsUHpxMHN2LURab2RYdlhmS2xGYm9jZkRTNFhHOGlDd2phUDQyMThBQlV1V3FlUWxIZzU1enBRS1BOUm1QQUVLcnB2ZkJqdTdEdTNTclhQTmM0Z2ZfMUQ2Q0VTSTFhTzJ6QXRHNzZybVRJb292c2RtSC0wWkd5NlFJdl83TmxTVTJpMTFGa1lZ?oc=5",
+              "published_at": "2026-11-15T07:43:43+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "high",
+          "claim_trace": [
+            {
+              "claim": "美國紐奧良11月13日一艘油輪撞上停靠中的遊輪造成遊輪翻覆，約130人獲救",
+              "source_id": "bbc_world",
+              "source_title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+              "source_url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "美國國家運輸安全委員會從油輪上取出資料記錄器",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Data recorder recovered from tanker in New Orleans cruise ship collision, NTSB says - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDVOVl84WGtvTHZ4WDdMVXE2VWQ3dGE4LXV6LWhGQ1pTZzlUWUt1QXBWOWVsUHpxMHN2LURab2RYdlhmS2xGYm9jZkRTNFhHOGlDd2phUDQyMThBQlV1V3FlUWxIZzU1enBRS1BOUm1QQUVLcnB2ZkJqdTdEdTNTclhQTmM0Z2ZfMUQ2Q0VTSTFhTzJ6QXRHNzZybVRJb292c2RtSC0wWkd5NlFJdl83TmxTVTJpMTFGa1lZ?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 45,
+          "opinion_level": "none",
+          "selection_reason": "multi_source_confirmed; source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "ARTS",
+      "title": "八大藝術",
+      "emoji": "🎭",
+      "items": [
+        {
+          "event_id": "daily_20261116_evt_002",
+          "headline": "首屆亞洲歐洲歌唱賽菲律賓奪冠",
+          "context": "首屆「亞洲歐洲歌唱大賽」（Eurovision Asia）11月14日晚間在泰國曼谷舉行總決賽，共有11個國家參賽。19歲的菲律賓代表卡蜜兒·柯拉多（Carmelle Collado），以流行饒舌歌曲《Sobra-Sobra》奪冠。這場比賽辦在歐洲歌唱大賽首次登場70年後。",
+          "beat": "ARTS",
+          "thread_text": "首屆「亞洲歐洲歌唱大賽」（Eurovision Asia）11月14日晚間在泰國曼谷舉行總決賽，共有11個國家參賽。19歲的菲律賓代表卡蜜兒·柯拉多（Carmelle Collado），以流行饒舌歌曲《Sobra-Sobra》奪冠。這場比賽辦在歐洲歌唱大賽首次登場70年後。",
+          "threads_text": "首屆「亞洲歐洲歌唱大賽」（Eurovision Asia）11月14日晚間在泰國曼谷舉行總決賽，共有11個國家參賽。\n\n19歲的菲律賓代表卡蜜兒·柯拉多（Carmelle Collado），以流行饒舌歌曲《Sobra-Sobra》奪冠。這場比賽辦在歐洲歌唱大賽首次登場70年後。",
+          "voice_text": "亞洲版歐洲歌唱大賽，第一屆冠軍是菲律賓。19歲的卡蜜兒·柯拉多，靠流行饒舌歌曲《Sobra-Sobra》奪冠。決賽11月14日晚間在泰國曼谷舉行，一共有11個國家參賽。這場比賽辦在歐洲歌唱大賽首次登場的70年後。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "首屆「亞洲歐洲歌唱大賽」（Eurovision Asia）11月14日晚間在泰國曼谷舉行總決賽，共有11個國家參賽。19歲的菲律賓代表卡蜜兒·柯拉多（Carmelle Collado），以流行饒舌歌曲《Sobra-Sobra》奪冠。這場比賽辦在歐洲歌唱大賽首次登場70年後。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "首屆「亞洲歐洲歌唱大賽」（Eurovision Asia）11月14日晚間在泰國曼谷舉行總決賽，共有11個國家參賽。\n\n19歲的菲律賓代表卡蜜兒·柯拉多（Carmelle Collado），以流行饒舌歌曲《Sobra-Sobra》奪冠。這場比賽辦在歐洲歌唱大賽首次登場70年後。"
+              ]
+            },
+            "voice": {
+              "text": "亞洲版歐洲歌唱大賽，第一屆冠軍是菲律賓。19歲的卡蜜兒·柯拉多，靠流行饒舌歌曲《Sobra-Sobra》奪冠。決賽11月14日晚間在泰國曼谷舉行，一共有11個國家參賽。這場比賽辦在歐洲歌唱大賽首次登場的70年後。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_music",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside Europe. Eleven countries competed at the One Bangkok Forum in central Bangkok, and the show ran for two and a half hours including advertising. Continue reading...",
+              "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+              "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+              "published_at": "2026-11-15T03:01:32+08:00"
+            },
+            {
+              "source_id": "guardian_art_design",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "The best photographs from the first Eurovision Asia, held in Bangkok, Thailand. Artists from 11 countries competed in the inaugural Asian edition of the contest, staged 70 years after the original Eurovision song contest made its debut Philippines’ Carmelle wins first Eurovision contest in Asia Continue reading...",
+              "title": "The inaugural Eurovision Asia 2026 – in pictures",
+              "url": "https://www.theguardian.com/tv-and-radio/gallery/2026/nov/15/the-inaugural-eurovision-asia-2026-in-pictures",
+              "published_at": "2026-11-15T08:39:15+08:00"
+            }
+          ],
+          "source_count": 2,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "19歲的菲律賓代表卡蜜兒·柯拉多以《Sobra-Sobra》在曼谷總決賽奪得首屆亞洲歐洲歌唱大賽冠軍",
+              "source_id": "guardian_music",
+              "source_title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+              "source_url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+              "support_type": "direct"
+            },
+            {
+              "claim": "共有11個國家參賽，比賽辦在歐洲歌唱大賽首次登場70年後",
+              "source_id": "guardian_art_design",
+              "source_title": "The inaugural Eurovision Asia 2026 – in pictures",
+              "source_url": "https://www.theguardian.com/tv-and-radio/gallery/2026/nov/15/the-inaugural-eurovision-asia-2026-in-pictures",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "音樂",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261116_evt_081",
+          "headline": "海史密斯晚年真實樣貌",
+          "context": "一部由海倫·米蘭（Helen Mirren）主演的新片，探討了犯罪小說家派翠西亞·海史密斯（Patricia Highsmith）晚年的生活，並問她是否真的像傳聞中那樣粗魯難相處。認識她的編輯與出版人，紛紛出面回憶往事。其中出版人奧托·潘澤勒（Otto Penzler）說，他一直很喜歡海史密斯的作品，但兩人第一次見面卻是一場空。",
+          "beat": "ARTS",
+          "thread_text": "一部由海倫·米蘭（Helen Mirren）主演的新片，探討了犯罪小說家派翠西亞·海史密斯（Patricia Highsmith）晚年的生活，並問她是否真的像傳聞中那樣粗魯難相處。認識她的編輯與出版人，紛紛出面回憶往事。其中出版人奧托·潘澤勒（Otto Penzler）說，他一直很喜歡海史密斯的作品，但兩人第一次見面卻是一場空。",
+          "threads_text": "一部由海倫·米蘭（Helen Mirren）主演的新片，探討了犯罪小說家派翠西亞·海史密斯（Patricia Highsmith）晚年的生活，並問她是否真的像傳聞中那樣粗魯難相處。認識她的編輯與出版人，紛紛出面回憶往事。\n\n其中出版人奧托·潘澤勒（Otto Penzler）說，他一直很喜歡海史密斯的作品，但兩人第一次見面卻是一場空。",
+          "voice_text": "派翠西亞·海史密斯晚年的生活，被拍成了一部新片，由海倫·米蘭主演。她寫出了《Ripley》系列，常被說成粗魯難相處，新片正是想問這件事是不是真的。認識她的編輯跟出版人，紛紛出面回憶往事。一位出版人說，他很喜歡她的作品，但兩人第一次見面卻不歡而散。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "一部由海倫·米蘭（Helen Mirren）主演的新片，探討了犯罪小說家派翠西亞·海史密斯（Patricia Highsmith）晚年的生活，並問她是否真的像傳聞中那樣粗魯難相處。認識她的編輯與出版人，紛紛出面回憶往事。其中出版人奧托·潘澤勒（Otto Penzler）說，他一直很喜歡海史密斯的作品，但兩人第一次見面卻是一場空。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "一部由海倫·米蘭（Helen Mirren）主演的新片，探討了犯罪小說家派翠西亞·海史密斯（Patricia Highsmith）晚年的生活，並問她是否真的像傳聞中那樣粗魯難相處。認識她的編輯與出版人，紛紛出面回憶往事。\n\n其中出版人奧托·潘澤勒（Otto Penzler）說，他一直很喜歡海史密斯的作品，但兩人第一次見面卻是一場空。"
+              ]
+            },
+            "voice": {
+              "text": "派翠西亞·海史密斯晚年的生活，被拍成了一部新片，由海倫·米蘭主演。她寫出了《Ripley》系列，常被說成粗魯難相處，新片正是想問這件事是不是真的。認識她的編輯跟出版人，紛紛出面回憶往事。一位出版人說，他很喜歡她的作品，但兩人第一次見面卻不歡而散。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_books",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "A new film starring Helen Mirren explores the Ripley writer’s later years, but was she really so rude and eccentric? Editors and publishers who worked with her look back Publisher and bookseller Otto Penzler has loved Patricia Highsmith’s work all his life, but their first meeting was a washout. In 1984, she agreed to give a reading at The Mysterious Bookshop, his store on West 56th Street in New York. The American author of the Ripley novels, then 63, had lived in Europe for 20 years – in England, then France, then Switzerland – and seldom made public appearances, so he had high hopes. “But no one showed up. We had maybe four people,” Penzler says from his book-lined office under the shop. Now 84, with a tidy white beard and a warm, amused manner, he is just back from a crime fiction convention and still very much in the game. Highsmith, he recalls, had little time for her readers. “She was somewhat taciturn. People got their book signed and left within five minutes. I had a two-hour event scheduled, so what does one do? With some authors, I can say, ‘Let me buy you dinner.’ Well, not with Pat.” She stonewalled his small talk about France with an “I can’t stand the bloody frogs”. Continue reading...",
+              "title": "‘She was a monster’: the real Patricia Highsmith, by the people who knew her",
+              "url": "https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her",
+              "published_at": "2026-11-15T20:00:12+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "一部由海倫·米蘭主演的新片，探討犯罪小說家派翠西亞·海史密斯晚年的生活，並討論她是否真的粗魯難相處",
+              "source_id": "guardian_books",
+              "source_title": "‘She was a monster’: the real Patricia Highsmith, by the people who knew her",
+              "source_url": "https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her",
+              "support_type": "direct"
+            },
+            {
+              "claim": "出版人奧托·潘澤勒說他一直喜歡海史密斯的作品，但兩人第一次見面卻是一場空",
+              "source_id": "guardian_books",
+              "source_title": "‘She was a monster’: the real Patricia Highsmith, by the people who knew her",
+              "source_url": "https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "文學",
+          "single_source_warning": true,
+          "opinion_level": "light_context",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261116_evt_068",
+          "headline": "芭黎絲帕洛瑪演出獲好評",
+          "context": "英國歌手芭黎絲·帕洛瑪（Paris Paloma）在布里斯托燈塔音樂廳（Bristol Beacon）開唱，樂評形容這場演出是具有女性主義怒氣、又好聽好記的另類流行大戲。樂評認為她正走向更大的舞台。",
+          "beat": "ARTS",
+          "thread_text": "英國歌手芭黎絲·帕洛瑪（Paris Paloma）在布里斯托燈塔音樂廳（Bristol Beacon）開唱，樂評形容這場演出是具有女性主義怒氣、又好聽好記的另類流行大戲。樂評認為她正走向更大的舞台。",
+          "threads_text": "英國歌手芭黎絲·帕洛瑪（Paris Paloma）在布里斯托燈塔音樂廳（Bristol Beacon）開唱，樂評形容這場演出是具有女性主義怒氣、又好聽好記的另類流行大戲。\n\n樂評認為她正走向更大的舞台。",
+          "voice_text": "有樂評說，英國歌手芭黎絲·帕洛瑪正走向更大的舞台。她在布里斯托的演唱會，被形容是帶著女性主義怒氣、又好聽好記的另類流行大戲。現場歌迷戴著花環，跟著她又跳又唱。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "英國歌手芭黎絲·帕洛瑪（Paris Paloma）在布里斯托燈塔音樂廳（Bristol Beacon）開唱，樂評形容這場演出是具有女性主義怒氣、又好聽好記的另類流行大戲。樂評認為她正走向更大的舞台。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "英國歌手芭黎絲·帕洛瑪（Paris Paloma）在布里斯托燈塔音樂廳（Bristol Beacon）開唱，樂評形容這場演出是具有女性主義怒氣、又好聽好記的另類流行大戲。\n\n樂評認為她正走向更大的舞台。"
+              ]
+            },
+            "voice": {
+              "text": "有樂評說，英國歌手芭黎絲·帕洛瑪正走向更大的舞台。她在布里斯托的演唱會，被形容是帶著女性主義怒氣、又好聽好記的另類流行大戲。現場歌迷戴著花環，跟著她又跳又唱。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_music",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "Bristol Beacon The UK artist combines feminist fury with accessible melodies and a dramatic flair that sees her alternately pogoing and seeking out the wind machines at the prow of the stage People are dancing to a song they don’t know, with flower garlands in their hair and their arms around their friends. This reaction to Fairy Dance, an unreleased track written about the community that has sprung up around her music, says a lot about the moment Paris Paloma finds herself in, and tonight’s show feels for all the world like a stepping stone to bigger things. Throughout, Paloma leans in to the built-in drama of songs from her second album, The Fatal Flaw, which pairs ornate folk arrangements with the sort of arena-sized alt-pop production favoured by Florence + the Machine. With a sculpture inspired by surrealist Ithell Colquhoun ’s Tree of Veins dominating the stage, she falls to her knees to deliver high notes and seeks out wind machines at the prow of the stage, her flowing crimson dress buffeted as if on a wintry moor. Continue reading...",
+              "title": "Paris Paloma review – arena-scale alt-pop drama from a singer on her way to bigger things",
+              "url": "https://www.theguardian.com/music/2026/nov/15/paris-paloma-review-bristol-beacon",
+              "published_at": "2026-11-15T19:13:31+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "low",
+          "claim_trace": [
+            {
+              "claim": "樂評形容英國歌手芭黎絲·帕洛瑪在布里斯托燈塔音樂廳的演出，是具女性主義怒氣又好聽好記的另類流行大戲，認為她正走向更大的舞台",
+              "source_id": "guardian_music",
+              "source_title": "Paris Paloma review – arena-scale alt-pop drama from a singer on her way to bigger things",
+              "source_url": "https://www.theguardian.com/music/2026/nov/15/paris-paloma-review-bristol-beacon",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "音樂",
+          "single_source_warning": true,
+          "opinion_level": "explicit_commentary",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261116_evt_070",
+          "headline": "瑪麗卡薩特特展重現地位",
+          "context": "美國畫家瑪麗·卡薩特（Mary Cassatt）是19世紀印象派運動的核心人物之一，曾與竇加（Edgar Degas）合作，和莫內（Claude Monet）、畢沙羅（Camille Pissarro）等印象派畫家一同展出，但長期被忽略。一場新展覽，正把她的地位重新找回來。",
+          "beat": "ARTS",
+          "thread_text": "美國畫家瑪麗·卡薩特（Mary Cassatt）是19世紀印象派運動的核心人物之一，曾與竇加（Edgar Degas）合作，和莫內（Claude Monet）、畢沙羅（Camille Pissarro）等印象派畫家一同展出，但長期被忽略。一場新展覽，正把她的地位重新找回來。",
+          "threads_text": "美國畫家瑪麗·卡薩特（Mary Cassatt）是19世紀印象派運動的核心人物之一，曾與竇加（Edgar Degas）合作，和莫內（Claude Monet）、畢沙羅（Camille Pissarro）等印象派畫家一同展出，但長期被忽略。\n\n一場新展覽，正把她的地位重新找回來。",
+          "voice_text": "有一場新展覽，要把美國畫家瑪麗·卡薩特的地位找回來。她是19世紀印象派運動的核心人物之一。曾跟竇加合作，也跟莫內、畢沙羅等印象派畫家一起展出過。但她長期以來被忽略。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美國畫家瑪麗·卡薩特（Mary Cassatt）是19世紀印象派運動的核心人物之一，曾與竇加（Edgar Degas）合作，和莫內（Claude Monet）、畢沙羅（Camille Pissarro）等印象派畫家一同展出，但長期被忽略。一場新展覽，正把她的地位重新找回來。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "美國畫家瑪麗·卡薩特（Mary Cassatt）是19世紀印象派運動的核心人物之一，曾與竇加（Edgar Degas）合作，和莫內（Claude Monet）、畢沙羅（Camille Pissarro）等印象派畫家一同展出，但長期被忽略。\n\n一場新展覽，正把她的地位重新找回來。"
+              ]
+            },
+            "voice": {
+              "text": "有一場新展覽，要把美國畫家瑪麗·卡薩特的地位找回來。她是19世紀印象派運動的核心人物之一。曾跟竇加合作，也跟莫內、畢沙羅等印象派畫家一起展出過。但她長期以來被忽略。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "guardian_art_design",
+              "name": "The Guardian",
+              "publisher": "The Guardian",
+              "summary": "New exhibition restores painter’s place as leading figure in French movement that revolutionised art As a painter, friend, and collaborator of Edgar Degas, who exhibited with impressionist artists including Claude Monet and Camille Pissarro, Mary Cassatt was at the heart of the 19th-century movement that emerged in France and revolutionised art. She was also a woman and foreign – “American, American through and through” is how she described herself. As a result, in the 100 years since her death, Cassatt has been frequently overlooked in the country where she produced her best work. Continue reading...",
+              "title": "Reclaiming Mary Cassatt: putting overlooked American artist back at heart of impressionism",
+              "url": "https://www.theguardian.com/artanddesign/2026/nov/15/reclaiming-mary-cassatt-putting-overlooked-american-artist-back-at-heart-of-impressionism",
+              "published_at": "2026-11-15T19:29:58+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "美國畫家瑪麗·卡薩特是19世紀印象派核心人物，曾與竇加合作並跟莫內、畢沙羅等人一同展出，但長期被忽略，新展覽重現她的地位",
+              "source_id": "guardian_art_design",
+              "source_title": "Reclaiming Mary Cassatt: putting overlooked American artist back at heart of impressionism",
+              "source_url": "https://www.theguardian.com/artanddesign/2026/nov/15/reclaiming-mary-cassatt-putting-overlooked-american-artist-back-at-heart-of-impressionism",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "sub_beat": "視覺藝術",
+          "single_source_warning": true,
+          "opinion_level": "light_context",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    },
+    {
+      "beat": "AI",
+      "title": "AI 新知",
+      "emoji": "🤖",
+      "items": [
+        {
+          "event_id": "daily_20261116_evt_102",
+          "headline": "輝達醜聞再添共諜疑雲",
+          "context": "輝達（Nvidia）牽涉的一起風波持續延燒，案件讓外界質疑先進AI晶片是否在美國出口限制下，仍流入了中國。晶片公司Megaspeed表示，一名被懷疑是中國間諜、與輝達某位前主管有關的人士，已於2025年離職。",
+          "beat": "AI",
+          "thread_text": "輝達（Nvidia）牽涉的一起風波持續延燒，案件讓外界質疑先進AI晶片是否在美國出口限制下，仍流入了中國。晶片公司Megaspeed表示，一名被懷疑是中國間諜、與輝達某位前主管有關的人士，已於2025年離職。",
+          "threads_text": "輝達（Nvidia）牽涉的一起風波持續延燒，案件讓外界質疑先進AI晶片是否在美國出口限制下，仍流入了中國。\n\n晶片公司Megaspeed表示，一名被懷疑是中國間諜、與輝達某位前主管有關的人士，已於2025年離職。",
+          "voice_text": "輝達的一起風波還在延燒。有一名被懷疑是中國間諜的人士，跟輝達一位前主管有關聯。根據Megaspeed的說法，這個人已經在2025年離職。這起事件讓外界擔心，先進的AI晶片會不會在美國出口限制下，還是流入了中國。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "輝達（Nvidia）牽涉的一起風波持續延燒，案件讓外界質疑先進AI晶片是否在美國出口限制下，仍流入了中國。晶片公司Megaspeed表示，一名被懷疑是中國間諜、與輝達某位前主管有關的人士，已於2025年離職。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "輝達（Nvidia）牽涉的一起風波持續延燒，案件讓外界質疑先進AI晶片是否在美國出口限制下，仍流入了中國。\n\n晶片公司Megaspeed表示，一名被懷疑是中國間諜、與輝達某位前主管有關的人士，已於2025年離職。"
+              ]
+            },
+            "voice": {
+              "text": "輝達的一起風波還在延燒。有一名被懷疑是中國間諜的人士，跟輝達一位前主管有關聯。根據Megaspeed的說法，這個人已經在2025年離職。這起事件讓外界擔心，先進的AI晶片會不會在美國出口限制下，還是流入了中國。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_technology",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+              "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+              "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-15T22:56:21+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "一名被懷疑是中國間諜、與輝達一位前主管有關聯的人士，已於2025年離職，Megaspeed表示",
+              "source_id": "bbc_technology",
+              "source_title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+              "source_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            },
+            {
+              "claim": "這起事件讓外界質疑先進AI晶片是否在美國出口限制下仍流入中國",
+              "source_id": "bbc_technology",
+              "source_title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+              "source_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+              "support_type": "background"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261116_evt_093",
+          "headline": "南韓稅務考榜首認作弊",
+          "context": "南韓稅務會計師考試的榜首韓元碩（Han Won-seok，34歲），承認自己用了隱藏式攝影機和AI作弊，才拿到接近滿分的高分。",
+          "beat": "AI",
+          "thread_text": "南韓稅務會計師考試的榜首韓元碩（Han Won-seok，34歲），承認自己用了隱藏式攝影機和AI作弊，才拿到接近滿分的高分。",
+          "threads_text": "南韓稅務會計師考試的榜首韓元碩（Han Won-seok，34歲），承認自己用了隱藏式攝影機和AI作弊，才拿到接近滿分的高分。",
+          "voice_text": "南韓稅務會計師考試的榜首承認作弊。34歲的韓元碩說，他用了藏起來的攝影機和AI，才拿到接近滿分的高分。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "南韓稅務會計師考試的榜首韓元碩（Han Won-seok，34歲），承認自己用了隱藏式攝影機和AI作弊，才拿到接近滿分的高分。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "南韓稅務會計師考試的榜首韓元碩（Han Won-seok，34歲），承認自己用了隱藏式攝影機和AI作弊，才拿到接近滿分的高分。"
+              ]
+            },
+            "voice": {
+              "text": "南韓稅務會計師考試的榜首承認作弊。34歲的韓元碩說，他用了藏起來的攝影機和AI，才拿到接近滿分的高分。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "bbc_technology",
+              "name": "BBC",
+              "publisher": "BBC",
+              "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+              "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+              "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+              "published_at": "2026-11-15T21:37:45+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "34歲的韓元碩承認用隱藏式攝影機和AI在南韓稅務會計師考試中作弊拿到接近滿分的高分",
+              "source_id": "bbc_technology",
+              "source_title": "South Korea's top scorer in tax accountancy exam admits cheating",
+              "source_url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261116_evt_066",
+          "headline": "AI電子雞讓物品變寵物",
+          "context": "美國卡內基美隆大學（Carnegie Mellon）一名學生，做出一款叫OATs的電子墨水小裝置，可以裝在盆栽、滑板、啞鈴等日常物品上，讓這些東西有自己的表情跟個性，提醒使用者養成更好的習慣。",
+          "beat": "AI",
+          "thread_text": "美國卡內基美隆大學（Carnegie Mellon）一名學生，做出一款叫OATs的電子墨水小裝置，可以裝在盆栽、滑板、啞鈴等日常物品上，讓這些東西有自己的表情跟個性，提醒使用者養成更好的習慣。",
+          "threads_text": "美國卡內基美隆大學（Carnegie Mellon）一名學生，做出一款叫OATs的電子墨水小裝置，可以裝在盆栽、滑板、啞鈴等日常物品上，讓這些東西有自己的表情跟個性，提醒使用者養成更好的習慣。",
+          "voice_text": "美國有一名大學生，做出了會讓盆栽、滑板、啞鈴變成寵物的小裝置。這款裝置叫OATs，是電子墨水螢幕做的，裝在日常物品上就會有表情跟個性。提醒使用者養成更好的習慣。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美國卡內基美隆大學（Carnegie Mellon）一名學生，做出一款叫OATs的電子墨水小裝置，可以裝在盆栽、滑板、啞鈴等日常物品上，讓這些東西有自己的表情跟個性，提醒使用者養成更好的習慣。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "美國卡內基美隆大學（Carnegie Mellon）一名學生，做出一款叫OATs的電子墨水小裝置，可以裝在盆栽、滑板、啞鈴等日常物品上，讓這些東西有自己的表情跟個性，提醒使用者養成更好的習慣。"
+              ]
+            },
+            "voice": {
+              "text": "美國有一名大學生，做出了會讓盆栽、滑板、啞鈴變成寵物的小裝置。這款裝置叫OATs，是電子墨水螢幕做的，裝在日常物品上就會有表情跟個性。提醒使用者養成更好的習慣。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "wired_ai",
+              "name": "Wired",
+              "publisher": "Wired",
+              "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+              "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+              "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+              "published_at": "2026-11-15T19:00:00+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "卡內基美隆大學一名學生做出名為OATs的電子墨水裝置，可裝在盆栽、滑板、啞鈴等物品上賦予表情個性，提醒使用者養成更好習慣",
+              "source_id": "wired_ai",
+              "source_title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+              "source_url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2"
+        },
+        {
+          "event_id": "daily_20261116_evt_008",
+          "headline": "馬斯克連署挺黃仁勳回任",
+          "context": "輝達（Nvidia）創辦人黃仁勳（Jensen Huang）的職位引發連署行動，馬斯克（Elon Musk）與其他科技業高層都加入連署，要求輝達讓黃仁勳回任。截至11月14日（週六）下午，連署已經累積超過11.5萬人簽署。",
+          "beat": "AI",
+          "thread_text": "輝達（Nvidia）創辦人黃仁勳（Jensen Huang）的職位引發連署行動，馬斯克（Elon Musk）與其他科技業高層都加入連署，要求輝達讓黃仁勳回任。截至11月14日（週六）下午，連署已經累積超過11.5萬人簽署。",
+          "threads_text": "輝達（Nvidia）創辦人黃仁勳（Jensen Huang）的職位引發連署行動，馬斯克（Elon Musk）與其他科技業高層都加入連署，要求輝達讓黃仁勳回任。\n\n截至11月14日（週六）下午，連署已經累積超過11.5萬人簽署。",
+          "voice_text": "馬斯克跟其他科技業高層，一起連署要輝達讓黃仁勳回任。到11月14日週六下午，這份連署已經超過11.5萬人簽署。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "輝達（Nvidia）創辦人黃仁勳（Jensen Huang）的職位引發連署行動，馬斯克（Elon Musk）與其他科技業高層都加入連署，要求輝達讓黃仁勳回任。截至11月14日（週六）下午，連署已經累積超過11.5萬人簽署。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "輝達（Nvidia）創辦人黃仁勳（Jensen Huang）的職位引發連署行動，馬斯克（Elon Musk）與其他科技業高層都加入連署，要求輝達讓黃仁勳回任。\n\n截至11月14日（週六）下午，連署已經累積超過11.5萬人簽署。"
+              ]
+            },
+            "voice": {
+              "text": "馬斯克跟其他科技業高層，一起連署要輝達讓黃仁勳回任。到11月14日週六下午，這份連署已經超過11.5萬人簽署。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "techcrunch_ai",
+              "name": "TechCrunch",
+              "publisher": "TechCrunch",
+              "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+              "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+              "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+              "published_at": "2026-11-15T05:41:22+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "馬斯克與其他科技業高層連署要求輝達讓黃仁勳回任，截至11月14日週六下午已有超過11.5萬人簽署",
+              "source_id": "techcrunch_ai",
+              "source_title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+              "source_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 8,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_2"
+        }
+      ]
+    },
+    {
+      "beat": "ECON",
+      "title": "全球經濟趨勢",
+      "emoji": "📊",
+      "items": [
+        {
+          "event_id": "daily_20261116_evt_136",
+          "headline": "聯準會官員：通膨仍待努力",
+          "context": "美國堪薩斯城聯邦準備銀行（Kansas City Fed）總裁說，聯準會在通膨問題上「還有工作要做」。堪薩斯城聯邦準備銀行是美國聯邦準備系統下的其中一家地區銀行，總裁本身也會參與利率決策投票。",
+          "beat": "ECON",
+          "thread_text": "美國堪薩斯城聯邦準備銀行（Kansas City Fed）總裁說，聯準會在通膨問題上「還有工作要做」。堪薩斯城聯邦準備銀行是美國聯邦準備系統下的其中一家地區銀行，總裁本身也會參與利率決策投票。",
+          "threads_text": "美國堪薩斯城聯邦準備銀行（Kansas City Fed）總裁說，聯準會在通膨問題上「還有工作要做」。\n\n堪薩斯城聯邦準備銀行是美國聯邦準備系統下的其中一家地區銀行，總裁本身也會參與利率決策投票。",
+          "voice_text": "堪薩斯城聯準銀行總裁說，通膨還有工作要做。這家銀行是美國聯邦準備系統的地區銀行之一，總裁也會參與利率決策投票。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "美國堪薩斯城聯邦準備銀行（Kansas City Fed）總裁說，聯準會在通膨問題上「還有工作要做」。堪薩斯城聯邦準備銀行是美國聯邦準備系統下的其中一家地區銀行，總裁本身也會參與利率決策投票。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "美國堪薩斯城聯邦準備銀行（Kansas City Fed）總裁說，聯準會在通膨問題上「還有工作要做」。\n\n堪薩斯城聯邦準備銀行是美國聯邦準備系統下的其中一家地區銀行，總裁本身也會參與利率決策投票。"
+              ]
+            },
+            "voice": {
+              "text": "堪薩斯城聯準銀行總裁說，通膨還有工作要做。這家銀行是美國聯邦準備系統的地區銀行之一，總裁也會參與利率決策投票。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "reuters_world_google_news",
+              "name": "Reuters",
+              "publisher": "Reuters",
+              "summary": "Fed 'has some work to do on inflation,' KC Fed chief says Reuters",
+              "title": "Fed 'has some work to do on inflation,' KC Fed chief says - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXg3dWdlUEMzckhPaldaYlFrSXlzQnVLeEJLRGtnMFFpeWh5VXI3akUxWEtLQ3JwSk92b2pvWi1FdjNFWVpBZm9Jck56NDUwQkZDUGZpUG01X3RDLS02enpGcWpnXzc3ZWctengxamdOTDY1MzdYMzgxR0V2THk3Zl9xbXZhTEcyWHEzRDU2YWZ2dTZVaFVpNA?oc=5",
+              "published_at": "2026-11-16T02:43:43+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "堪薩斯城聯邦準備銀行總裁表示，聯準會在通膨問題上還有工作要做",
+              "source_id": "reuters_world_google_news",
+              "source_title": "Fed 'has some work to do on inflation,' KC Fed chief says - Reuters",
+              "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXg3dWdlUEMzckhPaldaYlFrSXlzQnVLeEJLRGtnMFFpeWh5VXI3akUxWEtLQ3JwSk92b2pvWi1FdjNFWVpBZm9Jck56NDUwQkZDUGZpUG01X3RDLS02enpGcWpnXzc3ZWctengxamdOTDY1MzdYMzgxR0V2THk3Zl9xbXZhTEcyWHEzRDU2YWZ2dTZVaFVpNA?oc=5",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 35,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1; economy_macro_policy"
+        }
+      ]
+    },
+    {
+      "beat": "PTS_LOCAL",
+      "title": "公視在地新聞",
+      "emoji": "🇹🇼",
+      "items": [
+        {
+          "event_id": "daily_20261116_evt_021",
+          "headline": "蘇巧慧造勢遭撞門牙斷裂",
+          "context": "民進黨新北市長候選人蘇巧慧，11月14日（週六）在新莊的造勢晚會上，準備進場演唱時，被同台表演的神將（大仙尪仔）揮手打到臉，造成門牙斷裂、流血受傷。",
+          "beat": "PTS_LOCAL",
+          "thread_text": "民進黨新北市長候選人蘇巧慧，11月14日（週六）在新莊的造勢晚會上，準備進場演唱時，被同台表演的神將（大仙尪仔）揮手打到臉，造成門牙斷裂、流血受傷。",
+          "threads_text": "民進黨新北市長候選人蘇巧慧，11月14日（週六）在新莊的造勢晚會上，準備進場演唱時，被同台表演的神將（大仙尪仔）揮手打到臉，造成門牙斷裂、流血受傷。",
+          "voice_text": "蘇巧慧造勢時臉部挨撞，門牙斷裂流血。她是民進黨新北市長候選人。11月14日週六，她在新莊的造勢晚會上準備進場演唱。這時被同台表演的神將揮手打到臉。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "民進黨新北市長候選人蘇巧慧，11月14日（週六）在新莊的造勢晚會上，準備進場演唱時，被同台表演的神將（大仙尪仔）揮手打到臉，造成門牙斷裂、流血受傷。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "民進黨新北市長候選人蘇巧慧，11月14日（週六）在新莊的造勢晚會上，準備進場演唱時，被同台表演的神將（大仙尪仔）揮手打到臉，造成門牙斷裂、流血受傷。"
+              ]
+            },
+            "voice": {
+              "text": "蘇巧慧造勢時臉部挨撞，門牙斷裂流血。她是民進黨新北市長候選人。11月14日週六，她在新莊的造勢晚會上準備進場演唱。這時被同台表演的神將揮手打到臉。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "pts_news",
+              "name": "公視",
+              "publisher": "公視",
+              "summary": "民進黨新北市長候選人蘇巧慧，昨（14）日在新莊的造勢晚會上，要進場演唱時，被同台表演的神將（大仙尪仔）的手揮到臉，造成門牙斷裂、受傷流血。",
+              "title": "蘇巧慧造勢表演時遭撞擊 釀門牙斷裂",
+              "url": "https://news.pts.org.tw/article/835780",
+              "published_at": "2026-11-15T11:59:36+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "民進黨新北市長候選人蘇巧慧11月14日在新莊造勢晚會上，被同台表演的神將揮手打到臉，門牙斷裂流血",
+              "source_id": "pts_news",
+              "source_title": "蘇巧慧造勢表演時遭撞擊 釀門牙斷裂",
+              "source_url": "https://news.pts.org.tw/article/835780",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": false,
+          "selection_score": 15,
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        },
+        {
+          "event_id": "daily_20261116_evt_022",
+          "headline": "北市長選戰週末雙星拚場",
+          "context": "九合一選舉進入最後兩週衝刺，台北市長候選人上週末在雨中大拚場。國民黨候選人蔣萬安舉辦「安心大遊行」，藍營重要人士齊聚力挺，主辦單位稱超過8萬人參加。民進黨候選人沈伯洋則在二二八公園舉辦「洋流祭」，邀請獨立樂團開唱，主打年輕選票。",
+          "beat": "PTS_LOCAL",
+          "thread_text": "🇹🇼 台灣相關 ——\n\n九合一選舉進入最後兩週衝刺，台北市長候選人上週末在雨中大拚場。國民黨候選人蔣萬安舉辦「安心大遊行」，藍營重要人士齊聚力挺，主辦單位稱超過8萬人參加。民進黨候選人沈伯洋則在二二八公園舉辦「洋流祭」，邀請獨立樂團開唱，主打年輕選票。",
+          "threads_text": "🇹🇼 台灣相關 ——\n\n九合一選舉進入最後兩週衝刺，台北市長候選人上週末在雨中大拚場。\n\n國民黨候選人蔣萬安舉辦「安心大遊行」，藍營重要人士齊聚力挺，主辦單位稱超過8萬人參加。\n\n民進黨候選人沈伯洋則在二二八公園舉辦「洋流祭」，邀請獨立樂團開唱，主打年輕選票。",
+          "voice_text": "這則跟台灣有關。台北市長選戰，上週末在雨中大拚場。九合一選舉只剩最後兩週。國民黨候選人蔣萬安辦了「安心大遊行」，主辦單位說超過8萬人參加。民進黨候選人沈伯洋，則在二二八公園辦「洋流祭」，請獨立樂團開唱，主打年輕選票。",
+          "platform_outputs": {
+            "x": {
+              "max_chars": 280,
+              "posts": [
+                "🇹🇼 台灣相關 ——\n\n九合一選舉進入最後兩週衝刺，台北市長候選人上週末在雨中大拚場。國民黨候選人蔣萬安舉辦「安心大遊行」，藍營重要人士齊聚力挺，主辦單位稱超過8萬人參加。民進黨候選人沈伯洋則在二二八公園舉辦「洋流祭」，邀請獨立樂團開唱，主打年輕選票。"
+              ]
+            },
+            "threads": {
+              "max_chars": 500,
+              "posts": [
+                "🇹🇼 台灣相關 ——\n\n九合一選舉進入最後兩週衝刺，台北市長候選人上週末在雨中大拚場。\n\n國民黨候選人蔣萬安舉辦「安心大遊行」，藍營重要人士齊聚力挺，主辦單位稱超過8萬人參加。\n\n民進黨候選人沈伯洋則在二二八公園舉辦「洋流祭」，邀請獨立樂團開唱，主打年輕選票。"
+              ]
+            },
+            "voice": {
+              "text": "這則跟台灣有關。台北市長選戰，上週末在雨中大拚場。九合一選舉只剩最後兩週。國民黨候選人蔣萬安辦了「安心大遊行」，主辦單位說超過8萬人參加。民進黨候選人沈伯洋，則在二二八公園辦「洋流祭」，請獨立樂團開唱，主打年輕選票。"
+            }
+          },
+          "sources": [
+            {
+              "source_id": "pts_news",
+              "name": "公視",
+              "publisher": "公視",
+              "summary": "九合一選舉進入最後兩週衝刺，台北市長選戰週末上演藍綠雨中大拚場，國民黨候選人蔣萬安舉辦「安心大遊行」，藍營大咖齊聚力挺，主辦單位喊破8萬人，民進黨候選人沈伯洋則在二二八公園舉辦「洋流祭」，邀請獨立樂團開唱，搶攻年輕選票。",
+              "title": "北市選舉拚場沈伯洋辦洋流祭 蔣萬安發起安心大遊行",
+              "url": "https://news.pts.org.tw/article/835782",
+              "published_at": "2026-11-15T12:00:10+08:00"
+            }
+          ],
+          "source_count": 1,
+          "confidence": "medium",
+          "claim_trace": [
+            {
+              "claim": "台北市長候選人蔣萬安上週末舉辦「安心大遊行」，主辦單位稱超過8萬人參加",
+              "source_id": "pts_news",
+              "source_title": "北市選舉拚場沈伯洋辦洋流祭 蔣萬安發起安心大遊行",
+              "source_url": "https://news.pts.org.tw/article/835782",
+              "support_type": "direct"
+            },
+            {
+              "claim": "台北市長候選人沈伯洋同一週末在二二八公園舉辦「洋流祭」，邀請獨立樂團演出主打年輕選票",
+              "source_id": "pts_news",
+              "source_title": "北市選舉拚場沈伯洋辦洋流祭 蔣萬安發起安心大遊行",
+              "source_url": "https://news.pts.org.tw/article/835782",
+              "support_type": "direct"
+            }
+          ],
+          "tw_highlight": true,
+          "selection_score": 15,
+          "tw_highlight_reason": "Mentions 台北 in context of 選舉.",
+          "single_source_warning": true,
+          "opinion_level": "none",
+          "selection_reason": "source_tier_1"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_feeds_checked": 27,
+    "total_feeds_failed": 0,
+    "total_feeds_failed_remote_blocked": 0,
+    "total_articles_fetched": 229,
+    "total_articles_after_filter": 219,
+    "total_events_merged": 154,
+    "total_events_selected": 16,
+    "tw_highlights_count": 2
+  },
+  "dropped_events": [
+    {
+      "event_id": "daily_20261116_evt_018",
+      "headline": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_091",
+      "headline": "Yemeni government force retreats from strait in major setback in war against Houthis - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_131",
+      "headline": "Yemen's Houthis say they launched ballistic missiles towards Riyadh airport, financial centre - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_138",
+      "headline": "Restive pro-Russian Moldovan region holds elections - Reuters",
+      "selection_score": 40,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_101",
+      "headline": "Flames engulf Syrian refugee camp in eastern Lebanon",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_108",
+      "headline": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_151",
+      "headline": "Who can force Israel to implement Gaza ceasefire deal?",
+      "selection_score": 33,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_007",
+      "headline": "After midterm sweep, Democrats split over Trump, cost-cutting agenda - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_010",
+      "headline": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_011",
+      "headline": "Senior Hamas commander killed in Israeli strike in Gaza - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_012",
+      "headline": "UK to expand jobs guarantee scheme for young people - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_013",
+      "headline": "Iran's navy says three tankers on fire after hitting mines in Hormuz - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_014",
+      "headline": "Judo champion shakes up French  presidential race with surprise candidacy",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_015",
+      "headline": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_020",
+      "headline": "COP31以赤蠵龜當吉祥物 示警地中海暖化籲正視海洋危機",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_023",
+      "headline": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_024",
+      "headline": "Philippines, Australia sign defence pact with eye on China - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_025",
+      "headline": "Guatemala decrees state of emergency in two departments after lawmaker killed in attack - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_026",
+      "headline": "國道通行費凍漲13年 高公局研擬調漲估年底提報",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_027",
+      "headline": "Rift deepens between the Philippines, China over South China Sea - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_028",
+      "headline": "雲林居民抗議設養雞場未獲通知 縣府稱經2階審查、擬居中協調",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_029",
+      "headline": "SpaceX星艦完成22小時軌道飛行 機械手臂成功夾住回收再寫歷史",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_030",
+      "headline": "黃仁勳請辭效應 專家分析對台AI供應鏈影響有限",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_031",
+      "headline": "嘉義連棟鐵皮工廠大火 消防出動機器人灌救幸無傷亡",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_032",
+      "headline": "下週二短暫回暖、週三鋒面報到 北台灣低溫下探15℃",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_033",
+      "headline": "蘇巧慧造勢撞斷門牙 順勢宣傳假牙政見",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_034",
+      "headline": "遭綠議員控東發號用餐未付款 蔣萬安提告指夜市自治會已澄清",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_038",
+      "headline": "ASEAN keeps Myanmar restrictions but opens path to political return - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_039",
+      "headline": "Hindalco's Novelis to sell two China units for $265 million - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_040",
+      "headline": "Cape Verde votes for president with emigration in focus - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_042",
+      "headline": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_043",
+      "headline": "Top scorer on South Korean tax exam confesses to cheating with AI - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_044",
+      "headline": "川普為翻新高球場要暫關華府市區公園　遭法官阻止",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_045",
+      "headline": "美軍F-15EX戰機抵沖繩　首度常駐於美國之外",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_046",
+      "headline": "伊朗西部巴士翻覆　釀12死16傷",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_047",
+      "headline": "台灣ACC史瓦帝尼15年院慶  展現數位教育智慧醫療成果",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_048",
+      "headline": "一週大事／黃仁勳請辭輝達執行長、首場「廢除非核家園」公投意見發表會（2026.11.9-11.15）",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_049",
+      "headline": "路透社公布黃仁勳與黃樂舊照　2024年台北電腦展親密互動",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_050",
+      "headline": "Megaspeed：黃樂已於去年8月離職　現未擔任任何職務",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_051",
+      "headline": "印巴2025年衝突後　巴基斯坦代表首度獲邀赴印度",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_052",
+      "headline": "共同社民調：逾6成日本民眾認為消費稅減稅效果有限",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_062",
+      "headline": "Turkey's Simsek says to meet MSCI, investors on market concerns, reforms in December - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_063",
+      "headline": "Rugby league-Australia dominate New Zealand 32-12 to win World Cup for 13th time - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_069",
+      "headline": "美國柴油平均價格跌破每加侖6美元　創2個月來新低",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_071",
+      "headline": "台南巴克禮紀念公園溪流冒泡沫 環保局初判為民生洗滌廢水排入",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_072",
+      "headline": "交通部預告修法 擬2032年起新車須裝防暴衝系統",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_073",
+      "headline": "高雄警攔查違規車遭拒檢逃逸 逮車上4人並篩出駕駛毒駕",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_074",
+      "headline": "美調查飛行系統故障原因 運輸部稱更新設備時出現異常",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_075",
+      "headline": "中華電信發送異常帳單通知 官方致歉指系統作業有誤",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_076",
+      "headline": "境外粉專刊登將官故事吸引留言 專家籲強化保密教育防共軍滲透",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_077",
+      "headline": "年底九合一大選結果 恐牽動2028總統大選接班布局",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_078",
+      "headline": "王惠美首度替魏平政站台輔選 綠候選人陳素月稱謹慎應對",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_079",
+      "headline": "沈伯洋、蔣萬安同場活動相遇 雙方握手致意",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_082",
+      "headline": "The unexpected power of fleeting friendships",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_083",
+      "headline": "菲律賓未能完成南海準則談判　交棒新加坡續推進",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_086",
+      "headline": "埃及首款本地組裝電動車正式投產　充電設施不足待改善",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_087",
+      "headline": "「不良一族尋愛記2」網紅彩朱被捕　涉無照經營酒店式酒吧",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_088",
+      "headline": "The 14 best men’s boots for winter, from chelseas and lace-ups to wellies",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_089",
+      "headline": "法國公務體系調薪增逾360億元支出　未能阻止大罷工",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_090",
+      "headline": "美援1.5億元助秘魯規劃港口建設　與中資控制錢凱港競爭",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_092",
+      "headline": "Gulf bourses slide as Hormuz tensions and houthi strikes rattle traders - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_094",
+      "headline": "ASEAN, China fail to conclude South China Sea code of conduct - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_095",
+      "headline": "Iran targets US military base in Bahrain with drone attack",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_096",
+      "headline": "CNN：曾被視為川普接班人　美副總統范斯考慮不選2028",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_097",
+      "headline": "Meet you down the shops: Powerhouse Parramatta’s The Mall exhibition – in pictures",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_098",
+      "headline": "首爾南大門市場「絲巾大叔」爆紅　勸顧客別買反吸引人潮",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_103",
+      "headline": "How telecoms upgrade work sparked US flight chaos",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_109",
+      "headline": "Ocean Colour Scene review – no other band of their era can do it like this",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_111",
+      "headline": "美國年輕男選民成關鍵搖擺族群　兩黨加緊競爭搶攻",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_112",
+      "headline": "俄國安會傳解除禁殺令　允暗殺澤倫斯基等烏克蘭高層",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_113",
+      "headline": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_114",
+      "headline": "Tom Gauld on business and self-improvement books licensed by the JRR Tolkien estate – cartoon",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_117",
+      "headline": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_118",
+      "headline": "Battle for young male voters intensifies after US midterm rebuke of Republicans - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_119",
+      "headline": "Bessent says Nvidia must 'go outside the company' to find new CEO - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_121",
+      "headline": "美財長貝森特：輝達須「從公司外部」尋找新執行長",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_124",
+      "headline": "US air travel disruptions continue into third day - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_130",
+      "headline": "Art psychotherapists are already regulated | Letters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_133",
+      "headline": "England have injured trio back for All Blacks clash - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_137",
+      "headline": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_140",
+      "headline": "New Maori generation seeks to reshape New Zealand's political landscape - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_141",
+      "headline": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_142",
+      "headline": "Ronaldinho makes comeback in Ravenna win",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_143",
+      "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_144",
+      "headline": "Swedish opposition leader Andersson wins crucial backing to form government - Reuters",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_145",
+      "headline": "美財長10天最後通牒　促輝達說明是否縱容最先進晶片走私中國",
+      "selection_score": 15,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_004",
+      "headline": "When a Master Magician Meets a Bumbling Student ...",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_005",
+      "headline": "Olivier Mourgue Has Died. His Chairs Starred in ‘2001: A Space Odyssey.’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_009",
+      "headline": "Honey review – a hugely entertaining Killing Eve prequel that’s packed with naughty jokes",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_019",
+      "headline": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_037",
+      "headline": "TV tonight: a tough look inside Crowborough asylum camp",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_055",
+      "headline": "Literary Agents Have Something New to Sell: Themselves",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_056",
+      "headline": "Cecily Strong and Corey Stoll’s Dinner Date, and More Theater to Stream",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_057",
+      "headline": "‘No one wants us any more’: how Hollywood turned its back on trans actors",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_058",
+      "headline": "Book Review: ‘Stations,’ by Louise Kennedy",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_059",
+      "headline": "How Adam Driver, Scarlett Johansson and Miles Teller Built a Family in ‘Paper Tiger’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_060",
+      "headline": "At the Alta Center, Chicano Art and Activism Walk Hand in Hand",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_080",
+      "headline": "AI DJs Completely Kill My Groove",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_085",
+      "headline": "Tamsin Greig is sensational in a Cranford where comedy and pain are in perfect balance",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_099",
+      "headline": "Spark review – Glyndebourne Youth Opera light up a terrific new show of monsters and magic",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_100",
+      "headline": "Fascism built the AI bubble. What will burst it?",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_105",
+      "headline": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_107",
+      "headline": "20 years of Al Jazeera English: Our story is still being written",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_110",
+      "headline": "70 bodies recovered from Gaza rubble, thousands still missing",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_115",
+      "headline": "British tourist smashes Jesus statue outside Vilnius church",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_120",
+      "headline": "Thousands rally in Czech Republic against state media funding changes",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_122",
+      "headline": "Spain vs England live: UEFA Nations League",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_123",
+      "headline": "Somalia: We would not have recovered without the international community",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_125",
+      "headline": "The hidden costs of the US AI boom",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_126",
+      "headline": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_127",
+      "headline": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_128",
+      "headline": "A New Festival Embraces the Possibilities of Disability-Centered Opera",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_132",
+      "headline": "Christian priest says US denied him a visa for being Palestinian",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_134",
+      "headline": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_139",
+      "headline": "Israeli drone filmed flying low outside homes in southern Lebanon",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_146",
+      "headline": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_148",
+      "headline": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_150",
+      "headline": "Richard Sterban, the Bass Singer for the Oak Ridge Boys, Dies at 83",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_152",
+      "headline": "Billy Evans Says He’d Do It All Over Again",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_153",
+      "headline": "Palestinians reclaim Gaza’s shores with a swim for hope",
+      "selection_score": 8,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_001",
+      "headline": "Arudeko transforms discarded wool into paper-like material",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_006",
+      "headline": "HUSTLR Pickleball & Social Club / CYS Architect Sdn Bhd",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_017",
+      "headline": "Wangshan Qingshui Water Treatment Plant / POA Architects",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_035",
+      "headline": "Kohler's gut-health tracker clips onto the toilet bowl",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_036",
+      "headline": "OkiDoki Matcha Bar / Dobrochna Rajcic",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_041",
+      "headline": "Against Program: The Productive Ambiguity of Contemporary Architecture",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_053",
+      "headline": "Heathside House / Manea Kella",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_054",
+      "headline": "Mecanoo transforms former gold vault into \"city’s living room\" in renovation of De Nederlandsche Bank in Amsterdam",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_061",
+      "headline": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_065",
+      "headline": "Reims 502 uses pink palette for \"non-referential\" commercial building in Mexico",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_067",
+      "headline": "Apartment NDRX / Studio Gypsandconcrete",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_104",
+      "headline": "Agnews K12 Campus / LPA",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_129",
+      "headline": "Tant A Temps Design \"restores the visual characteristics of Tang architecture\" in Chinese cafe",
+      "selection_score": -12,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_149",
+      "headline": "Pope Leo crossing Peru for visits to Inca city, Amazon gateway - Reuters",
+      "selection_score": -30,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_016",
+      "headline": "Where was Nvidia’s security team?",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_106",
+      "headline": "Record number of migrants arrive in Spain’s Canary Islands",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_154",
+      "headline": "‘S.N.L.’ Brings Back Bowen Yang as Jensen Huang",
+      "selection_score": -37,
+      "drop_reason": "beat_limit_reached"
+    },
+    {
+      "event_id": "daily_20261116_evt_147",
+      "headline": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports - Reuters",
+      "selection_score": -70,
+      "drop_reason": "beat_limit_reached"
+    }
+  ]
+}
